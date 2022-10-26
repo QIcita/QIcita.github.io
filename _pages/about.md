@@ -51,7 +51,7 @@ redirect_from:
 
 # 🏃 实践经历
 <table class="imgtable"><tr><td>
-![中国科学技术大学先进技术研究院](img src=" ./images/iai.jpg"  width="80px" )&nbsp;</td>
+![中国科学技术大学先进技术研究院](./images/iai.jpg  width="80px" )&nbsp;</td>
 <td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(准国家级实验室)普适心理计算实验室</a> </h3>
 <ul>
 <li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。<br /></p>

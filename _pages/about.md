@@ -47,7 +47,18 @@ redirect_from:
 - 2022第6届集成电路创新创业大赛 校赛二等奖
 - 2022电子设计竞赛 校赛二等奖
 - 2022创新创业服务外包大赛 校赛三等奖
+
+
 # 🏃 实践经历
-- 
+- <table class="imgtable"><tr><td>
+<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="./images/微信图片_20220930133044.jpg" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
+<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|实习(2022.9 ~ now)</h3>
+<ul>
+<li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>
+</li>
+</ul> 
+ </td></tr></table>
+
+
 # 👨‍🔬 学生工作
 - 

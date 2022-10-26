@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "崔丰麒（fengqi-cui）"
+  name             : "崔丰麒<br>（fengqi-cui）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "合肥工业大学（HFUT）"
+  bio              : "合肥工业大学<br>（HEFEI UNIVERSITY OF TECHNOLOGY/HFUT）"
   location         : "合肥, 安徽"
   employer         :
   pubmed           : 

@@ -51,7 +51,7 @@ redirect_from:
 
 # 🏃 实践经历
 <div align="left">
-<img src=./images/iai.jpg />
+<img src=./images/iai.jpg  width=40% />
 </div>
 <td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(准国家级实验室)普适心理计算实验室</a> </h3>
 <ul>

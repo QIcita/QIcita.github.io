@@ -29,7 +29,7 @@ redirect_from:
 
 
 # 🔬 科研情况 
-我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队助研、在中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)实习,我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.我目前的具体研究领域为：多模态情绪协同感知与交互干预技术在交通安全、驾驶行为、智能座舱等车载场景下的应用.截至目前,我受理专利3项,主持国家级大学生创新创业训练计划项目一项.    
+&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队助研、在中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)实习,我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.我目前的具体研究领域为：多模态情绪协同感知与交互干预技术在交通安全、驾驶行为、智能座舱等车载场景下的应用.截至目前,我受理专利3项,主持国家级大学生创新创业训练计划项目一项.    
 
 - *2022.04* 发明专利受理：基于并行复用的卷积神经网络的硬件加速器及并行复用方法.  
 - *2022.04* 发明专利受理：一种基于操作数裁剪的高性能近似乘法器及其计算方法.

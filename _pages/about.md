@@ -40,9 +40,6 @@ redirect_from:
 - *2022.5* 国家级大创项目立项——基于多模态情感计算与FPGA硬件加速的车载心理干预系统. 
 针对因“路怒症”等危险驾驶状态引发的道路交通事故起数呈逐年上升，中国司机心理障碍的发生率高等社会问题；与完善智能汽车生态建设体系，构建具有良好人机交互功能的情感智能座舱等企业需求，团队通过整合中国科学技术大学先进技术研究院普适心理计算团队、合肥工业大学情感计算与先进智能机器安徽省重点实验室软硬件相关的优势资源，开发出了一套结合了边缘端硬件加速与多模态情感计算的车载嵌入式情绪识别与心理干预系统，可实现通过无接触式采集驾驶员的微表情、心电等多模态信号进行实时的情绪分类，并及时对危险心理状态进行干预，为驾驶员的行车安全与心理健康保驾护航.
 
-
- 
-- 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 

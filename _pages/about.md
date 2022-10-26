@@ -51,7 +51,7 @@ redirect_from:
 
 # 🏃 实践经历
 
-![合肥综合性国家科学中心人工智能研究院](./images/iai.jpg#pic_left)
+![合肥综合性国家科学中心人工智能研究院](./images/iai.jpg#pic_left 400x300)
 <h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(准国家级实验室)普适心理计算实验室</a> </h3>
 &emsp; &emsp;主要工作：参与普适心理计算相关研究与嵌入式应用开发。
 

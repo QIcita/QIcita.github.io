@@ -59,9 +59,10 @@ redirect_from:
 
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="/_pages/images/iai.jpg" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="90px" />
 </a></td>
- <td align="right"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html"> 合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a></h3></td>
+ <td align="right"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html"> 合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a></h3>
 <ul>
 &emsp; <li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。<br /></p>
+ </td>
 </li>
 </ul> 
  </td></tr></table>

@@ -55,18 +55,14 @@ redirect_from:
 # 🏃 实践经历
 
 <table class="imgtable"><tr><td>
-<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="picture/微信图片_20220930133044.jpg" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
-<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|实习(2022.9 ~ now)</h3>
+<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="./images/iai.jpg" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
+<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|</h3>
 <ul>
-<li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>
+<li><p>&emsp; &emsp;主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>
 </li>
 </ul> 
  </td></tr></table>
 
-<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="./images/iai.jpg" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
-<h3> <td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> </h3>
-
-&emsp; &emsp;主要工作：参与普适心理计算相关研究与嵌入式应用开发。
 
  
   

@@ -37,7 +37,8 @@ redirect_from:
 
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
-*2022.10 - now*<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(中国科学技术大学先进技术研究院)</a></h3> 
+<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(中国科学技术大学先进技术研究院)</a></h3> 
+<h3>2022.10 - now  基础研究部—-汪萌团队</h3> 
 <ul>
 <li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>
 </li>

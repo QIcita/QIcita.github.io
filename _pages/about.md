@@ -34,6 +34,7 @@ redirect_from:
 
 
 #  实践经历
+
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="images/iai.png" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
 <td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|实习(2022.9 ~ now)</h3>

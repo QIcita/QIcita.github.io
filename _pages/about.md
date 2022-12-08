@@ -33,9 +33,18 @@ redirect_from:
 - *2022.06* 发明专利受理：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 
 
-
 #  实践经历
-- *2022.10 - now*，合肥综合性国家科学中心人工智能研究院 普适心理计算实验室
+<table class="imgtable"><tr><td>
+<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="images/iai.png" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
+<td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|实习(2022.9 ~ now)</h3>
+<ul>
+<li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>
+</li>
+</ul> 
+ </td></tr></table>
+
+
+
 
 # ✨ 部分荣誉
 - 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **国家级银奖**.**（排序:1）**

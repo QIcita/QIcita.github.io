@@ -33,7 +33,7 @@ redirect_from:
 - *2022.06* 发明专利受理：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 
 
-#  实践经历
+# 🚀 实践经历
 
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>

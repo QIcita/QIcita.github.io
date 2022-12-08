@@ -36,7 +36,7 @@ redirect_from:
 #  实践经历
 
 <table class="imgtable"><tr><td>
-<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="[images/iai.png](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true)" alt="中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）" width="80px" /></a>&nbsp;</td>
+<a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
 <td align="left"><h3> <a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院普适心理计算实验室</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|实习(2022.9 ~ now)</h3>
 <ul>
 <li><p>主要工作：参与普适心理计算相关研究与嵌入式应用开发。</a> <br /></p>

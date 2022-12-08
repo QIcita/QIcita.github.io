@@ -37,8 +37,9 @@ redirect_from:
 
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
-<nobr><td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(中国科学技术大学先进技术研究院)</a></h2><h3>2022.10 - now </h3></nobr>
-<h4>&nbsp;&nbsp;&nbsp;基础研究部—-汪萌团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
+<td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(中国科学技术大学先进技术研究院)</a></h2>
+<h3>2022.10 - now &nbsp;&nbsp;&nbsp;Research Assistant</h3>
+<h4>基础研究部—-汪萌团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
 <h5>研究方向：普适心理计算与交互干预技术研究及应用、智慧交通的人因画像。</h5>
  </td></tr></table>
 

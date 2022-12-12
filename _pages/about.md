@@ -24,7 +24,7 @@ redirect_from:
 
 
 # 🔬 Research
-&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队助研、在中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)实习,我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.
+&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队助研、在中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)实习,我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.截至目前，参与受理专利三项，主持国家级大学生创新创业训练计划项目一项.
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(中国科学技术大学先进技术研究院)</a></h2>
@@ -54,12 +54,13 @@ redirect_from:
 - 2022电子设计竞赛 校赛二等奖
 - 2021合肥工业大学 综合成绩三等奖学金
 - 2021、2022合肥工业大学 科技活动单项奖学金
+- 2022百度松果人才培养菁英班 优秀班长
 - 合肥工业大学 校级优秀共青团员
 - 合肥工业大学 十佳校级学生组织负责人
 
 
-# 👨‍🔬 学生工作
-我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.png)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.
+# 👨‍🔬 Activities
+&emsp; &emsp;我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.png)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.
 - *2021.07 - 2022.07*，合肥工业大学电子科技协会，会长
 - *2022.04 - 2022.11*，合肥工业大学百度松果菁英班，班长
 - *2022.07 - now*，合肥工业大学百度飞桨领航团，团长

@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&emsp; &emsp; 崔丰麒,男,2001年11月生,[合肥工业大学](https://www.hfut.edu.cn/)微电子科学与工程专业大三在读.<br>&emsp; &emsp; 我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队&中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做本科生Research Assistant,师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.<br>
+&emsp; &emsp; 崔丰麒,男,2001年11月生,[合肥工业大学](https://www.hfut.edu.cn/)微电子科学与工程专业大三在读.我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队&中国科学技术大学先进技术研究院（合肥综合性国家科学中心人工智能研究院）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做本科生Research Assistant,师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用 等.<br>
 
 # 📖 Educations
 - *2020.06 - now*, 合肥工业大学,微电子学院,微电子科学与工程专业，本科三年级在读.

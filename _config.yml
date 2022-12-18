@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "fengqi"
-description              : "合肥综合性国家科学中心人工智能研究院普适心理计算实验室<br>
+description              : "合肥综合性国家科学中心人工智能研究院<br>
                             情感计算与先进智能机器安徽省重点实验室<br>
                             情感计算、普适心理计算 "
 repository               : "qicita/qicita.github.io"
@@ -25,7 +25,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "&emsp;&emsp;崔丰麒<br>（fengqi-cui）"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "&emsp;&emsp;合肥工业大学<br>（HEFEI UNIVERSITY OF TECHNOLOGY）"
+  bio              : "&emsp;&emsp;合肥工业大学<br>（HEFEI UNIVERSITY OF &emsp;&emsp;TECHNOLOGY）"
   location         : "合肥, 安徽"
   employer         :
   pubmed           : 

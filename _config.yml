@@ -7,8 +7,9 @@
 
 # Site Settings
 title                    : "fengqi"
-description              : "情感计算与先进智能机器安徽省重点实验室&合肥综合性国家科学中心人工智能研究院普适心理计算实验室<br>
-                            情感计算、普适心理计算、计算机视觉 "
+description              : "合肥综合性国家科学中心人工智能研究院普适心理计算实验室<br>
+                            情感计算与先进智能机器安徽省重点实验室<br>
+                            情感计算、普适心理计算 "
 repository               : "qicita/qicita.github.io"
 google_scholar_stats_use_cdn : true
 

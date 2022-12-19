@@ -35,7 +35,7 @@ redirect_from:
 
 - *2022.04* 发明专利实审：基于并行复用的卷积神经网络的硬件加速器及并行复用方法.  
 - *2022.04* 发明专利实审：一种基于操作数裁剪的高性能近似乘法器及其计算方法.
-- *2022.05* 国家级大创项目立项：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.**（排序:1）** 
+- *2022.05* 国家级大创项目：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.
 - *2022.06* 发明专利实审：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 - *2022.11* "Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network" IEEE Transactions on Circuits and Systems I: Regular Papers（TCAS-I）,2022(Accepted)
 

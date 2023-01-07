@@ -73,6 +73,6 @@ redirect_from:
 - *2023.01 - now*, OpenI之旅合肥工业大学，旅长
 
 # 💬 Report
-- *2022.10*[合肥工业大学微电子学院](http://news.hfut.edu.cn/info/1017/51049.htm)
-- *2022.11*[新一代人工智能开源开放平台OpenI启智](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)
-- *2023.01*[百度飞桨(PaddlePaddle)](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+- *2022.10*，[合肥工业大学微电子学院](http://news.hfut.edu.cn/info/1017/51049.htm)
+- *2022.11*，[新一代人工智能开源开放平台OpenI启智](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)
+- *2023.01*，[百度飞桨(PaddlePaddle)](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)

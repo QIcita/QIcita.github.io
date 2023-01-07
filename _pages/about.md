@@ -73,6 +73,7 @@ redirect_from:
 - *2023.01 - now*, OpenI（启智社区）合肥工业大学启梦之旅，旅长
 
 # 💬 Report
+&emsp; &emsp;受邀参加深度学习技术与工程应用国家实验室与百度飞桨联合举办的[ Wave Summit2022+ 峰会](./images/wavesummit.png)展览,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道
 - *2022.10*，[合肥工业大学微电子学院](http://news.hfut.edu.cn/info/1017/51049.htm)
 - *2022.11*，[合肥工业大学](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)
 - *2022.11*，[新一代人工智能开源开放平台OpenI启智](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)

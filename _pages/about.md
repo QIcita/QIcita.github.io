@@ -77,5 +77,5 @@ redirect_from:
 - *2022.10*，【合肥工业大学】[微电子学院举办启智润芯科创竞赛系列讲座](http://news.hfut.edu.cn/info/1017/51049.htm)
 - *2022.11*，【合肥工业大学】[首次突破金奖！合工大师生获奖再创新高](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)
 - *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)
-- *2022.12*, 【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
+- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
 - *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)

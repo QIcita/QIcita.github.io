@@ -68,9 +68,10 @@ redirect_from:
 # 👨‍🔬 Activities
 &emsp; &emsp;我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.png)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.
 - *2021.07 - 2022.07*，合肥工业大学电子科技协会，会长
-- *2022.04 - 2022.11*，合肥工业大学百度松果菁英班，班长
-- *2022.07 - now*，合肥工业大学百度飞桨领航团，团长
-- *2023.01 - now*, OpenI（启智社区）合肥工业大学启梦之旅，旅长
+- *2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长
+- *2022.07 - now*，    合肥工业大学百度飞桨领航团，团长
+- *2022.10 - now*，    新一代人工智能产业联盟AITISA&MAC-Lab产学研共建，学生负责人
+- *2023.01 - now*,     OpenI（启智社区）合肥工业大学启梦之旅，旅长
 
 # 💬 Report
 &emsp; &emsp;受邀参加深度学习技术与工程应用国家实验室与百度飞桨联合举办的[ Wave Summit2022+ 峰会](./images/wavesummit.png)展览,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道

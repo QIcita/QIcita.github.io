@@ -67,7 +67,7 @@ redirect_from:
 
 # 👨‍🔬 Activities
 &emsp; &emsp;我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.png)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.<br>
-*2021.07 - 2022.07*，合肥工业大学电子科技协会，会长
+*2021.07 - 2022.07，合肥工业大学电子科技协会，会长*
 - 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动。在任期间组织从零建设了B站公众号[HFUT_ETA](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)，目前累计粉丝1200+，教学视频累计播放量20000+。获得年度[十佳优秀社长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)荣誉。
 - *2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长
 - *2022.07 - now*，    合肥工业大学百度飞桨领航团，团长

@@ -41,7 +41,11 @@ redirect_from:
 - *2022.06* 发明专利实审：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 - *2022.11* "Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network" IEEE Transactions on Circuits and Systems I: Regular Papers（TCAS-I）,2022(Accepted)
 
-
+# 📘 Honors
+- 百度飞桨（PaddlePaddle） 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）
+- 百度松果人才培养菁英班    2022年度优秀班长
+- 合肥工业大学             校级优秀共青团员
+- 合肥工业大学             十佳校级学生组织负责人
 
 # ✨ Awards
 &emsp; &emsp; 我作为法人成立了“晓声智能科技有限公司”,专注于情感智能座舱领域技术的研究与应用,目前项目获得“第八届中国国际互联网+创新创业大赛”国家级银奖、纳入合肥市种子项目基金库、获得合肥市科创委5万余元创业基金并于合肥工业大学智能制造技术研究院进行企业孵化.<br>部分获奖如下：
@@ -57,12 +61,10 @@ redirect_from:
 - 【云御科技】 2021安徽省大学生服务外包创新创业大赛 校赛三等奖
 - 2022第6届集成电路创新创业大赛 校赛二等奖
 - 2022电子设计竞赛 校赛二等奖
-- 2022百度松果人才培养菁英班 优秀班长
 - 2021合肥工业大学 综合成绩三等奖学金
 - 2021合肥工业大学 科技活动单项奖学金
 - 2022合肥工业大学 科技活动单项奖学金
-- 2022合肥工业大学 校级优秀共青团员
-- 2022合肥工业大学 十佳校级学生组织负责人
+
 
 
 # 👨‍🔬 Activities

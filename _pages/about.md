@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 &emsp; &emsp; 崔丰麒,男,2001年11月生,[合肥工业大学](https://www.hfut.edu.cn/)微电子科学与工程专业大三在读.我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队&中国科学技术大学先进技术研究院合肥综合性国家科学中心人工智能研究院[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做本科生Research Assistant,师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、多任务多模态情感计算、微表情识别、边缘计算与嵌入式推理部属 等.<br>
-&emsp; &emsp;截至目前,我以团队第一主持人带队获得第八届中国国际“互联网+”大学生创新创业大赛国家级银奖一项，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.
+&emsp; &emsp;截至目前,我获得了百度官方的飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）认证，以团队第一主持人带队获得第八届中国国际“互联网+”大学生创新创业大赛国家级银奖一项，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.
 受邀参加深度学习技术与工程应用国家实验室与百度飞桨联合举办的[ Wave Summit2022+ 峰会](./images/wavesummit.png)展览,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道
 
 # 📖 Educations
@@ -70,7 +70,7 @@ redirect_from:
 # 👨‍🔬 Activities
 &emsp; &emsp;我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.png)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.<br><br>
 *2021.07 - 2022.07*，合肥工业大学电子科技协会，会长
-- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号[HFUT_ETA](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)，目前累计粉丝1200+，教学视频累计播放量20000+。获得年度[十佳优秀社长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)荣誉.
+- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号[HFUT_ETA](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)，目前累计粉丝1200+，教学视频累计播放量20000+.获得年度[十佳优秀社长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)荣誉.
 
 *2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长
 - 组织建设了[合肥工业大学-百度松果菁英班](./images/baidu.png)，获年度[优秀班长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E4%BC%98%E7%A7%80%E7%8F%AD%E9%95%BF.png)荣誉.

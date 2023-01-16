@@ -93,11 +93,8 @@ redirect_from:
 
 # 💎 Photos
 
-<center>
-  
-<figure>
-<img src="./images/cat1.png" />
-<img src="./images/cat2.png" />
-<img src="./images/cat3.png" />
-</figure>
+<center class="half">
+    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat1.png" width="300"/>
+    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat2.png" width="300"/>
+    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat3.png" width="300"/>
 </center>

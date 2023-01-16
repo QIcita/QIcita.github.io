@@ -94,7 +94,5 @@ redirect_from:
 # 💎 Photos
 
 <center class="half">
-    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat1.png" width="300"/>
-    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat2.png" width="300"/>
-    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat3.png" width="300"/>
+    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat1.png" width="300"/><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat2.png" width="300"/><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat3.png" width="300"/>
 </center>

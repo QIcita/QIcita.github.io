@@ -91,8 +91,3 @@ redirect_from:
 - *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
-# 💎 Photos
-
-<center class="half">
-    <img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat1.png" width="200"/><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat2.png" width="200"/><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/cat3.png" width="200"/>
-</center>

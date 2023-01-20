@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&emsp; &emsp; 我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法工程师实习.我师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授,主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.<br>
+&emsp; &emsp; 我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法工程师（实习）.我师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授,主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.<br>
 &emsp; &emsp;截至目前,我获得了深度学习技术与应用国家工程研究中心&百度飞桨的飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）认证，以团队第一主持人带队获得第八届中国国际“互联网+”大学生创新创业大赛国家级银奖一项，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.
 受邀参加深度学习技术与应用国家工程研究中心举办的[ Wave Summit2022+ 峰会](./images/wavesummit.png)展览,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道.
 
@@ -26,7 +26,7 @@ redirect_from:
 
 
 # 🔬 Research
-&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室[MAC-Lab](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)团队助研、在中国科学技术大学先进技术研究院合肥综合性国家科学中心人工智能研究院[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)实习,我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.截至目前，参与受理专利三项，主持国家级大学生创新创业训练计划项目一项.
+&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法工程师（实习）.我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.截至目前，参与受理专利三项，主持国家级大学生创新创业训练计划项目一项.
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(安徽省人工智能实验室)</a></h2>

@@ -43,7 +43,7 @@ redirect_from:
 
 # 📘 Honors
 - 深度学习技术与应用国家工程研究中心&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）认证.
-- 百度 &emsp;松果人才培养菁英班2022年度优秀班长.
+- 百度公司&emsp;松果人才培养菁英班2022年度优秀班长.
 - 合肥工业大学&emsp; 校级优秀共青团员.
 - 合肥工业大学&emsp; 十佳校级学生组织负责人.
 

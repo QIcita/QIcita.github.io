@@ -42,7 +42,7 @@ redirect_from:
 - *2022.11* "Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network" IEEE Transactions on Circuits and Systems I: Regular Papers（TCAS-I）,2022(Accepted)
 
 # 📘 Honors
-- 百度飞桨（PaddlePaddle） 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）
+- 深度学习技术与应用国家工程研究中心&AITISA&飞桨（PaddlePaddle） 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）
 - 百度松果人才培养菁英班    2022年度优秀班长
 - 合肥工业大学             校级优秀共青团员
 - 合肥工业大学             十佳校级学生组织负责人

@@ -42,10 +42,10 @@ redirect_from:
 - *2022.11* "Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network" IEEE Transactions on Circuits and Systems I: Regular Papers（TCAS-I）,2022(Accepted)
 
 # 📘 Honors
-- 深度学习技术与应用国家工程研究中心  飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）认证.
-- 百度   松果人才培养菁英班2022年度优秀班长.
-- 合肥工业大学             校级优秀共青团员.
-- 合肥工业大学             十佳校级学生组织负责人.
+- 深度学习技术与应用国家工程研究中心&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）认证.
+- 百度 &emsp;松果人才培养菁英班2022年度优秀班长.
+- 合肥工业大学&emsp; 校级优秀共青团员.
+- 合肥工业大学&emsp; 十佳校级学生组织负责人.
 
 # ✨ Awards
 &emsp; &emsp; 我作为法人成立了“晓声智能科技有限公司”,专注于情感智能座舱领域技术的研究与应用,目前项目获得“第八届中国国际互联网+创新创业大赛”国家级银奖、纳入合肥市种子项目基金库、获得合肥市科创委5万余元创业基金并于合肥工业大学智能制造技术研究院进行企业孵化.<br>部分获奖如下：

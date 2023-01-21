@@ -90,10 +90,9 @@ redirect_from:
 - *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
 - *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+- 
+## Recent Visit
 
-<a href="https://clustrmaps.com/site/17p9b" title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=_x7tqyOr885brXGvZjrsKqXa4MFwSfmlCNrM9Pdv_q4&cl=ffffff" /></a>
-
-<br>
 <!-- hitwebcounter Code START -->
 The <a href="https://www.hitwebcounter.com" target="_blank">
 <img src="https://hitwebcounter.com/counter/counter.php?page=7218568&style=0006&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" > 

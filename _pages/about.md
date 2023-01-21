@@ -92,8 +92,12 @@ redirect_from:
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
 
+<p align="right">
+ 
 ### Recent Visit
 
 <!-- hitwebcounter Code START -->
 <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8155356&style=0006&nbdigits=1&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> visitor since 2023.1.21.    
+<img src="https://hitwebcounter.com/counter/counter.php?page=8155356&style=0006&nbdigits=1&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> visitor since 2023.1.21.  
+  
+</p>

@@ -94,6 +94,5 @@ redirect_from:
 ## Recent Visit
 
 <!-- hitwebcounter Code START -->
-The <a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7218568&style=0006&nbdigits=8&type=page&initCount=0" title="User Stats" Alt="PHP Hits Count"   border="0" > 
-</a> visitor since 2023.1.21.    
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8155356&style=0006&nbdigits=1&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a> visitor since 2023.1.21.    

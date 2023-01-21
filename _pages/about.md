@@ -17,21 +17,21 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&emsp; &emsp; 我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法研究员（实习）.我师从[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授,主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.<br>
-&emsp; &emsp;截至目前,我获得了深度学习技术与应用国家工程研究中心的飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）认证，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.
-&emsp; &emsp;我作为负责人的项目获得了第八届中国国际“互联网+”大学生创新创业大赛国家级银奖，纳入了合肥市种子基金项目库，受邀参加了[ Wave Summit2022+ ](./images/wavesummit.png)深度学习峰会展示,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道.
+&emsp; &emsp; 我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）普适心理计算实验室做算法研究员（实习）.我师从孙晓教授,主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.<br>
+&emsp; &emsp;截至目前,我获得了深度学习技术与应用国家工程研究中心的飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）认证，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.<br>
+&emsp; &emsp;我作为负责人的项目获得了第八届中国国际“互联网+”大学生创新创业大赛国家级银奖，纳入了合肥市种子基金项目库，受邀参加了Wave Summit2022+ 深度学习峰会展示,被新一代人工智能开源开放平台启智OpenI、百度飞桨等多个AI机构报道.
 
 # 📖 Educations
 - *2020.06 - now*, 合肥工业大学,微电子学院,微电子科学与工程专业，本科三年级在读.
 
 
 # 🔬 Research
-&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法工程师（实习）.我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.截至目前，参与受理专利三项，主持国家级大学生创新创业训练计划项目一项.
+&emsp; &emsp;我目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）[普适心理计算实验室](http://iai.ustc.edu.cn/iai/r271.html)做算法研究员（实习）.我们的团队总负责人为[汪萌](http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm)教授（国家杰青、IEEE Fellow、IAPR Fellow）,我的指导老师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授.我的主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.截至目前，参与受理专利三项，主持国家级大学生创新创业训练计划项目一项.
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(安徽省人工智能实验室)</a></h2>
 <h3>2022.10 - now &nbsp;&nbsp;&nbsp;Research Assistant</h3>
-<h4>基础研究部——<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>团队（<a href="http://iai.ustc.edu.cn/iai/r271.html">机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队</a>）</h4>
+<h4>基础研究部——汪萌团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
 <h5>研究方向：普适心理计算与交互干预技术研究及应用、智慧交通的人因画像。</h5>
  </td></tr></table>
 

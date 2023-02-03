@@ -83,21 +83,22 @@ redirect_from:
 *2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长 \| [\[链接1\]](http://campus.baidu.com/#/) \| [\[链接2\]](./images/baidu.png)\| [\[链接3\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E4%BC%98%E7%A7%80%E7%8F%AD%E9%95%BF.png)
 - 组织建设了合肥工业大学-百度松果菁英班，获年度优秀班长荣誉.
 
-*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长\| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接1\]](./images/linghangtuan.jpg)
+*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接1\]](./images/linghangtuan.jpg)
 - “从零到一”创建合肥工业大学飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
 
- *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长\| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+ *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长 \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
 
 
 # 💬 Report
-&emsp; &emsp;受邀参加深度学习技术与工程应用国家实验室与百度飞桨联合举办的[ Wave Summit2022+ 峰会](./images/wavesummit.png)展览,被[新一代人工智能开源开放平台启智OpenI](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)、[百度飞桨](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)等多个AI机构报道
-- *2022.10*，【合肥工业大学】[微电子学院举办启智润芯科创竞赛系列讲座](http://news.hfut.edu.cn/info/1017/51049.htm)
-- *2022.11*，【合肥工业大学】[首次突破金奖！合工大师生获奖再创新高](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)
-- *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)
-- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
-- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-- *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+
+- *2022.10*，【合肥工业大学】[微电子学院举办启智润芯科创竞赛系列讲座] \| [\[链接\]](http://news.hfut.edu.cn/info/1017/51049.htm)
+- *2022.11*，【合肥工业大学】[首次突破金奖！合工大师生获奖再创新高] \| [\[链接\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)
+- *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？] \| [\[链接\]](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)
+- *2022.11*，【深度学习技术与应用国家工程研究中心】[ Wave Summit2022+ 深度学习开发者峰会] \| [\[链接\]](./images/wavesummit.png)
+- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！] \| [\[链接\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
+- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[链接\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+- *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[链接\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
 
 

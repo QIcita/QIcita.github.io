@@ -49,14 +49,14 @@ redirect_from:
 
 
 # 📘 Honors
-- 深度学习技术与应用国家工程研究中心&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）认证.
+- 深度学习技术与应用国家工程研究中心&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html)\| [\[链接2\]](https://www.paddlepaddle.org.cn/ppde)
 - 百度公司&emsp;松果人才培养菁英班2022年度优秀班长.
 - 合肥工业大学&emsp; 校级优秀共青团员.
 - 合肥工业大学&emsp; 十佳校级学生组织负责人.
 
 # ✨ Awards
 &emsp; &emsp; 我作为法人成立了“晓声智能科技有限公司”,专注于情感智能座舱领域技术的研究与应用,目前项目获得“第八届中国国际互联网+创新创业大赛”国家级银奖、纳入合肥市种子项目基金库、获得合肥市科创委5万余元创业基金并于合肥工业大学智能制造技术研究院进行企业孵化.<br>部分获奖如下：
-- 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **银奖**.**（排序:1，国家级）** \| [\[点击\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)
+- 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **银奖**.**（排序:1，国家级）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - 【晓声科技】 2022大学生创新创业训练计划项目立项.**（排序:1，国家级）**
 - 【晓声科技】 2022第1届合肥工业大学“智能杯”创新创业大赛 **二等奖（5万元创业基金）**.**（排序:1，省部级/市级）**
 - 【晓声科技】 2022安徽省大学生服务外包创新创业大赛  **二等奖**.**（省部级/市级）**
@@ -75,17 +75,17 @@ redirect_from:
 
 
 # 👨‍🔬 Activities
-&emsp; &emsp;我作为[鹏城国家重点实验室新一代人工智能产业联盟（AITISA）启智(OpenI)](./images/pengcheng.png)、[百度飞桨](./images/linghangtuan.jpg)、[百度校园](./images/baidu.png)等多个机构的产学研学生负责人,积极推动国产开源生态建设,助力中国人工智能产业建设,同时我曾担任[合肥工业大学电子科技协会](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)会长,在任期间积极推动校内电子设计竞赛培训工作.<br><br>
-*2021.07 - 2022.07*，合肥工业大学电子科技协会，会长
-- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号[HFUT_ETA](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)，目前累计粉丝1200+，教学视频累计播放量20000+.获得年度[十佳优秀社长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)荣誉.
+<br>
+*2021.07 - 2022.07*，合肥工业大学电子科技协会，会长 \| [\[链接1\]](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0)\| [\[链接2\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)
+- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号“HFUT_ETA”，目前累计粉丝1200+，教学视频累计播放量20000+.获得年度十佳优秀社长荣誉.
 
-*2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长
-- 组织建设了[合肥工业大学-百度松果菁英班](./images/baidu.png)，获年度[优秀班长](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E4%BC%98%E7%A7%80%E7%8F%AD%E9%95%BF.png)荣誉.
+*2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长 \| [\[链接1\]](http://campus.baidu.com/#/) \| [\[链接2\]](./images/baidu.png)\| [\[链接3\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E4%BC%98%E7%A7%80%E7%8F%AD%E9%95%BF.png)
+- 组织建设了合肥工业大学-百度松果菁英班，获年度优秀班长荣誉.
 
-*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长
+*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长\| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接1\]](./images/linghangtuan.jpg)
 - “从零到一”创建合肥工业大学飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
 
- *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长
+ *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长\| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
 
 

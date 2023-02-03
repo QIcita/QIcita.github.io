@@ -86,7 +86,7 @@ redirect_from:
 *2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长 \| [\[链接1\]](http://campus.baidu.com/#/) \| [\[链接2\]](./images/baidu.png)\| [\[链接3\]](./images/优秀班长.png)
 - 组织建设了合肥工业大学-百度松果菁英班，获年度优秀班长荣誉.
 
-*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接1\]](./images/linghangtuan.jpg)
+*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接2\]](./images/linghangtuan.jpg)
 - “从零到一”创建合肥工业大学飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
 
  *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长 \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)

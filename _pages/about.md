@@ -49,13 +49,14 @@ redirect_from:
 
 
 # 📘 Honors
+
 - 深度学习技术与应用国家工程研究中心&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html)\| [\[链接2\]](https://www.paddlepaddle.org.cn/ppde)
 - 百度公司&emsp;松果人才培养菁英班2022年度优秀班长.
 - 合肥工业大学&emsp; 校级优秀共青团员.
 - 合肥工业大学&emsp; 十佳校级学生组织负责人.
 
 # ✨ Awards
-&emsp; &emsp; 我作为法人成立了“晓声智能科技有限公司”,专注于情感智能座舱领域技术的研究与应用,目前项目获得“第八届中国国际互联网+创新创业大赛”国家级银奖、纳入合肥市种子项目基金库、获得合肥市科创委5万余元创业基金并于合肥工业大学智能制造技术研究院进行企业孵化.<br>部分获奖如下：
+
 - 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **银奖**.**（排序:1，国家级）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - 【晓声科技】 2022大学生创新创业训练计划项目立项.**（排序:1，国家级）**
 - 【晓声科技】 2022第1届合肥工业大学“智能杯”创新创业大赛 **二等奖（5万元创业基金）**.**（排序:1，省部级/市级）**

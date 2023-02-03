@@ -76,7 +76,6 @@ redirect_from:
 
 # 👨‍🔬 Activities
 
-<br><br>
 
 *2021.07 - 2022.07*，合肥工业大学电子科技协会，会长  \| [\[链接1\]](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0) \| [\[链接2\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/%E5%8D%81%E4%BD%B3%E7%A4%BE%E9%95%BF.jpg)
 - 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号“HFUT_ETA”，目前累计粉丝1200+，教学视频累计播放量20000+.获得年度十佳优秀社长荣誉.

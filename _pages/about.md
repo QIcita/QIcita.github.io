@@ -101,8 +101,8 @@ redirect_from:
 - *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？] \| [\[链接1\]](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)\| [\[链接2\]](https://xie.infoq.cn/article/c015f8ee1289a01c7820fc60e)\| [\[链接3\]](https://mp.weixin.qq.com/s/nm2N7MVaOimuNF99f38rlQ)\| [\[链接4\]](https://www.ngui.cc/article/show-703180.html?action=onClick)\| [\[链接5\]](https://blog.csdn.net/weixin_51161651/article/details/128031801)
 - *2022.11*，【深度学习技术与应用国家工程研究中心】[ Wave Summit2022+ 深度学习开发者峰会] \| [\[链接\]](./images/wavesummit.png)
 - *2022.12*，【《合肥工业大学创新创业理论与实践》杂志】[《智能座舱中的情绪识别》] \| [\[链接\]](http://cxcyc.hfut.edu.cn/cxcyllysj1/wqml/2022nian.htm)
-- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！] \| [\[链接1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
-- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[链接\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！]  \| [\[链接\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
+- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[链接1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)\| [\[链接2\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[链接\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 
 

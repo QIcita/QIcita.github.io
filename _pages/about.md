@@ -105,7 +105,7 @@ redirect_from:
 - *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[链接1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)\| [\[链接2\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[链接\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
 - *2023.02*，【鹏城实验室&新一代人工智能产业技术创新战略联盟】[第四届启智开发者大会
-OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链接2\]](./images/openio.jpg)
+OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链接2\]](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzc0Nw==&mid=2247496166&idx=1&sn=1510368a2c53f706b8835f40a4abeb29&chksm=cea8657af9dfec6c1d2a062486f5f07c5e906fa24106b96f2892d17cddd55844f133fcc47098&mpshare=1&scene=23&srcid=02209s5HImY6i1mMaGgulgQF&sharer_sharetime=1676888788220&sharer_shareid=8c8d6f14455d4f095b9d92a00da96f61#rd)
 
 
 ### Recent Visit

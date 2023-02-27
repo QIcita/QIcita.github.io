@@ -78,12 +78,12 @@ redirect_from:
 
 # 🚀 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ColugoMum</div><img src='images/structure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">XIAOSHENG</div><img src='./images/structure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[袋鼯麻麻——智能零售结算平台](https://github.com/thomas-yanxin/Smart_container)**
+**[晓声——智能座舱情感赋能解决方案](https://github.com/thomas-yanxin/Smart_container)**
 
-* ColugoMum 打破传统目标检测算法应用于智能零售行业的成本大、训练难等问题, 构建新型智能零售购物识别算法, 为新零售行业中无人零售视觉化智能解决多类别、小样本、高相似和更新频繁的特殊图像识别场景痛难点提供了可参考示范. 本项目荣获**2022年第24届中国机器人及人工智能大赛全国一等奖**等, 并受邀**参加百度Wave Summit 2021+ 开发者峰会市集展览**, 总浏览量**10万+**. 项目正**入选启智社区优秀开源项目孵化器**, **入选教育部产学合作协同育人项目(百度公司&&华东理工大学)的课程建设成果**.
+*“晓声科技”团队成立于2022年初，指导教师为孙晓教授.团队依托合肥工业大学情感计算与先进智能机器安徽省重点实验室与合肥综合性国家科学中心人工智能研究院普适心理计算实验室，开展面向驾驶员的情绪识别与心理干预及情感计算智能硬件相关技术的研究，致力于推动普适心理计算技术于智慧交通、智能座舱领域的应用.本项目荣获**第八届中国国际"互联网+"创新创业大赛国家级银奖**、**第1届合肥工业大学“智能杯”创新创业大赛**等, 纳入了合肥市种子基金项目库，受邀**参加百度Wave Summit 2022+ 开发者峰会市集展览**，并入驻合肥工业大学智能制造技术研究院进行项目落地孵化.
 </div>
 </div>
 

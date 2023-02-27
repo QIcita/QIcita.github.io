@@ -81,7 +81,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XIAOSHENG</div><img src='./images/structure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[晓声——智能座舱情感赋能解决方案](https://github.com/thomas-yanxin/Smart_container)**
+**[晓声——智能座舱情感赋能解决方案](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)**
 
 *“晓声科技”团队成立于2022年初，指导教师为孙晓教授.团队依托合肥工业大学情感计算与先进智能机器安徽省重点实验室与合肥综合性国家科学中心人工智能研究院普适心理计算实验室，开展面向驾驶员的情绪识别与心理干预及情感计算智能硬件相关技术的研究，致力于推动普适心理计算技术于智慧交通、智能座舱领域的应用.本项目荣获**第八届中国国际"互联网+"创新创业大赛国家级银奖**、**第1届合肥工业大学“智能杯”创新创业大赛**等, 纳入了合肥市种子基金项目库，受邀**参加百度Wave Summit 2022+ 开发者峰会市集展览**，并入驻合肥工业大学智能制造技术研究院进行项目落地孵化.
 </div>

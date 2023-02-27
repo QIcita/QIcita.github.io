@@ -54,7 +54,7 @@ redirect_from:
 
 # 📘 Honors
 
-- 百度飞桨（PaddlePaddle）&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html)\| [\[链接2\]](https://www.paddlepaddle.org.cn/ppde)
+- 百度飞桨（PaddlePaddle）&emsp; 飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html) \| [\[链接2\]](./images/PPDE.jpg)
 - 百度&emsp;松果人才培养菁英班2022年度优秀班长.
 - 合肥工业大学&emsp; 校级优秀共青团员.
 - 合肥工业大学&emsp; 十佳校级学生组织负责人.

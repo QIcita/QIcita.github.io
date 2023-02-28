@@ -79,7 +79,7 @@ redirect_from:
 # 🚀 Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">XIAOSHENG</div><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/structure1.png" alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
 
 **[晓声——智能座舱情感赋能解决方案](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)**
 

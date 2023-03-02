@@ -19,7 +19,7 @@ redirect_from:
 
 &emsp; &emsp; 我是合肥工业大学微电子专业大三本科在读，目前在情感计算与先进智能机器安徽省重点实验室做本科生Research Assistant，合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）普适心理计算实验室做算法研究员（实习）.我师从孙晓教授,主要研究方向为：情感计算、普适心理计算与交互干预技术的研究与应用，具体的兴趣点为rPPG无接触情绪识别、微表情识别、边缘计算与嵌入式推理部署 等.<br>
 &emsp; &emsp;截至目前,我获得了百度飞桨的飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）认证，获各类教育部竞赛排行榜赛事奖项 国家级2项、省部级/市级9项、校级若干.我参与受理专利三项、SCI论文一篇，主持国家级大创项目一项，参与省级大创一项.<br>
-&emsp; &emsp;我作为负责人的项目获得了第八届中国国际“互联网+”大学生创新创业大赛国家级银奖，纳入了合肥市种子基金项目库，受邀参加了Wave Summit2022+ 深度学习峰会展示,被新一代人工智能开源开放平台启智OpenI、百度飞桨（PaddlePaddle）、《合肥工业大学创新创业理论与实践》等多个机构报道，目前项目受邀于合肥工业大学智能制造技术研究院进行项目落地孵化.
+&emsp; &emsp;我作为负责人的项目获得了第八届中国国际“互联网+”大学生创新创业大赛国家级银奖，纳入了合肥市种子基金项目库，受邀参加了Wave Summit+2022深度学习峰会、OpenI/O2022开发者大会展示,被新一代人工智能开源开放平台启智OpenI、百度飞桨（PaddlePaddle）、《合肥工业大学创新创业理论与实践》等多个机构报道，目前项目受邀于合肥工业大学智能制造技术研究院进行项目落地孵化.
 
 # 📖 Educations
 *2020.06 - now*, 合肥工业大学,微电子学院,微电子科学与工程专业，本科三年级在读.
@@ -115,9 +115,9 @@ redirect_from:
 - *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！]  \| [\[链接\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
 - *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[链接1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)\| [\[链接2\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[链接\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
-- *2023.02*，【鹏城实验室&新一代人工智能产业技术创新战略联盟】[第四届启智开发者大会
+- *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[第四届启智开发者大会
 OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链接2\]](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzc0Nw==&mid=2247496166&idx=1&sn=1510368a2c53f706b8835f40a4abeb29&chksm=cea8657af9dfec6c1d2a062486f5f07c5e906fa24106b96f2892d17cddd55844f133fcc47098&mpshare=1&scene=23&srcid=02209s5HImY6i1mMaGgulgQF&sharer_sharetime=1676888788220&sharer_shareid=8c8d6f14455d4f095b9d92a00da96f61#rd)
-- *2023.02*，【新一代人工智能开源开放平台OpenI启智】[碰撞高校智慧，凝聚青春力量] \| [\[链接\]](https://mp.weixin.qq.com/s/phDFWZ8YOYEJMoYNrsOrag)
+- *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[链接\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
 
 
 ### Recent Visit

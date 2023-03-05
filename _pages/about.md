@@ -118,6 +118,7 @@ redirect_from:
 - *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[第四届启智开发者大会
 OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链接2\]](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzc0Nw==&mid=2247496166&idx=1&sn=1510368a2c53f706b8835f40a4abeb29&chksm=cea8657af9dfec6c1d2a062486f5f07c5e906fa24106b96f2892d17cddd55844f133fcc47098&mpshare=1&scene=23&srcid=02209s5HImY6i1mMaGgulgQF&sharer_sharetime=1676888788220&sharer_shareid=8c8d6f14455d4f095b9d92a00da96f61#rd)
 - *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[链接\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
+- *2023.03*，【合肥工业大学】[我院举办2023年创新创业实践动员会] \| [\[链接\]](http://wdzxy.hfut.edu.cn/2023/0302/c5628a289139/page.htm)
 
 
 ### Recent Visit

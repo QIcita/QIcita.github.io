@@ -54,7 +54,7 @@ redirect_from:
 
 # 🔬 Entrepreneurship
 <table class="imgtable"><tr><td>
-<a href=""><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/acaim.png?raw=true" alt="acaim" width="140px" /></a>&nbsp;</td> 
+<a href=""><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/晓声科技-01.png?raw=true" alt="acaim" width="140px" /></a>&nbsp;</td> 
 <td align="left"><h2><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">合肥晓声智能科技有限公司</a></h2>
 <h3>2022.11 - now &nbsp;&nbsp;&nbsp;创始人、董事长</h3>
 <h4>专注于普适心理计算研究与应用，致力于构建交通行业的情感赋能解决方案</h4>

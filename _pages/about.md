@@ -52,7 +52,7 @@ redirect_from:
 - *2022.05* 国家级大创项目：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.
 - *2022.06* 发明专利实审：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 
-# 🔬 Entrepreneurship
+# 🏢 Entrepreneurship
 <table class="imgtable"><tr><td>
 <a href=""><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/晓声科技-01.png?raw=true" alt="acaim" width="140px" /></a>&nbsp;</td> 
 <td align="left"><h2>合肥晓声智能科技有限公司</h2>
@@ -64,7 +64,6 @@ redirect_from:
 # 📘 Honors
 
 - 百度AI技术生态部&emsp;飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html) \| [\[链接2\]](./images/PPDE.jpg)
-- 百度校园部&emsp;松果人才培养菁英班2022年度优秀班长.
 
 
 # ✨ Awards
@@ -95,21 +94,18 @@ redirect_from:
 </div>
 </div>
 
+# 🏃 On-Campus
 
+  *2021.07 - 2022.07*，合肥工业大学电子科技协会，会长  \| [\[链接1\]](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0) \| [\[链接2\]](./images/十佳社长.jpg)
+- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号“HFUT_ETA”，目前累计粉丝1300+，教学视频累计播放量20000+.获得年度十佳优秀社长荣誉.
+  
 # 👨‍🔬 Activities
 
+*2022.07 - now*，    百度飞桨领航团 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接2\]](./images/linghangtuan.jpg)
+- “从零到一”创建校内飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
 
-*2021.07 - 2022.07*，合肥工业大学电子科技协会，会长  \| [\[链接1\]](https://space.bilibili.com/503436097/?spm_id_from=333.999.0.0) \| [\[链接2\]](./images/十佳社长.jpg)
-- 作为学生负责人组织开展了面向2021级新生的C语言、单片机等电子类基础的入门教学活动与面向2020级的2022年电子设计竞赛校赛培训活动.在任期间组织从零建设了B站公众号“HFUT_ETA”，目前累计粉丝1300+，教学视频累计播放量20000+.获得年度十佳优秀社长荣誉.
-
-*2022.01 - 2022.11*，合肥工业大学百度松果菁英班，班长 \| [\[链接1\]](http://campus.baidu.com/#/) \| [\[链接2\]](./images/baidu.png)\| [\[链接3\]](./images/优秀班长.png)
-- 组织建设了合肥工业大学-百度松果菁英班，获年度优秀班长荣誉.
-
-*2022.07 - now*，    合肥工业大学百度飞桨领航团，团长 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接2\]](./images/linghangtuan.jpg)
-- “从零到一”创建合肥工业大学飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
-
- *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学，旅长 \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
- - 组织了“合肥工业大学开源交流群”，传播优秀开源思想.面向开源爱好者与开发者，与启智社区、AITISA共同组织“我为开源打榜狂”等各类开源主题活动，助力中国人工智能开源创新发展.
+ *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学 \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+ - 组织了校内开源交流群，传播优秀开源思想.面向开源爱好者与开发者，与启智社区、AITISA共同组织“我为开源打榜狂”等各类开源主题活动，助力中国人工智能开源创新发展.
 
 
 

@@ -100,7 +100,7 @@ redirect_from:
 *2022.07 - now*，    百度飞桨领航团 \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdenavigategroup) \| [\[链接2\]](./images/linghangtuan.jpg)
 - “从零到一”创建校内飞桨领航团, 以飞桨推广和应用为核心, 面向未来AI开发者, 通过组织AI主题讲座、实操项目挑战赛等多种活动形式让开发者了解飞桨、应用飞桨, 从而提高飞桨领航团的活跃成员规模、夯实飞桨领航团人工智能及深度学习背景知识, 助力学校人工智能体系培养建设.任职期间, 领航团活跃规模100+人次, 孵化了“互联网+”百度命题国家级银奖等项目.
 
- *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅”合肥工业大学 \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+ *2023.01 - now*,     OpenI启智社区“象牙塔·启梦之旅” \| [\[链接1\]](./images/pengcheng.png) \| [\[链接2\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
  - 组织了校内开源交流群，传播优秀开源思想.面向开源爱好者与开发者，与启智社区、AITISA共同组织“我为开源打榜狂”等各类开源主题活动，助力中国人工智能开源创新发展.
 
 

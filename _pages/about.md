@@ -52,6 +52,14 @@ redirect_from:
 - *2022.05* 国家级大创项目：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.
 - *2022.06* 发明专利实审：基于灵敏放大器的低功耗高性能的触发器及其工作方法.
 
+# 🔬 Entrepreneurship
+<table class="imgtable"><tr><td>
+<a href=""><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/acaim.png?raw=true" alt="acaim" width="140px" /></a>&nbsp;</td> 
+<td align="left"><h2><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">合肥晓声智能科技有限公司</a></h2>
+<h3>2022.11 - now &nbsp;&nbsp;&nbsp;创始人、董事长</h3>
+<h4>专注于普适心理计算研究与应用，致力于构建交通行业的情感赋能解决方案</h4>
+<h5>公司地址：合肥市包河区合肥工业大学智能制造技术研究院A506</h5>
+ </td></tr></table>
 
 # 📘 Honors
 

@@ -68,7 +68,7 @@ redirect_from:
 
 # 📘 Honors
 
-- 入选百度飞桨开发者技术专家PPDE（PaddlePaddle Developers Experts）计划. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html) \| [\[链接2\]](./images/PPDE.jpg)
+- 入选百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）计划. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html) \| [\[链接2\]](./images/PPDE.jpg)
 - 合肥市种子基金项目专家库入库.
 
 

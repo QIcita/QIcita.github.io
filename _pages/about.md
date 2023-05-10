@@ -43,9 +43,9 @@ redirect_from:
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="120px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(安徽省人工智能实验室)</a></h2>
-<h3>2022.10 - now &nbsp;&nbsp;&nbsp;算法研究员（实习）</h3>
+<h3>2022.10 - now &nbsp;&nbsp;&nbsp;算法工程师（实习）</h3>
 <h4>基础研究部——<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
-<h5>研究方向：普适心理计算与交互干预技术研究及应用、智慧交通的人因画像。</h5>
+<h5>研究方向：普适心理计算与交互干预技术研究及应用。</h5>
  </td></tr></table>
 **项目课题：**
 - *2021.05-2022.04* 省级大创项目：基于轻量化CNN的多摄像头疫情防控系统.(结题)
@@ -139,6 +139,7 @@ redirect_from:
 OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链接2\]](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzc0Nw==&mid=2247496166&idx=1&sn=1510368a2c53f706b8835f40a4abeb29&chksm=cea8657af9dfec6c1d2a062486f5f07c5e906fa24106b96f2892d17cddd55844f133fcc47098&mpshare=1&scene=23&srcid=02209s5HImY6i1mMaGgulgQF&sharer_sharetime=1676888788220&sharer_shareid=8c8d6f14455d4f095b9d92a00da96f61#rd)
 - *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[链接\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
 - *2023.03*，【合肥工业大学】[我院举办2023年创新创业实践动员会] \| [\[链接\]](http://wdzxy.hfut.edu.cn/2023/0302/c5628a289139/page.htm)
+- *2023.04*，【百度飞桨(PaddlePaddle)】[今天，飞桨公众号六岁啦！] \| [\[链接\]](https://mp.weixin.qq.com/s/iN-IknmZOt0ulF3n4MRBoQ)
 
 
 ### Recent Visit

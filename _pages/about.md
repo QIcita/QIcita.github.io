@@ -49,9 +49,9 @@ redirect_from:
  </td></tr></table>
 **项目课题：**
 - *2021.05-2022.04* 省级大创项目：基于轻量化CNN的多摄像头疫情防控系统.(结题)
-- *2022.05* 国家级大创项目：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.**（主持）**
+- *2022.05* 国家级大创项目：基于多模态情感计算与FPGA硬件加速的车载心理干预系统.**（主持）**<br>
 **论文：**
-- *2023.05* “Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network”，Chaos, Solitons & Fractals.(Accepted)
+- *2023.05* “Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network”，Chaos, Solitons & Fractals.(Accepted)<br>
 **专利软著：**
 - *2022.04* 发明专利实审：基于并行复用的卷积神经网络的硬件加速器及并行复用方法.  
 - *2022.04* 发明专利实审：一种基于操作数裁剪的高性能近似乘法器及其计算方法.

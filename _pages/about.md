@@ -79,7 +79,7 @@ redirect_from:
 
 # 📘 Honour
 
-- 入选 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）计划. \| [\[链接1\]](https://nercdl.org.cn/kaifangfuwupingtai.html) \| [\[链接2\]](./images/PPDE.jpg)
+- 入选 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）计划. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
 
 
 # ✨ Competition

@@ -146,6 +146,7 @@ OpenI/O2022 活动嘉宾]\| [\[链接1\]](https://2022.openi.org.cn/)\| [\[链�
 - *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[链接\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
 - *2023.03*，【合肥工业大学】[我院举办2023年创新创业实践动员会] \| [\[链接\]](http://wdzxy.hfut.edu.cn/2023/0302/c5628a289139/page.htm)
 - *2023.04*，【百度飞桨(PaddlePaddle)】[今天，飞桨公众号六岁啦！] \| [\[链接\]](https://mp.weixin.qq.com/s/iN-IknmZOt0ulF3n4MRBoQ)
+- *2023.06*，【合肥工业大学】[我院本科生在中科院1区Top期刊《Chaos，Solitons & Fractals》 发表科研成果] \| [\[链接\]](http://ea.hfut.edu.cn/info/1003/3853.htm)
 
 
 ### Recent Visit

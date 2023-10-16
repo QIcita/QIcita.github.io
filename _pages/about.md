@@ -31,7 +31,7 @@ redirect_from:
  </td></tr></table>
 
 <table class="imgtable"><tr><td>
-<a href="https://www.hfut.edu.cn/"><img src="https://www.hfut.edu.cn/__local/C/2D/7C/0526E43AC58A15B1F12335A2035_1A39392C_F7E6.jpg?raw=true" alt="USTC" width="120px" /></a>&nbsp;</td>
+<a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="USTC" width="120px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学</a></h2>
 <h3>2020.09 - 2024.06 &nbsp;&nbsp;&nbsp;微电子科学与工程</h3>
 <h4><a href="http://wdzxy.hfut.edu.cn/main.htm">国家示范性微电子学院</a></h4>

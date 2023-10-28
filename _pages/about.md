@@ -23,17 +23,15 @@ redirect_from:
 # 📖 Education
 
 <table class="imgtable"><tr><td>
-<a href="https://www.ustc.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/USTC.png?raw=true" alt="USTC" width="120px" /></a>&nbsp;</td>
+<a href="https://www.ustc.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/USTC.png?raw=true" alt="USTC" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学（University of Science and Technology of China，USTC）</a></h2>
 <h3>2024.09 - 2027.06 &nbsp;&nbsp;&nbsp;计算机技术</h3>
-<h4><a href="https://iat.ustc.edu.cn/iat/index.html">先进技术研究院</a></h4>
  </td></tr></table>
 
 <table class="imgtable"><tr><td>
-<a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="USTC" width="120px" /></a>&nbsp;</td>
-<td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学</a></h2>
+<a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="USTC" width="80px" /></a>&nbsp;</td>
+<td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学（HEFEI Universtiy of Technology，HFUT）</a></h2>
 <h3>2020.09 - 2024.06 &nbsp;&nbsp;&nbsp;微电子科学与工程</h3>
-<h4><a href="http://wdzxy.hfut.edu.cn/main.htm">国家示范性微电子学院</a></h4>
  </td></tr></table>
 
 

@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "<center>崔丰麒<br>（fengqi-cui）</center>"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "<center>合肥综合性国家科学中心人工智能研究院<br>情感计算与先进智能机器安徽省重点实验室</center>"
+  bio              : "<center>情感计算与先进智能机器安徽省重点实验室</center>"
   location         : "合肥, 安徽"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "fengqi.cui@foxmail.com"
+  email            : "fengqi@iai.ustc.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

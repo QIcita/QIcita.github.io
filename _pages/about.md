@@ -17,15 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&emsp; &emsp; 我是合肥工业大学微电子专业大四本科在读，已推免至中国科学技术大学计算机技术专业攻读研究生学位。目前在**情感计算与先进智能机器安徽省重点实验室**和**合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）普适心理计算实验室**做本科生Research Assistant.我师从**孙晓**教授,主要研究方向为：情感计算、普适计算、多媒体计算，具体研究内容为：跨媒体情感识别、多模态人因感知、计算机视觉、无线感知 等.<br>
-&emsp; &emsp;截至目前,我入选了百度的飞桨开发者技术专家（PPDE，PaddlePaddle Developers Experts）认证，获各类教育部竞赛排行榜赛事奖项 国家级4项、省部级/市级13项、校级若干.我参与受理专利6项，发表JCR一区论文一篇.主持国家级大创项目一项.<br>
-&emsp; &emsp;我作为负责人的项目获得了第八届中国国际“互联网+”大学生创新创业大赛国家级银奖，纳入了合肥市种子基金项目库，受邀参加了Wave Summit+2022深度学习峰会、OpenI/O2022启智开发者大会展示,被新一代人工智能开源开放平台OpenI、百度飞桨（PaddlePaddle）、《合肥工业大学创新创业理论与实践》杂志等多个机构报道，目前项目受邀于合肥工业大学智能制造技术研究院进行项目落地孵化.
+&emsp; &emsp; I am a senior majoring in Microelectronics at Hefei University of Technology and have been exempted from pursuing a graduate degree in Computer Technology at the University of Science and Technology of China. I am currently working as an undergraduate Research Assistant at the Anhui Key Laboratory of Emotional Computing and Advanced Intelligent Machines and the Universal Psychological Computing Laboratory of the Artificial Intelligence Research Institute (Anhui Artificial Intelligence Laboratory) of Hefei Comprehensive National Science Center. <br>
+&emsp; &emsp; I am under Professor Sun Xiao and my main research interests include emotional computing, pervasive computing, and multimedia computing. The specific research topics include cross media emotion recognition, multimodal human factor perception Computer vision, wireless perception, etc.
 
 # 📖 Education
 
 <table class="imgtable"><tr><td>
 <a href="https://www.ustc.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/USTC.png?raw=true" alt="USTC" width="120px" /></a>&nbsp;</td>
-<td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学</a></h2>
+<td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学（University of Science and Technology of China，USTC）</a></h2>
 <h3>2024.09 - 2027.06 &nbsp;&nbsp;&nbsp;计算机技术</h3>
 <h4><a href="https://iat.ustc.edu.cn/iat/index.html">先进技术研究院</a></h4>
  </td></tr></table>

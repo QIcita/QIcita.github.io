@@ -41,19 +41,19 @@ redirect_from:
 <a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/acaim.png?raw=true" alt="acaim" width="90px" /></a>&nbsp;</td> 
 <td align="left"><h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室</a></h2>
 <h4><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
-<h5>研究方向：情感计算、普适心理计算。</h5>
+<h5>研究方向：情感计算、无线感知。</h5>
  </td></tr></table>
 <table class="imgtable"><tr><td>
 <a href="http://iai.ustc.edu.cn/iai/r271.html"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/iai.jpg?raw=true" alt="IAI" width="90px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(安徽省人工智能实验室)</a></h2>
 <h4>基础研究部——<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
-<h5>研究方向：普适心理计算与交互干预技术研究及应用。</h5>
+<h5>研究方向：多模态人机交互。</h5>
  </td></tr></table>
 
 
 # Honour
 
-- 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）计划. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+- 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
 - 合肥工业大学**十佳大学生**.\| [\[链接1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 #  Competition

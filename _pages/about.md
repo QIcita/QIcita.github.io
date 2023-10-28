@@ -53,6 +53,7 @@ redirect_from:
 </tr>
 
 ## paper
+Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,Volume 172,2023,113541,ISSN 0960-0779,https://doi.org/10.1016/j.chaos.2023.113541.（SCI 一区）.
 
 # Honour
 

@@ -38,8 +38,8 @@ redirect_from:
 #  Research
 
 <tr>
-  <td>
-    
+
+   
 <td align="left"><h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室</a></h2>
 <h4><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
 <h5>研究方向：情感计算、无线感知。</h5>

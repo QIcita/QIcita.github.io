@@ -25,13 +25,13 @@ redirect_from:
 <table class="imgtable"><tr><td>
 <a href="https://www.ustc.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/USTC.png?raw=true" alt="USTC" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学（University of Science and Technology of China，USTC）</a></h2>
-<h3>2024.09 - 2027.06 &nbsp;&nbsp;&nbsp;计算机技术</h3>
+<h3>2024.09 - 2027.06 &nbsp;&nbsp;&nbsp;计算机技术（Computer Science and Technology），先进技术研究院（Institute of Advanced Technology）</h3>
  </td></tr></table>
 
 <table class="imgtable"><tr><td>
 <a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="USTC" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学（HEFEI Universtiy of Technology，HFUT）</a></h2>
-<h3>2020.09 - 2024.06 &nbsp;&nbsp;&nbsp;微电子科学与工程</h3>
+<h3>2020.09 - 2024.06 &nbsp;&nbsp;&nbsp;微电子科学与工程（Microelectronics Science and Engineering），国家示范性微电子学院（National Demonstration Microelectronics College）</h3>
  </td></tr></table>
 
 
@@ -39,22 +39,22 @@ redirect_from:
 
 <tr>
   
-<h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室</a></h2>
+<h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a></h2>
 <h4><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
-<h5>研究方向：情感计算、无线感知。</h5>
+<h5>Research Direction：Affective Computing, Wireless Perception.</h5>
   
 </tr>
 
 <tr>
 
-<h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院(安徽省人工智能实验室)</a></h2>
+<h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a></h2>
 <h4>基础研究部——<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（机器学习理论实验室|普适心理计算与交互干预技术研究及应用团队）</h4>
-<h5>研究方向：多模态人机交互。</h5>
+<h5>Research Direction：Multimodal human-machine interaction.</h5>
 
 </tr>
 
 ## paper
-Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,[\[PDF\]](https://doi.org/10.1016/j.chaos.2023.113541).（SCI 一区）.
+Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07[\[PDF\]](https://doi.org/10.1016/j.chaos.2023.113541).（JCR 一区）.
 
 
 # Honour
@@ -64,12 +64,12 @@ Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,T
 
 #  Competition
 
-**国家级：**
+**National level：**
 - 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **银奖**.**（排序:1）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - 【灵心智能】 2023第9届中国国际大学生创新大赛（原“互联网+”大学生创新创业大赛） **银奖**.**（排序:1）**
 - 【晓声科技】 2022大学生创新创业训练计划项目立项.**（排序:1）**
 
-**省部级/市级：**
+**Provincial and Mnisterial level：**
 - 【灵心智能】 2023第9届安徽省”互联网+”大学生创新创业大赛 **金奖**.**（排序:1）**
 - 【晓声科技】 2022第8届安徽省”互联网+”大学生创新创业大赛 **金奖**.**（排序:1）**
 - 【晓声科技】 2022第1届合肥工业大学“智能杯”创新创业大赛 **二等奖**.**（排序:1）**

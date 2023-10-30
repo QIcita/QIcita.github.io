@@ -59,21 +59,13 @@ Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,T
 
 # Honour
 
-- 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-- 合肥工业大学**十佳大学生**.\| [\[链接1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+- Baidu PaddlePaddle Developers Experts（百度飞桨开发者技术专家）. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+- **Top 10 University Students** of Hefei University of Technology as Science and Technology Innovation Pacesetters（1/10 of the entire school）.\| [\[链接1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 #  Competition
 
-**National level：**
-- 【晓声科技】 2022第8届中国国际”互联网+”大学生创新创业大赛 **银奖**.**（排序:1）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-- 【灵心智能】 2023第9届中国国际大学生创新大赛（原“互联网+”大学生创新创业大赛） **银奖**.**（排序:1）**
-- 【晓声科技】 2022大学生创新创业训练计划项目立项.**（排序:1）**
-
-**Provincial and Mnisterial level：**
-- 【灵心智能】 2023第9届安徽省”互联网+”大学生创新创业大赛 **金奖**.**（排序:1）**
-- 【晓声科技】 2022第8届安徽省”互联网+”大学生创新创业大赛 **金奖**.**（排序:1）**
-- 【晓声科技】 2022第1届合肥工业大学“智能杯”创新创业大赛 **二等奖**.**（排序:1）**
-- 【晓声科技】 2023第1届合肥科创大脑“科创杯”创新创业大赛 **“科创杯”未来之星奖**.**（排序:1）**
+- The 8th China International College Students' 'Internet'Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+- China International University Student Innovation Competition （2023） **National Silver Award**.**（First Completion）**
 
 
 

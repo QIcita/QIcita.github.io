@@ -62,12 +62,12 @@ Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,T
 # Honour
 
 - Baidu PaddlePaddle Developers Experts（百度飞桨开发者技术专家）. \| [\[链接1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-- **Top 10 University Students** of Hefei University of Technology as Science and Technology Innovation Pacesetters（1/10 of the entire school）.\| [\[链接1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+- **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学十佳大学生）.\| [\[链接1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 #  Competition
 
 - The 8th China International College Students' 'Internet'Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion）** \| [\[链接1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[链接2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[链接3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-- China International University Student Innovation Competition （2023） **National Silver Award**.**（First Completion）**
+- China International University Student Innovation Competition （2023） **National Bronze Award**.**（First Completion）**
 
 
 

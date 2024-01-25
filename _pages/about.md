@@ -58,18 +58,18 @@ redirect_from:
 </tr>
 
 
-- ## paper:
+- ## Paper:
 
 Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07.**（SCI、JCR一区 TOP）**[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541).
 
 
 # Honors and Awards
 
+- ## Honorary title:
 - Baidu PaddlePaddle Developers Experts（百度-飞桨开发者技术专家）. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
 - **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学-十佳大学生）.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
-
 -------
-
+- ## Honorary awards:
 - The 8th China International College Students' 'Internet'Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion Person）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - China International University Student Innovation Competition （2023） **National Bronze Award**.**（First Completion Person）**
 - China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Member）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)

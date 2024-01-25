@@ -41,22 +41,20 @@ redirect_from:
 #  Research
 
 <tr>
-  
 <h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a></h2>
 <h4><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
 <h5>2021 - now</h5>
-  
 </tr>
-
 <tr>
-
 <h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a></h2>
 <h4><a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（普适心理计算与交互干预技术研究及应用团队）</h4>
 <h5>2022 - now</h5>
-
 </tr>
+
 -------
+
 - ## paper:
+
 Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07.**（SCI、JCR一区 TOP）**[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541).
 
 

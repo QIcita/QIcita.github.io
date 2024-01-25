@@ -17,6 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# About Me
+
 &emsp; &emsp;I am currently pursuing a Master's degree in Computer Science at the **[University of Science and Technology of China](https://ustc.edu.cn/)**, and also conducting joint training at the **[Artificial Intelligence Research Institute of the Hefei Comprehensive National Science Center(Anhui Provincial Artificial Intelligence Laboratory)](https://iai.ustc.edu.cn/iai/index.html)**.I conduct scientific research in the **[MAC-Lab](https://www.sunxiaomaclab.com/)**, and my supervisor is Professor **[Sun Xiao](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)** and Professor **[Wang Meng](https://www.hfut.edu.cn/info/1243/12906.htm)**. My main research interests include Multimedia information processing, Wireless sensing, Affective computing. 
 
 # Education

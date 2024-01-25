@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-&emsp; &emsp; I am a senior majoring in Microelectronics at Hefei University of Technology and have been exempted from pursuing a graduate degree in Computer Technology at the University of Science and Technology of China. I am currently working as an undergraduate Research Assistant at the Anhui Key Laboratory of Emotional Computing and Advanced Intelligent Machines and the Universal Psychological Computing Laboratory of the Artificial Intelligence Research Institute (Anhui Artificial Intelligence Laboratory) of Hefei Comprehensive National Science Center. <br>
-&emsp; &emsp; I am under Professor Sun Xiao and my main research interests include emotional computing, pervasive computing, and multimedia computing. The specific research topics include cross media emotion recognition, multimodal human factor perception Computer vision, wireless perception, etc.
+&emsp; &emsp;I am currently pursuing a Master's degree in Computer Science at the **[University of Science and Technology of China](https://ustc.edu.cn/)**, and also conducting joint training at the **[Artificial Intelligence Research Institute of the Hefei Comprehensive National Science Center(Anhui Provincial Artificial Intelligence Laboratory)](https://iai.ustc.edu.cn/iai/index.html)**.I conduct scientific research in the **[MAC-Lab](https://www.sunxiaomaclab.com/)**, and my supervisor is Professor **[Sun Xiao](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)** and Professor **[Wang Meng](https://www.hfut.edu.cn/info/1243/12906.htm)**. My main research interests include Multimedia information processing, Wireless sensing, Affective computing. 
 
 # Education
 

@@ -75,7 +75,7 @@ Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,T
 - China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Member）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
 
 
-#  Report
+#  Reports
 
 - *2022.10*，【合肥工业大学】[微电子学院举办启智润芯科创竞赛系列讲座] \| [\[Link\]](http://news.hfut.edu.cn/info/1017/51049.htm)
 - *2022.11*，【合肥工业大学】[首次突破金奖！合工大师生获奖再创新高] \| [\[Link\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw)

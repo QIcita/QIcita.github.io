@@ -28,7 +28,8 @@ redirect_from:
 <td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学（University of Science and Technology of China，USTC）</a></h2>
 <h3>2024 - now &nbsp;&nbsp;&nbsp;Computer Science and Technology</h3>
 <h4> MA.Eng. </h4>
-
+</td></tr></table>
+<table class="imgtable"><tr><td>
 <a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="HFUT" width="80px" /></a>&nbsp;</td>
 <td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学（HEFEI Universtiy of Technology，HFUT）</a></h2>
 <h3>2020 - 2024 &nbsp;&nbsp;&nbsp;Microelectronics Science and Engineering</h3>

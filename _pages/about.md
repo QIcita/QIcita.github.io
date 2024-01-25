@@ -67,7 +67,7 @@ Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,T
 
 - The 8th China International College Students' 'Internet'Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
 - China International University Student Innovation Competition （2023） **National Bronze Award**.**（First Completion）**
-- China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Members）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
+- China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Member）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
 
 
 #  Report

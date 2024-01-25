@@ -55,13 +55,13 @@ redirect_from:
 </tr>
 
 - ## paper:
-Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07[\[PDF\]](https://doi.org/10.1016/j.chaos.2023.113541).**（SCI、JCR一区 TOP）**.
+Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, Fengqi Cui, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07.[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541).**（SCI、JCR一区 TOP）**.
 
 
 # Honour
 
-- Baidu PaddlePaddle Developers Experts（百度飞桨开发者技术专家）. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-- **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学十佳大学生）.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+- Baidu PaddlePaddle Developers Experts（百度-飞桨开发者技术专家）. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+- **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学-十佳大学生）.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 #  Competition
 

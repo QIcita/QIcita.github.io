@@ -67,7 +67,7 @@ redirect_from:
   - **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学-十佳大学生）.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 - ## Honorary awards:
-  - The 8th China International College Students' 'Internet'Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion Person）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+  - The 8th China International College Students' "Internet plus" Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion Person）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
   - China International University Student Innovation Competition （2023） **National Bronze Award**.**（First Completion Person）**
   - China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Member）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
 

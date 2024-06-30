@@ -39,7 +39,7 @@ redirect_from:
 # Honors and Awards
 
 - ## Honorary title:
-  - 百度飞桨开发者技术专家. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+  - 百度飞桨开发者技术专家.\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 - ## Honorary awards:

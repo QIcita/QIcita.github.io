@@ -19,40 +19,16 @@ redirect_from:
 
 # About Me
 
-&emsp; &emsp;I am currently pursuing a Master's degree in Computer Science at the **[University of Science and Technology of China](https://ustc.edu.cn/)**, and also conducting joint training at the **[Artificial Intelligence Research Institute of the Hefei Comprehensive National Science Center(Anhui Provincial Artificial Intelligence Laboratory)](https://iai.ustc.edu.cn/iai/index.html)**.I conduct scientific research in the **[MAC-Lab](https://www.sunxiaomaclab.com/)**, and my supervisor is Professor **[Sun Xiao](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)** and Professor **[Wang Meng](https://www.hfut.edu.cn/info/1243/12906.htm)**. My main research interests include Multimedia information processing, Wireless sensing, Affective computing. 
-
-# Educations
-
-<table class="imgtable">
-  <tr>
-    <td>
-<a href="https://www.ustc.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/USTC.png?raw=true" alt="USTC" width="80px" /></a>&nbsp;</td>
-<td align="left"><h2><a href="https://www.ustc.edu.cn/">中国科学技术大学（University of Science and Technology of China，USTC）</a></h2>
-<h3>2024 - now &nbsp;&nbsp;&nbsp;Computer Science and Technology</h3>
-<h4> MA.Eng. </h4>
-</td>
-</tr>
-</table>
-<table class="imgtable">
-  <tr>
-    <td>
-<a href="https://www.hfut.edu.cn/"><img src="https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/HFUT.png?raw=true" alt="HFUT" width="80px" /></a>&nbsp;</td>
-<td align="left"><h2><a href="https://www.hfut.edu.cn/">合肥工业大学（HEFEI Universtiy of Technology，HFUT）</a></h2>
-<h3>2020 - 2024 &nbsp;&nbsp;&nbsp;Microelectronics Science and Engineering</h3>
-<h4> B.Eng. </h4>
-</td>
-</tr>
-</table>
-
+&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读。同时在**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**普适心理计算实验室联合培养，联培导师是孙晓教授和汪萌教授；在**[情感计算与先进智能机器安徽省重点实验室(合肥工业大学)(https://www.sunxiaomaclab.com/)]**做访问学生，导师是孙晓教授。<br>&emsp; &emsp;我的研究方向是多模态情感计算与普适心理计算，具体研究兴趣为视频理解、时序多模态信号处理，涵盖动态表情识别、微表情识别、非接触生理指标估计、视觉焦虑抑郁检测等研究与应用方向。
 
 #  Research
 
 <tr>
-<h2><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a></h2>
-<h4><a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
+<h4><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a></h4>
+<a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）
 
-<h2><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a></h2>
-<h4><a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（普适心理计算与交互干预技术研究及应用团队）</h4>
+<h4><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a></h4>
+<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（普适心理计算与交互干预技术研究及应用团队）
 </tr>
 
 
@@ -63,13 +39,13 @@ redirect_from:
 # Honors and Awards
 
 - ## Honorary title:
-  - Baidu PaddlePaddle Developers Experts（百度-飞桨开发者技术专家）. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-  - **Top 10 University Students**（1/10 of the entire school） of Hefei University of Technology as Science and Technology Innovation Pacesetters（合肥工业大学-十佳大学生）.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+  - 百度飞桨开发者技术专家. \| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+  - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 
 - ## Honorary awards:
-  - The 8th China International College Students' "Internet plus" Innovation and Entrepreneurship Competition **National Silver Award**.**（First Completion Person）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-  - China International University Student Innovation Competition （2023） **National Bronze Award**.**（First Completion Person）**
-  - China International University Student Innovation Competition （2023） **National Bronze Award**.**（Core Member）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
+  - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.**（排序1）** \| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+  - 中国国际大学生创新大赛 （2023） **国家铜奖**.**（排序1）**
+  - 中国国际大学生创新大赛 （2023） **国家铜奖**.**（核心成员）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
 
 
 #  Reports

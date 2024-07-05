@@ -17,13 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# About Me
+# 个人简介
 
 &emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读。**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**普适心理计算实验室Research Intern（2021-now），导师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授和[汪萌](https://www.hfut.edu.cn/info/1244/14783.htm)教授（IEEE/IAPR Fellow）；**[情感计算与先进智能机器安徽省重点实验室(合肥工业大学)](https://www.sunxiaomaclab.com/)**visiting student（2024-now），导师是孙晓教授。<br>&emsp; &emsp;我的研究方向是多模态情感计算与普适心理计算，具体研究兴趣为视频理解、时序多模态信号处理，涵盖动态表情识别、微表情识别、非接触生理指标估计、视觉焦虑抑郁检测等研究与应用方向。
 
-#  Research
+# 研究团队
 
-- ## Team:
 <tr>
 <h4><a href="https://www.sunxiaomaclab.com/">情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a><br>
 <a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队（MAC-Lab，Multimedia Affective Computing Lab）</h4>
@@ -32,13 +31,13 @@ redirect_from:
 <a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队（普适心理计算与交互干预技术研究及应用团队）</h4>
 </tr>
 
-
 - ## Paper:
 Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,Chaos, Solitons & Fractals,2023.07.**（SCI、JCR一区 TOP）**[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541).
 
+#  学术兼职
+  - 安徽省人工智能学会 情感计算专委会 学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/)
 
-# Honors and Awards
-
+# 荣誉获奖
 - ## Honorary title:
   - 百度飞桨开发者技术专家（PPDE,PaddlePaddle Developers Experts）.\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)

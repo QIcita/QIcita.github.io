@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，与**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**普适心理计算实验室联合培养，导师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授和[汪萌](https://www.hfut.edu.cn/info/1244/14783.htm)教授（IEEE/IAPR Fellow）；**[情感计算与先进智能机器安徽省重点实验室(合肥工业大学)](https://www.sunxiaomaclab.com/)**visiting student（2024-now），导师是孙晓教授。2024年获得合肥工业大学国家示范性微电子学院微电子科学与工程专业工学学士学位。<br>&emsp; &emsp;研究方向是多模态情感计算与普适心理计算，具体研究兴趣为视频理解、时序多模态信号处理，涵盖动态表情识别、微表情识别、非接触生理指标估计、视觉焦虑抑郁检测等研究与应用方向。
+&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，与**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**普适心理计算实验室联合培养，导师是[孙晓](http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm)教授和[汪萌](https://www.hfut.edu.cn/info/1244/14783.htm)教授（IEEE/IAPR Fellow）；**[情感计算与先进智能机器安徽省重点实验室(合肥工业大学)](https://www.sunxiaomaclab.com/)**访问学生，导师是孙晓教授。2024年获得合肥工业大学国家示范性微电子学院微电子科学与工程专业工学学士学位。<br>&emsp; &emsp;研究方向是多模态情感计算与普适心理计算，具体研究兴趣为视频理解、时序多模态信号处理，涵盖动态表情识别、微表情识别、非接触生理指标估计、视觉焦虑抑郁检测等研究与应用方向。
 
 # 研究团队
 

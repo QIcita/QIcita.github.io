@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "<center>崔丰麒<br>（Feng-Qi Cui）</center>"
+  name             : "<center>Feng-Qi Cui</center>"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Simplicity is the ultimate sophistication."
   location         : "Hefei，China"

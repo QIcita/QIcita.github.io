@@ -64,6 +64,7 @@ OpenI/O2022 活动嘉宾]\| [\[Link1\]](https://2022.openi.org.cn/)\| [\[Link2\]
 - *2023.04*，【百度飞桨(PaddlePaddle)】[今天，飞桨公众号六岁啦！] \| [\[Link\]](https://mp.weixin.qq.com/s/iN-IknmZOt0ulF3n4MRBoQ)
 - *2023.10*，【合肥工业大学】[激昂青春 榜样力量 合工大2023年“十佳大学生”风采展示（三）] \| [\[Link\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
 - *2023.12*，【中国科学技术大学】[科大学子在中国国际大学生创新大赛中再创佳绩] \| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
+- *2024.08*，【安徽省人工智能学会】[安徽省人工智能学会情感计算专委会正式成立！] \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
 
 ### Recent Visit
 

@@ -53,18 +53,24 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 #  Reports
 
-- *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？] \| [\[Link1\]](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)\| [\[Link2\]](https://xie.infoq.cn/article/c015f8ee1289a01c7820fc60e)\| [\[Link3\]](https://mp.weixin.qq.com/s/nm2N7MVaOimuNF99f38rlQ)
-- *2022.11*，【深度学习技术与应用国家工程研究中心】[ Wave Summit2022+ 深度学习开发者峰会 活动嘉宾]\| [\[Link1\]](https://www.wavesummit.com.cn/#/) \| [\[Link2\]](./images/wavesummit.png)
-- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！]  \| [\[Link\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
-- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[Link1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)\| [\[Link2\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-- *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[Link\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+- *2024.08*，【安徽省人工智能学会】[安徽省人工智能学会情感计算专委会正式成立！] \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
+- *2023.12*，【中国科学技术大学】[科大学子在中国国际大学生创新大赛中再创佳绩] \| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
+- *2023.10*，【合肥工业大学】[激昂青春 榜样力量 合工大2023年“十佳大学生”风采展示（三）] \| [\[Link\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+- *2023.04*，【百度飞桨(PaddlePaddle)】[今天，飞桨公众号六岁啦！] \| [\[Link\]](https://mp.weixin.qq.com/s/iN-IknmZOt0ulF3n4MRBoQ)
+- *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[Link\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
 - *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[第四届启智开发者大会
 OpenI/O2022 活动嘉宾]\| [\[Link1\]](https://2022.openi.org.cn/)\| [\[Link2\]](https://mp.weixin.qq.com/s?__biz=Mzg2ODUzMzc0Nw==&mid=2247496166&idx=1&sn=1510368a2c53f706b8835f40a4abeb29&chksm=cea8657af9dfec6c1d2a062486f5f07c5e906fa24106b96f2892d17cddd55844f133fcc47098&mpshare=1&scene=23&srcid=02209s5HImY6i1mMaGgulgQF&sharer_sharetime=1676888788220&sharer_shareid=8c8d6f14455d4f095b9d92a00da96f61#rd)
-- *2023.02*，【新一代人工智能产业技术创新战略联盟（AITISA）】[碰撞高校智慧，凝聚青春力量] \| [\[Link\]](https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA)
-- *2023.04*，【百度飞桨(PaddlePaddle)】[今天，飞桨公众号六岁啦！] \| [\[Link\]](https://mp.weixin.qq.com/s/iN-IknmZOt0ulF3n4MRBoQ)
-- *2023.10*，【合肥工业大学】[激昂青春 榜样力量 合工大2023年“十佳大学生”风采展示（三）] \| [\[Link\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
-- *2023.12*，【中国科学技术大学】[科大学子在中国国际大学生创新大赛中再创佳绩] \| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
-- *2024.08*，【安徽省人工智能学会】[安徽省人工智能学会情感计算专委会正式成立！] \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
+- *2023.01*，【百度飞桨(PaddlePaddle)】[飞桨助力合肥工业大学普适心理计算团队斩获“互联网+”大赛全国银奖] \| [\[Link1\]](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262)\| [\[Link2\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+- *2023.01*，【新一代人工智能开源开放平台OpenI启智】[OpenI启梦之旅的高校旅长亮相，快来看看有没有你的校友] \| [\[Link\]](https://mp.weixin.qq.com/s/kYjjAtF7eTi3MNmCqCzfyg)
+- *2022.12*，【百度飞桨(PaddlePaddle)】[喜报！第八届“互联网+”大赛2金3银4铜，飞桨助力高校勇创佳绩！]  \| [\[Link\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)
+- *2022.11*，【新一代人工智能开源开放平台OpenI启智】[是什么让这位00后从懵懂少年成长为各类大奖收割者？] \| [\[Link1\]](https://mp.weixin.qq.com/s/FFwSKbIKiCb95YpEa6mnxQ)\| [\[Link2\]](https://xie.infoq.cn/article/c015f8ee1289a01c7820fc60e)\| [\[Link3\]](https://mp.weixin.qq.com/s/nm2N7MVaOimuNF99f38rlQ)
+- *2022.11*，【深度学习技术与应用国家工程研究中心】[ Wave Summit2022+ 深度学习开发者峰会 活动嘉宾]\| [\[Link1\]](https://www.wavesummit.com.cn/#/) \| [\[Link2\]](./images/wavesummit.png)
+
+
+
+
+
+
 
 ### Recent Visit
 

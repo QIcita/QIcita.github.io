@@ -39,6 +39,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 #  学术服务
   - 安徽省人工智能学会 情感计算专委会 学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
+  - The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025)  TPC Member.\| [\[Link\]](https://icce.org/2025/about-2/)
 
 # 个人获奖
   - 安徽合力 创新创业奖学金.

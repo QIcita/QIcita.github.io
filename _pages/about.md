@@ -38,8 +38,8 @@ redirect_from:
 _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,**Chaos, Solitons & Fractals**,2023.07.**（中科院SCI一区Top，IF=9.922）**[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541)._
 
 #  学术服务
-  - 安徽省人工智能学会  情感计算专委会  学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
-  - The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025)   TPC Member.\| [\[Link\]](https://icce.org/2025/about-2/)
+  - 安徽省人工智能学会  情感计算专委会&emsp;学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
+  - The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025)&emsp;TPC Member.\| [\[Link\]](https://icce.org/2025/about-2/)
 
 # 个人获奖
   - 安徽合力 创新创业奖学金.

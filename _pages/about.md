@@ -50,7 +50,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
   - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.**（排序1）**\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
   - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1）**
   - 中国国际大学生创新大赛(2023) **国家铜奖**.\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
-
+  - 中国国际大学生创新大赛(2024) **国家铜奖**.
 
 
 #  Reports

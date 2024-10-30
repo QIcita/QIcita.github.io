@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读；**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养；同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)** Research Intern。研究兴趣方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等。
+&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)** Research Intern。研究兴趣方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等。
 
 # 研究团队
 

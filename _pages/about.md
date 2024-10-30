@@ -47,10 +47,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
   - 中国科学技术大学 学业一等奖学金.
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - 合肥工业大学 十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
-  - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.**（排序1）**\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
-  - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1）**
-  - 中国国际大学生创新大赛(2023) **国家铜奖**.\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
-  - 中国国际大学生创新大赛(2024) **国家铜奖**.
+  - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.**（排序1/15）**\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+  - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1/15）**
+  - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序5/15）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
+  - 中国国际大学生创新大赛(2024) **国家铜奖**.**（排序2/15）**
+  - 中国国际大学生创新大赛(2024) **国家铜奖**.**（排序13/15）**
 
 
 #  Reports

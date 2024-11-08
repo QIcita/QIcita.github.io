@@ -41,14 +41,15 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 #  学术服务
   - 安徽省人工智能学会  情感计算专委会&emsp;学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
+  - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025)&emsp;TPC Member.
   - IEEE Internet of Things Journal&emsp;Journal Reviewer.
 
 # 个人获奖
   - 安徽合力 创新创业奖学金.
   - 中国科学技术大学 学业一等奖学金.
-  - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - 合肥工业大学 十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+  - CCF首届泛在智能感知技术创新应用大赛 **二等奖**。**（排序2/5）**
   - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.**（排序1/15）**\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
   - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1/15）**
   - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序5/15）**\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)

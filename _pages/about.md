@@ -24,9 +24,7 @@ redirect_from:
 # 研究团队
 
 <tr>
-<h4><a href="https://cybersec.ustc.edu.cn/main.htm">中国科学技术大学-网络空间安全学院/先进技术研究院（School of Cyber Science and Technology/Institute of Advanced Technology, University of Science and Technology of China
-![image](https://github.com/user-attachments/assets/a2cfd9b0-cc61-4c4a-a91d-7382054e9681)
-）</a><br>
+<h4><a href="https://cybersec.ustc.edu.cn/main.htm">中国科学技术大学-网络空间安全学院/先进技术研究院（School of Cyber Science and Technology/Institute of Advanced Technology, University of Science and Technology of China) </a><br>
 <a href="https://faculty.ustc.edu.cn/flowice/zh_CN/index.htm">刘斌</a>副教授、<a href="https://faculty.ustc.edu.cn/yunenghai/zh_CN/index.htm">俞能海</a>教授团队，中国科学院电磁空间信息重点实验室（The CAS Key Laboratory of Electromagnetic Space Information）</h4>
 
 <h4><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心-人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a><br>

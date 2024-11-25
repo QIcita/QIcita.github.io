@@ -43,7 +43,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 </div>
 
 #  学术服务
-  - 安徽省人工智能学会  情感计算专委会&emsp;学生工作组组长.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
+  - 安徽省人工智能学会  **情感计算专委会学生工作组组长**.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link1\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - The 43rd IEEE International Conference on Consumer Electronics (ICCE 2025)&emsp;TPC Member.
   - IEEE Internet of Things Journal&emsp;Journal Reviewer.

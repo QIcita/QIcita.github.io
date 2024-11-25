@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)** Research Intern。研究兴趣方向是多媒体信息处理、可信计算机视觉、视觉语言大模型、多模态情感计算等。
+&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，导师是刘斌副教授、俞能海教授；**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，导师是汪萌教授；同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)**的访问学生，导师是孙晓教授、黄锦阳讲师。研究兴趣方向是多媒体信息处理、可信计算机视觉、视觉语言大模型、多模态情感计算等。如果您寻求任何形式的学术合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
 # 研究团队
 
@@ -28,7 +28,7 @@ redirect_from:
 <a href="https://faculty.ustc.edu.cn/flowice/zh_CN/index.htm">刘斌</a>副教授、<a href="https://faculty.ustc.edu.cn/yunenghai/zh_CN/index.htm">俞能海</a>教授团队，中国科学院电磁空间信息重点实验室（The CAS Key Laboratory of Electromagnetic Space Information）</h4>
 
 <h4><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心-人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a><br>
-<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队，普适心理计算团队</h4>
+<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队，普适心理计算与交互干预实验室</h4>
   
 <h4><a href="https://www.sunxiaomaclab.com/">合肥工业大学-情感计算与先进智能机器安徽省重点实验室（Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines）</a><br>
 <a href="http://faculty.hfut.edu.cn/sunxiao/zh_CN/index.htm">孙晓</a>教授团队，多模态情感计算实验室（MAC-Lab，Multimedia Affective Computing Lab）</h4>

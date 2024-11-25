@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，导师是刘斌副教授、俞能海教授；**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，导师是汪萌教授；同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)**的访问学生，导师是孙晓教授、黄锦阳讲师。研究兴趣方向是多媒体信息处理、可信计算机视觉、视觉语言大模型、多模态情感计算等。如果您寻求任何形式的学术合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
+&emsp; &emsp;**[中国科学技术大学](https://ustc.edu.cn/)**计算机技术专业研究生在读，导师是刘斌副教授、俞能海教授；**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，导师是汪萌教授；同时是**[情感计算与先进智能机器安徽省重点实验室](https://www.sunxiaomaclab.com/)**的访问学生，导师是孙晓教授、黄锦阳讲师。主要研究方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等，同时关注多模态情感计算、AI for Science等。如果您寻求任何形式的学术合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
 # 研究团队
 

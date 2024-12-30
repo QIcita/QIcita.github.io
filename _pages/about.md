@@ -64,7 +64,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
 # 开源项目
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ColugoMum</div><img src='images/login.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEGREZ</div><img src='images/login.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[MEGREZ 天权算能聚联计算平台]([https://github.com/thomas-yanxin/Smart_container](https://git.openi.org.cn/XShengTech))**

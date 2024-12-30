@@ -68,7 +68,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEGREZ</div><img src='./images/login.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[MEGREZ 天权算能聚联计算平台]([https://github.com/thomas-yanxin/Smart_container](https://git.openi.org.cn/XShengTech))**
+**[MEGREZ 天权算能聚联计算平台](https://git.openi.org.cn/XShengTech)**
 
 *  Make Extendable GPU Resource EASY. 简约、现代、优雅的开源高性能计算平台, 高效管理, 一键创建容器实例, 支持多节点/多GPU。
 </div>

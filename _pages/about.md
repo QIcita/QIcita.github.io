@@ -70,7 +70,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 **[MEGREZ 天权算能聚联计算平台](https://git.openi.org.cn/XShengTech)**
 
-*  Make Extendable GPU Resource EASY. 简约、现代、优雅的开源高性能计算平台, 高效管理, 一键创建容器实例, 支持多节点/多GPU。
+*  Make Extendable GPU Resource EASY！简约、现代、优雅的开源高性能计算平台, 支持多节点/多GPU高效管理与一键创建容器实例。
 </div>
 </div>
 

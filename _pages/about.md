@@ -59,9 +59,10 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序2/15）
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序13/15）
     
-#  开源贡献
+# 开源贡献
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
+
 # 开源项目
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEGREZ</div><img src='https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/login.png' alt="sym" width="100%"></div></div>

@@ -3,14 +3,17 @@ main:
   - title: "个人简介"
     url: "/# 个人简介"
 
-  - title: "研究团队"
-    url: "/# 研究团队"
-
   - title: "学术服务"
     url: "/# 学术服务"
 
-  - title: "荣誉获奖"
-    url: "/# 荣誉获奖"
+  - title: "个人获奖"
+    url: "/# 个人获奖"
+
+  - title: "开源贡献"
+    url: "/# 开源贡献"
+    
+  - title: "开源项目"
+    url: "/# 开源项目"
 
   - title: "Reports"
     url: "/# reports"

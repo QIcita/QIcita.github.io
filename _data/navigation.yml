@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "个人简介"
-    url: "/#个人简介"
+    url: "/# 个人简介"
 
   - title: "研究团队"
-    url: "/#研究团队"
+    url: "/# 研究团队"
 
   - title: "学术服务"
-    url: "/#学术服务"
+    url: "/# 学术服务"
 
   - title: "荣誉获奖"
-    url: "/#荣誉获奖"
+    url: "/# 荣誉获奖"
 
   - title: "Reports"
-    url: "/#reports"
+    url: "/# reports"
 

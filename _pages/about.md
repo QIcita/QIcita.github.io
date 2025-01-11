@@ -44,9 +44,9 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 #  学术服务
   - 安徽省人工智能学会  **情感计算专委会学生工作组组长**.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
-  - IEEE Transactions on Multimedia&emsp;Journal Reviewer.
-  - IEEE Open Journal of the Computer Society Reviewer.
-  - IEEE Internet of Things Journal&emsp;Journal Reviewer.
+  - IEEE Transactions on Multimedia&emsp;Reviewer.
+  - IEEE Open Journal of the Computer Society&emsp;Reviewer.
+  - IEEE Internet of Things Journal&emsp;Reviewer.
 
 # 个人获奖
   - 安徽合力 创新创业奖学金.

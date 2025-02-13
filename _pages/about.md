@@ -22,7 +22,8 @@ redirect_from:
 &emsp; &emsp;**[中国科学技术大学（University of Science and Technology of China, USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读，隶属于Visual Intelligence and Security (VIS) 研究组，导师是[刘斌](https://faculty.ustc.edu.cn/flowice/zh_CN/index.htm)副教授、[俞能海](https://faculty.ustc.edu.cn/yunenghai/zh_CN/index.htm)教授；于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器安徽省重点实验室，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE  Fellow）。主要研究方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等，同时关注人工智能安全（受新加坡A*STAR CFAR[张杰](https://zjzac.github.io/)研究员指导）、AI for Science（受安徽大学[宋立岩](https://zhxy.ahu.edu.cn/2020/0819/c16052a242636/page.htm)教授指导）等。此外作为晓声智能科技联合创始人，团队曾开源并承担多个项目，涵盖[大模型（**github 4K+ Star**）](https://github.com/Harry-zklcdc/go-proxy-bingai)、人机交互、多媒体信息处理等场景。<br>
 &emsp; &emsp;如果您寻求任何形式的学术或项目合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
-
+# News
+- 2025.02: 🎉🎉 One paper is accepted to PNAS Nexus！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c16052a242636/page.htm) for his guidance!
 <div style="display:none">
 # 研究团队
 

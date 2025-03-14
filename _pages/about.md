@@ -44,7 +44,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 </div>
 
 #  学术服务
-  - 安徽省人工智能学会  **情感计算专委会学生工作组组长**.\| [\[Link\]](https://www.aaai.net.cn/list/qgjszwh)
+  - 2024.08 - 2025.03 安徽省人工智能学会  **情感计算专委会学生工作组组长**.
   - IEEE Transactions on Multimedia&emsp;Reviewer.
   -  IEEE Transactions on Circuits and Systems for Video Technology&emsp;Reviewer.
   - IEEE Open Journal of the Computer Society&emsp;Reviewer.

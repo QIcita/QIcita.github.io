@@ -41,6 +41,19 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 </div>
 
+# 论文发表
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='./publications/img/cvpr25-wxc.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Natural-selected plastics biodegradation species and enzymes in landfills](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
+
+Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
+
+<!-- [[presss interest Paper]](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) -->
+
+</div>
+</div>
+
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
   - 2024.08 - 2025.03 安徽省人工智能学会  **情感计算专委会学生工作组组长**.

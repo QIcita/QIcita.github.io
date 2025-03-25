@@ -42,7 +42,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 </div>
 
 # 论文发表
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./publications/img/PNASNexus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./image/PNASNexus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Natural-selected plastics biodegradation species and enzymes in landfills](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)

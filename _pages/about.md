@@ -60,7 +60,8 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
   - Reviewer: IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
 
 # 个人获奖
-  - 中国科学技术大学先进技术研究院“英才项目”入选.\| [\[Link1\]](https://iat.ustc.edu.cn/u/cms/xjjs/202204/18160317wmer.pdf)
+  - 获得中国科学技术大学先进技术研究院“英才项目”资助.\| [\[Link1\]](https://iat.ustc.edu.cn/u/cms/xjjs/202204/18160317wmer.pdf)
+  - 获得中国科学技术大学创新创业学院“雏鹰基金项目”资助.\| [\[Link1\]](https://www.ustc.edu.cn/info/1364/22587.htm)
   - 中国科学技术大学一等奖学金.
   - 安徽合力创新创业奖学金.
   - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)

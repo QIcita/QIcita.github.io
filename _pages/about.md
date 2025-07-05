@@ -47,7 +47,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF RankA)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization]
+**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**
 
 Feng-Qi_Cui, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
 
@@ -59,7 +59,7 @@ Feng-Qi_Cui, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./_pages/images/PNASNexus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Natural-selected plastics biodegradation species and enzymes in landfills](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
+[**Natural-selected plastics biodegradation species and enzymes in landfills**](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
 
 Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
 

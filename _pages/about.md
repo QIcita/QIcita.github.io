@@ -23,7 +23,7 @@ redirect_from:
 &emsp; &emsp;如果您寻求任何形式的学术或项目合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
 # News
-- 2025.07: 🎉🎉 One paper is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/)  and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
+- 2025.07: 🎉🎉 One paper is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One paper is accepted to **PNAS Nexus [(presss interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c16052a242636/page.htm) for his guidance!
 <div style="display:none">
 # 研究团队

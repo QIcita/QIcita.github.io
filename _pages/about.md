@@ -44,6 +44,18 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 # 论文发表
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF RankA)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization]
+
+Feng-Qi_Cui, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
+
+<!-- [[presss interest Paper]](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) -->
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./_pages/images/PNASNexus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

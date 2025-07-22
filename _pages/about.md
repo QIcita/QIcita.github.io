@@ -47,7 +47,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF RankA)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**
+[**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**](https://arxiv.org/abs/2507.15765)
 
 **Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
 

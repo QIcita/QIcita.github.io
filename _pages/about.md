@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学（University of Science and Technology of China, USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读,同时于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器[安徽省重点实验室](https://aflab.hfut.edu.cn/)，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE  Fellow）。主要研究方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等。[晓声智能科技](https://www.xsheng-ai.com/)联合创始人，团队曾开源并承担多个项目，涵盖[分布式算能调度](https://docs.megrez.xsheng-ai.com/)、[大模型（**github 4K+ Star**）](https://github.com/Harry-zklcdc/go-proxy-bingai)、多媒体信息处理等场景。<br>
+&emsp; &emsp;**[中国科学技术大学（USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读,同时于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器[安徽省重点实验室](https://aflab.hfut.edu.cn/)，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE  Fellow）。主要研究方向是多媒体信息处理、可信计算机视觉、视觉语言大模型等。[晓声智能科技](https://www.xsheng-ai.com/)联合创始人，团队曾开源并承担多个项目，涵盖[分布式算能调度](https://docs.megrez.xsheng-ai.com/)、[大模型（**github 4K+ Star**）](https://github.com/Harry-zklcdc/go-proxy-bingai)、多媒体信息处理等场景。<br>
 &emsp; &emsp;如果您寻求任何形式的学术或项目合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
 # News

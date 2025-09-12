@@ -72,8 +72,8 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 </div>
 
 #  学术服务
-  - 情感计算与先进智能机器安徽省重点实验室 学生工作组. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
-  - 2024.08 - 2025.03 安徽省人工智能学会  **情感计算专委会学生工作组组长**.
+  - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
+  - 2024.08 - 2025.03 安徽省人工智能学会  情感计算专委会学生工作组组长.
   - Reviewer: IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
 
 # 个人荣誉

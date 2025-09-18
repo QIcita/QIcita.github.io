@@ -29,7 +29,7 @@ redirect_from:
 - 2025.09: 🎉🎉 One paper about Long-tailed DFER is accepted to IEEE ISPA 2025 (CCF Rank C).
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to **PNAS Nexus [(presss interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
-<div style="display:none">
+
 
 
 # Selected Publications
@@ -42,7 +42,6 @@ redirect_from:
 
 Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
-<!-- [[presss interest Paper]](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) -->
 
 </div>
 </div>
@@ -54,8 +53,6 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
 **Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
 
-<!-- [[presss interest Paper]](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) -->
-
 </div>
 </div>
 
@@ -66,7 +63,6 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
 Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
 
-<!-- [[presss interest Paper]](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) -->
 
 </div>
 </div>

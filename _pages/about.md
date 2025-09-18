@@ -46,7 +46,8 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan C
 
 </div>
 
-# 论文发表
+# Selected Publications
+- ## Published:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,6 +84,10 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 
 </div>
 </div>
+
+- ## Preprint:
+_Jinhao Jiang and Changlin Chen and Shile Feng and Wanru Geng and Zesheng Zhou and Ni Wang and Shuai Li and **Feng-Qi Cui** and Erbao Dong,Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence,2023.07.[\[Link\]](https://arxiv.org/abs/2505.06897)._
+
 
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)

@@ -30,21 +30,7 @@ redirect_from:
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to **PNAS Nexus [(presss interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
 <div style="display:none">
-# 研究团队
 
-<tr>
-<h4><a href="https://cybersec.ustc.edu.cn/main.htm">中国科学技术大学-网络空间安全学院/先进技术研究院（School of Cyber Science and Technology/Institute of Advanced Technology, University of Science and Technology of China) </a><br>
-<a href="https://faculty.ustc.edu.cn/flowice/zh_CN/index.htm">刘斌</a>副教授、<a href="https://faculty.ustc.edu.cn/yunenghai/zh_CN/index.htm">俞能海</a>教授团队，中国科学院电磁空间信息重点实验室（The CAS Key Laboratory of Electromagnetic Space Information）</h4>
-
-<h4><a href="http://iai.ustc.edu.cn/iai/r271.html">合肥综合性国家科学中心-人工智能研究院（Institute of Artificial Intelligence, Hefei Comprehensive National Science Center）</a><br>
-<a href="http://faculty.hfut.edu.cn/wm12/zh_CN/index/198449/list/index.htm">汪萌</a>教授团队，普适心理计算与交互干预实验室</h4>
-  
-</tr>
-
-- ## Paper:
-_Yang Liu, Liping Chen, Xiaobo Wu, António M. Lopes, **Fengqi Cui**, YangQuan Chen,Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network,**Chaos, Solitons & Fractals**,2023.07.**（中科院SCI一区Top，IF=9.922）**[\[Link\]](https://doi.org/10.1016/j.chaos.2023.113541)._
-
-</div>
 
 # Selected Publications
 - ## Published:

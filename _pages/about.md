@@ -68,7 +68,7 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 </div>
 
 - ## Preprint:
-_Jinhao Jiang and Changlin Chen and Shile Feng and Wanru Geng and Zesheng Zhou and Ni Wang and Shuai Li and **Feng-Qi Cui** and Erbao Dong,Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence,2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)._
+_Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)._
 
 
 #  学术服务

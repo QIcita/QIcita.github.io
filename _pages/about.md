@@ -38,7 +38,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**
+[**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
 
 Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 

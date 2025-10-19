@@ -29,24 +29,12 @@ redirect_from:
 - 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to **IEEE T-AFFC (CAAI Rank A, CCF Rank B)**!
 - 2025.09: 🎉🎉 One paper about Long-tailed DFER is accepted to IEEE ISPA 2025 (CCF Rank C).
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.02: 🎉🎉 One collaborative paper is accepted to **PNAS Nexus [(presss interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
-
+- 2025.02: 🎉🎉 One collaborative paper is accepted to **PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
+- 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to Journal of Computer Applications (CCF Rank T2)！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 
 
 # Selected Publications
 - ## Published:
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
-
-Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,9 +56,21 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
+
+Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
+
+
+</div>
+</div>
+
+
 - ## Preprint:
 _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)._
-
+_**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang, Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization, 2025.09.[\[Link\]](https://arxiv.org/abs/2509.21261)._
 
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)

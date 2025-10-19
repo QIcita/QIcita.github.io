@@ -98,11 +98,12 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 安徽合力创新创业奖学金.
   - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
   - CCF首届泛在智能感知技术创新应用大赛 **二等奖**.**（排序2/5）** \| [\[Link\]](https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA)
-  - 第八届中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+  - 第八届（2022）中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
   - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1/15）**
   - 中国国际大学生创新大赛(2023) **国家铜奖**.（排序5/15）\| [\[Link\]](https://djyszw.ustc.edu.cn/info/1006/5116.htm)
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序2/15）
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序13/15）
+  - 中国国际大学生创新大赛(2025) **国家铜奖**.（排序5/15）
     
 # 开源贡献
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)

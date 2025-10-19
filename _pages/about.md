@@ -25,12 +25,12 @@ redirect_from:
 &emsp; &emsp;如果您寻求任何形式的学术或项目合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 
 # News
-- 2025.10: 🎉🎉 One paper about WiFi Gesture Recognition is accepted to IEEE ICPADS 2025 (CCF Rank C).
-- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to **IEEE T-AFFC (CAAI Rank A, CCF Rank B)**!
+- 2025.10: 🎉🎉 One paper about WiFi Gesture Recognition is accepted to _IEEE ICPADS 2025 (CCF Rank C)_.
+- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.09: 🎉🎉 One paper about Long-tailed DFER is accepted to IEEE ISPA 2025 (CCF Rank C).
-- 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to **ACM MM 2025 (CCF Rank A)**！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.02: 🎉🎉 One collaborative paper is accepted to **PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
-- 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to Journal of Computer Applications (CCF Rank T2)！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
+- 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
+- 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
+- 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to _Journal of Computer Applications (CCF Rank T2)_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 
 
 # Selected Publications

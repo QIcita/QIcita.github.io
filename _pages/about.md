@@ -31,7 +31,7 @@ redirect_from:
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
 - 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to _Journal of Computer Applications (CCF Rank T2)_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
-
+'''
 
 # Selected Publications
 - ## Published:
@@ -84,7 +84,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 *  Make Extendable GPU Resource EASY！简约、现代、优雅的开源高性能计算平台, 支持多节点/多GPU高效管理与一键创建容器实例。
 </div>
 </div>
-
+'''
 
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)

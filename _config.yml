@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "崔丰麒（Feng-Qi Cui）"
+title                    : "Feng-Qi Cui"
 description              : " "
 repository               : "qicita/qicita.github.io"
 google_scholar_stats_use_cdn : true

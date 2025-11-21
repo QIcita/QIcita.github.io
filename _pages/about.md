@@ -107,7 +107,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
-  - 2024.08 - 2025.03 安徽省人工智能学会  情感计算专委会学生工作组组长.
+  - 2024.08 - 2025.03 安徽省人工智能学会  情感计算专委会学生工作组组长. \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
   - Reviewer: IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)

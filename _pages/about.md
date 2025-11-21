@@ -19,9 +19,10 @@ redirect_from:
 
 # 个人简介
 
-&emsp; &emsp;**[中国科学技术大学（USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读，同时于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器[安徽省重点实验室](https://aflab.hfut.edu.cn/)，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE/IAPR Fellow）。2024年本科毕业于合肥工业大学微电子科学与工程专业。<br>
-&emsp; &emsp;主要研究兴趣是多媒体信息处理、软硬件协同优化和可信计算理论及其在普适计算与人因感知建模方向的应用。在ACM Multimedia、PNAS Nexus、IEEE T-AFFC、Chaos, Solitons & Fractals 等会议或期刊发表论文多篇，授权国家发明专利4项。<br>
+&emsp; &emsp;**[中国科学技术大学（USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读，同时于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器[安徽省重点实验室](https://aflab.hfut.edu.cn/)，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE/IAPR Fellow）。2024年本科毕业于合肥工业大学微电子科学与工程专业。主要研究方向为以视觉为主的多媒体信息处理，聚焦心理生理计算、多模态人因感知，此外关注 AI4S、信息安全等交叉方向。<br>
 <!--
+&emsp; &emsp;主要研究兴趣是多媒体信息处理、软硬件协同优化和可信计算理论及其在普适计算与人因感知建模方向的应用。在ACM Multimedia、PNAS Nexus、IEEE T-AFFC、Chaos, Solitons & Fractals 等会议或期刊发表论文多篇，授权国家发明专利4项。<br>
+
 &emsp; &emsp;热衷于工程落地和开源实践，晓声智能科技联合创始人，团队曾开源并承担多个项目，涵盖[分布式算能调度](https://docs.megrez.xsheng-ai.com/)、[大模型（**github 4K+ Star**）](https://github.com/Harry-zklcdc/go-proxy-bingai)、多媒体信息处理等场景。曾作为第一负责人获得中国国际“互联网+”大学生创新创业大赛国家级银奖（产业赛道安徽省唯一入围全国总决赛项目）、中国国际大学生创新大赛铜奖等多个国家级奖项，同时作为核心成员或参与指导获得中国国际大学生创新大赛国家级奖项4项。<br>
 &emsp; &emsp;如果您寻求任何形式的学术或项目合作，请发送邮件至：fengqi_cui@mail.ustc.edu.cn 或 fengqi@iai.ustc.edu.cn。
 -->

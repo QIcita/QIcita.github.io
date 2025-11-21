@@ -37,6 +37,22 @@ redirect_from:
 
 # Selected Publications
 - ## Published:
+_**Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang, Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization, ACM MM'25 (CCF A), 2025.07.[\[\[Link\]](https://dl.acm.org/doi/abs/10.1145/3746027.3755036)
+
+_**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang, Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment, IEEE ICPADS'25 (CCF C), 2025.10. [\[Link\]](https://arxiv.org/abs/2510.13390)
+   
+_**Feng-Qi Cui**, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu, MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition, IEEE ISPA'25 (CCF C), 2025.09. [\[Link\]](https://arxiv.org/abs/2509.04344)
+
+_Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song, Natural-selected plastics biodegradation species and enzymes in landfills, PNAS Nexus, 2025.02. [\[Link\]](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
+
+_Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang, CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews, IEEE Transactions on Affective Computing (CAAI A, CCF B), 2025.09. [\[Link\]](https://ieeexplore.ieee.org/document/11175917)
+
+_黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志, 基于通用手环的睡眠呼吸暂停检测, 计算机应用 (CCF T2), 2024.11. [\[Link\]](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024081234)
+
+_Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, _**Feng-Qi Cui**, YangQuan Chen, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, Chaos, Solitons \& Fractals (中科院SCI一区TOP), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
+
+
+<!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,13 +84,13 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
 </div>
 </div>
-
+-->
 
 - ## Preprint:
   
-_**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang, Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization, 2025.09.[\[Link\]](https://arxiv.org/abs/2509.21261)._
+_**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang, Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization, 2025.09.[\[Link\]](https://arxiv.org/abs/2509.21261)
 
-_Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)._
+_Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)
 
 # 开源项目
 

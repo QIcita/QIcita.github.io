@@ -92,6 +92,7 @@ _**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan 
 
 _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)
 
+<!--
 # 开源项目
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEGREZ</div><img src='./_pages/images/login.png' alt="sym" width="100%"></div></div>
@@ -102,12 +103,16 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 *  Make Extendable GPU Resource EASY！简约、现代、优雅的开源高性能计算平台, 支持多节点/多GPU高效管理与一键创建容器实例。
 </div>
 </div>
-
+-->
 
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
   - 2024.08 - 2025.03 安徽省人工智能学会  情感计算专委会学生工作组组长.
   - Reviewer: IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
+  - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+  - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
+
+
 
 # 个人荣誉
   - 入选中国科学技术大学先进技术研究院“英才计划”.\| [\[Link1\]](https://iat.ustc.edu.cn/u/cms/xjjs/202204/18160317wmer.pdf)
@@ -123,9 +128,6 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序13/15）
   - 中国国际大学生创新大赛(2025) **国家铜奖**.（排序5/15）
     
-# 开源贡献
-  - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-  - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
 
 
 

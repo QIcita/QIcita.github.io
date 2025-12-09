@@ -27,6 +27,7 @@ redirect_from:
 -->
 
 # News
+- 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition.
 - 2025.10: 🎉🎉 One paper about WiFi Gesture Recognition is accepted to _IEEE ICPADS 2025 (CCF Rank C)_.
 - 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.09: 🎉🎉 One paper about Long-tailed DFER is accepted to _IEEE ISPA 2025 (CCF Rank C)_.

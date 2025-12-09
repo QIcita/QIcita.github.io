@@ -122,6 +122,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 中国科学技术大学一等奖学金.
   - 安徽合力创新创业奖学金.
   - 合肥工业大学十佳大学生.\| [\[Link1\]](https://mp.weixin.qq.com/s/zWz997qugojk9D1NaXyrsA)
+  - IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition **Silver Award**.
   - CCF首届泛在智能感知技术创新应用大赛 **二等奖**.**（排序2/5）** \| [\[Link\]](https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA)
   - 第八届（2022）中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
   - 中国国际大学生创新大赛(2023) **国家铜奖**.**（排序1/15）**

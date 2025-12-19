@@ -53,7 +53,7 @@ _**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang_, Generalizing WiFi 
    
 _**Feng-Qi Cui**, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu_, MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition, **IEEE ISPA'25** (<font color=#008000>CCF C</font>), 2025.09. [\[Link\]](https://arxiv.org/abs/2509.04344)
 
-_Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song_, Natural-selected plastics biodegradation species and enzymes in landfills, <font color="red">**PNAS Nexus**</font>, 2025.02. [\[Link\]](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
+_Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song_, Natural-selected plastics biodegradation species and enzymes in landfills, **<font color="red">PNAS Nexus</font>**, 2025.02. [\[Link\]](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
 
 _Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang_, CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews, **IEEE Transactions on Affective Computing** (<font color="red">CAAI A</font>, <font color=Blue>CCF B</font>), 2025.09. [\[Link\]](https://ieeexplore.ieee.org/document/11175917)
 

@@ -51,7 +51,7 @@ _**Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng 
 
 _**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang_, Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment, **IEEE ICPADS'25** (<font color=green>CCF C</font>), 2025.10. [\[Link\]](https://arxiv.org/abs/2510.13390)
    
-_**Feng-Qi Cui**, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu_, MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition, **IEEE ISPA'25** (<font color=#008000>CCF C</font>), 2025.09. [\[Link\]](https://arxiv.org/abs/2509.04344)
+_**Feng-Qi Cui**, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu_, MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition, **IEEE ISPA'25** (<font color=green>CCF C</font>), 2025.09. [\[Link\]](https://arxiv.org/abs/2509.04344)
 
 _Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song_, Natural-selected plastics biodegradation species and enzymes in landfills, **<font color="red">PNAS Nexus</font>**, 2025.02. [\[Link\]](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
 

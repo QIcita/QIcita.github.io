@@ -47,7 +47,7 @@ My main research interests are multimedia information processing, primarily visi
 # Selected Publications
 - ## Published:
 
-_**Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang_, Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization, ACM MM'25 (CCF A), 2025.07.[\[\[Link\]](https://dl.acm.org/doi/abs/10.1145/3746027.3755036)
+_**Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang_, Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization, ACM MM'25 (<font color="red">CCF A</font>), 2025.07.[\[\[Link\]](https://dl.acm.org/doi/abs/10.1145/3746027.3755036)
 
 _**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang_, Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment, IEEE ICPADS'25 (CCF C), 2025.10. [\[Link\]](https://arxiv.org/abs/2510.13390)
    

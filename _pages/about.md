@@ -49,7 +49,7 @@ My main research interests are multimedia information processing, primarily visi
 
 _**Feng-Qi Cui**, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang_, Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization, **ACM MM'25** (<font color="red">CCF A</font>), 2025.07.[\[\[Link\]](https://dl.acm.org/doi/abs/10.1145/3746027.3755036)
 
-_**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang_, Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment, **IEEE ICPADS'25** (<font color=#008000>CCF C</font>), 2025.10. [\[Link\]](https://arxiv.org/abs/2510.13390)
+_**Feng-Qi Cui**, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang_, Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment, **IEEE ICPADS'25** (<font color=green>CCF C</font>), 2025.10. [\[Link\]](https://arxiv.org/abs/2510.13390)
    
 _**Feng-Qi Cui**, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu_, MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition, **IEEE ISPA'25** (<font color=#008000>CCF C</font>), 2025.09. [\[Link\]](https://arxiv.org/abs/2509.04344)
 
@@ -57,7 +57,7 @@ _Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chua
 
 _Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang_, CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews, **IEEE Transactions on Affective Computing** (<font color="red">CAAI A</font>, <font color=Blue>CCF B</font>), 2025.09. [\[Link\]](https://ieeexplore.ieee.org/document/11175917)
 
-_黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志_, 基于通用手环的睡眠呼吸暂停检测, **计算机应用** (<font color=#008000>CCF T2</font>), 2024.11. [\[Link\]](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024081234)
+_黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志_, 基于通用手环的睡眠呼吸暂停检测, **计算机应用** (<font color=green>CCF T2</font>), 2024.11. [\[Link\]](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024081234)
 
 _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, _**Feng-Qi Cui**, YangQuan Chen_, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, **Chaos, Solitons & Fractals** (<font color="red">SCI TOP Q1</font>), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
 

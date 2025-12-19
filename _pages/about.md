@@ -111,15 +111,27 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 </div>
 -->
 
+# Selected Honors and Awards
+  - IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition **Silver Award**.
+  - CCF首届泛在智能感知技术创新应用大赛 **二等奖**.**（排序2/5）** \| [\[Link\]](https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA)
+  - 第八届（2022）中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ) \| [\[Link3\]](https://mp.weixin.qq.com/s/SgK9qSmYQ9ihIfvb1sHEwA)
+
+<!--
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
   - 2024.08 - 2025.03 安徽省人工智能学会  情感计算专委会学生工作组组长. \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
   - Reviewer: IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
+-->
+# Academic Services
+  - Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, **Student Working Group Leader**. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
+  - Anhui Provincial Artificial Intelligence Society, Emotional Computing Committee, Student Working Group Leader (2024.08 - 2025.03 ). \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
+  - Reviewer: IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
+  - Baidu PaddlePaddle Developers Experts (PPDE).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
 
 
-
+<!--
 # 个人荣誉
   - 入选中国科学技术大学先进技术研究院“英才计划”.\| [\[Link1\]](https://iat.ustc.edu.cn/u/cms/xjjs/202204/18160317wmer.pdf)
   - 获得中国科学技术大学创新创业学院“雏鹰基金项目”资助.（项目负责人）\| [\[Link1\]](https://www.ustc.edu.cn/info/1364/22587.htm)
@@ -134,7 +146,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序2/15）
   - 中国国际大学生创新大赛(2024) **国家铜奖**.（排序13/15）
   - 中国国际大学生创新大赛(2025) **国家铜奖**.（排序5/15）
-    
+-->    
 
 
 <!--

@@ -19,7 +19,7 @@ redirect_from:
 
 # 个人简介
 
-I am currently a graduate student in Computer Technology at the **[University of Science and Technology of China (USTC)](https://ustc.edu.cn/)**. My Master's program is a joint program with Pro. [Meng Wang (IEEE/IAPR Fellow)](https://aflab.hfut.edu.cn/info/1022/1023.htm)'s laboratory at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and I am also affiliated with the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, under the supervision of Associate Pro. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/). I graduated with a Bachelor's degree in Microelectronics Science and Engineering from Hefei University of Technology in 2024.<br>
+I am currently a graduate student in Computer Technology at the **[University of Science and Technology of China (USTC)](https://ustc.edu.cn/)**. My Master's program is a joint program with Pro. [Meng Wang (IEEE/IAPR Fellow)](https://aflab.hfut.edu.cn/info/1022/1023.htm)'s laboratory at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and I am also affiliated with the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, under the supervision of Associate Pro. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/). I graduated with a Bachelor's degree in Microelectronics Science and Engineering from Hefei University of Technology in 2024.
 My main research interests are multimedia information processing, primarily vision-based, focusing on psychophysiological computing and multimodal human factors perception. I also have an interest in interdisciplinary areas such as AI4S and information security.
 
 <!--

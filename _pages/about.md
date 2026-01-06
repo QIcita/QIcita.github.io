@@ -70,7 +70,7 @@ _Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang_, CausalSymptom: 
 
 _黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志_, 基于通用手环的睡眠呼吸暂停检测, **计算机应用** (<font color=green>CCF T2</font>), 2024.11. [\[Link\]](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024081234)
 
-_Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, _**Feng-Qi Cui**, YangQuan Chen_, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, **Chaos, Solitons & Fractals** (<font color="red">SCI TOP Q1</font>), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
+_Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan Chen_, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, **Chaos, Solitons & Fractals** (<font color="red">SCI TOP Q1</font>), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
 
 
 <!--
@@ -108,6 +108,10 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 -->
 
 - ## Preprint:
+
+_**Feng-Qi Cui**, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu_, ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition, 2026.01.[\[Link\]](https://arxiv.org/abs/2511.11406)
+
+_**Feng-Qi Cui**, Jinyang Huang, Ziyu Jia, Xinyu Li, Xin Yan, Xiaokang Zhou, Meng Wang_, Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis, 2025.11.[\[Link\]](https://arxiv.org/pdf/2511.11406)
   
 _**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang_, Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization, 2025.09.[\[Link\]](https://arxiv.org/abs/2509.21261)
 

@@ -109,7 +109,7 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
 - ## Preprint:
 
-_**Feng-Qi Cui**, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu_, ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition, 2026.01.[\[Link\]](https://arxiv.org/abs/2511.11406)
+_**Feng-Qi Cui**, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu_, ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition, 2026.01.[\[Link\]](https://arxiv.org/abs/2601.00311)
 
 _**Feng-Qi Cui**, Jinyang Huang, Ziyu Jia, Xinyu Li, Xin Yan, Xiaokang Zhou, Meng Wang_, Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis, 2025.11.[\[Link\]](https://arxiv.org/pdf/2511.11406)
   

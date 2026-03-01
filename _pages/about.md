@@ -55,7 +55,7 @@ My main research interests are multimedia information processing, primarily visi
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
 - 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to _Journal of Computer Applications (CCF Rank T2)_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 
--->
+
 
 # Selected Publications
 - ## Published:
@@ -73,9 +73,9 @@ _Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang_, CausalSymptom: 
 _黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志_, 基于通用手环的睡眠呼吸暂停检测, **计算机应用** (<font color=green>CCF T2</font>), 2024.11. [\[Link\]](https://www.joca.cn/CN/10.11772/j.issn.1001-9081.2024081234)
 
 _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan Chen_, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, **Chaos, Solitons & Fractals** (<font color="red">SCI TOP Q1</font>), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
+-->
 
-
-<!--
+# Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -85,6 +85,18 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Tifs (CCF Rank A)</div><img src='./_pages/images/tifs26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Identifying Who You Are No Matter What You
+Write through Abstracting Handwriting Style**
+
+Jinyang Huang, Yuanhao Feng, **Feng-Qi Cui (Equal contribution)**, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./_pages/images/PNASNexus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -107,7 +119,23 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
 </div>
 </div>
--->
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (CCF Rank B)</div><img src='./_pages/images/icassp1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://ieeexplore.ieee.org/document/11175917)
+
+Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+
+
+</div>
+</div>
+
+
+<!--
 
 - ## Preprint:
 
@@ -119,7 +147,7 @@ _**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan 
 
 _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, **Feng-Qi Cui**, Erbao Dong_, Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence, 2025.07.[\[Link\]](https://arxiv.org/abs/2505.06897)
 
-<!--
+
 # 开源项目
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MEGREZ</div><img src='./_pages/images/login.png' alt="sym" width="100%"></div></div>

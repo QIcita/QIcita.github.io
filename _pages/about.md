@@ -124,7 +124,7 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (CCF Rank B)</div><img src='./_pages/images/icassp1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://ieeexplore.ieee.org/document/11175917)
+[**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://arxiv.org/abs/2601.22616)
 
 Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
 

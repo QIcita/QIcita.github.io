@@ -37,6 +37,7 @@ My main research interests are multimedia information processing, primarily visi
 
 
 # News
+- 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
 - 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!

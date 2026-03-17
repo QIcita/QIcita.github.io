@@ -108,6 +108,17 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME (CCF Rank B)</div><img src='./_pages/images/icme1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution**
+
+Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 

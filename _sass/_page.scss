@@ -70,6 +70,22 @@
     font-size: 1em;
   }
 
+  .news-more {
+    margin-top: 0.35rem;
+
+    summary {
+      width: fit-content;
+      cursor: pointer;
+      color: $link-color;
+      font-weight: 600;
+      user-select: none;
+    }
+
+    &[open] {
+      margin-bottom: 0.6rem;
+    }
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;

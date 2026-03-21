@@ -19,8 +19,14 @@ author_profile: true
 - 2026.01: 🎉🎉 一篇关于 3D 目标检测的联合论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 技术竞赛中获得  _**Silver Award**_ !
 - 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+
+<details class='news-more' markdown='1'>
+<summary>展开更多</summary>
+
 - 2025.07: 🎉🎉  一篇关于动态面部表情识别的论文被录用至 _**ACM MM 2025 (CCF Rank A)**_！
 - 2025.02: 🎉🎉  一篇合作论文被 _**PNAS Nexus**_ 作为 [Presss Interest Paper](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) 接受！
+
+</details>
 
 
 

@@ -44,8 +44,14 @@ My main research interests are multimedia information processing, primarily visi
 - 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+
+<details class='news-more' markdown='1'>
+<summary>Show more</summary>
+
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
+
+</details>
 
 <!--
 

@@ -6,6 +6,8 @@ excerpt: ""
 author_profile: true
 ---
 
+
+
 <span class='anchor' id='about-me'></span>
 
 我目前是中国科学技术大学（USTC）计算机技术专业的研究生。硕士期间于合肥综合性国家科学中心人工智能研究院汪萌教授（IEEE/IAPR Fellow）团队联合培养，隶属于安徽省情感计算与先进智能机器安徽省重点实验室人因感知研究组，由黄锦阳副教授指导。我于 2024 年从合肥工业大学获得了微电子科学与工程的学士学位。我的主要研究兴趣在于多媒体信息处理，3D视觉与无线感知。
@@ -15,7 +17,7 @@ author_profile: true
 - 2026.03: 🎉🎉 一篇关于低光图像超分辨率的论文被录用至 _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 一篇关于手写身份验证的论文被录用至 _**IEEE T-DSC (CCF Rank A)**_！
 - 2026.01: 🎉🎉 一篇关于 3D 目标检测的联合论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
-- 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 年技术竞赛中获得  _**Silver Award**_ !
+- 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 技术竞赛中获得  _**Silver Award**_ !
 - 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.07: 🎉🎉  一篇关于动态面部表情识别的论文被录用至 _**ACM MM 2025 (CCF Rank A)**_！
 - 2025.02: 🎉🎉  一篇合作论文被 _**PNAS Nexus**_ 作为 [Presss Interest Paper](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) 接受！
@@ -25,7 +27,7 @@ author_profile: true
 <span class='anchor' id='selected-publications'></span>
 # 代表论文
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='{{ "/_pages/images/MM2025.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**](https://arxiv.org/abs/2507.15765)
@@ -35,7 +37,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-DSC (CCF Rank A)</div><img src='./_pages/images/tifs26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-DSC (CCF Rank A)</div><img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style**](https://ieeexplore.ieee.org/document/11417419)
@@ -46,7 +48,7 @@ Jinyang Huang, Yuanhao Feng, **Feng-Qi Cui (Equal contribution)**, Xiang Zhang, 
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./_pages/images/PNASNexus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='{{ "/_pages/images/PNASNexus.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Natural-selected plastics biodegradation species and enzymes in landfills**](https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true)
@@ -57,7 +59,7 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2026 (CCF Rank B)</div><img src='./_pages/images/icme1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2026 (CCF Rank B)</div><img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution**
@@ -68,7 +70,7 @@ Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='{{ "/_pages/images/taffc1.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
@@ -81,7 +83,7 @@ Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
 
  
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (CCF Rank B)</div><img src='./_pages/images/icassp1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (CCF Rank B)</div><img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://arxiv.org/abs/2601.22616)

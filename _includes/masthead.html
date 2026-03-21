@@ -1,7 +1,10 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
-      {% assign is_zh = page.lang == "zh" %}
+      {% assign is_zh = false %}
+      {% if page.url == '/zh/' or page.url == '/zh' or page.url contains '/zh/' %}
+        {% assign is_zh = true %}
+      {% endif %}
       {% if is_zh %}
         {% assign menu_key = "main_zh" %}
         {% assign home_label = "首页" %}

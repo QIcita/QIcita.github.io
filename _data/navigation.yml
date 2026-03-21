@@ -1,6 +1,6 @@
 # main links links
-main:
-  - title: "个人简介"
+main_en:
+  - title: "About"
     url: "/#about-me"
 
   - title: "News"
@@ -14,4 +14,20 @@ main:
 
   - title: "Services"
     url: "/#academic-services"
+
+main_zh:
+  - title: "个人简介"
+    url: "/zh/#about-me"
+
+  - title: "最新动态"
+    url: "/zh/#news"
+
+  - title: "代表论文"
+    url: "/zh/#selected-publications"
+
+  - title: "荣誉奖项"
+    url: "/zh/#selected-honors-and-awards"
+
+  - title: "学术服务"
+    url: "/zh/#academic-services"
 

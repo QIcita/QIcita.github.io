@@ -1,13 +1,38 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+      {% assign is_zh = page.lang == "zh" %}
+      {% if is_zh %}
+        {% assign menu_key = "main_zh" %}
+        {% assign home_label = "首页" %}
+        {% assign home_url = "/zh/#about-me" %}
+      {% else %}
+        {% assign menu_key = "main_en" %}
+        {% assign home_label = "Homepage" %}
+        {% assign home_url = "/#about-me" %}
+      {% endif %}
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="#about-me">Homepage</a></li>
-          {% for link in site.data.navigation.main %}
+          <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item"><a href="{{ home_url }}">{{ home_label }}</a></li>
+          {% for link in site.data.navigation[menu_key] %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          <li class="masthead__menu-item masthead__menu-item--lang">
+            <span class="lang-switch">
+              {% if is_zh %}
+                <a href="/#about-me">En</a>
+              {% else %}
+                <span class="is-active">En</span>
+              {% endif %}
+              <span class="lang-switch__sep">|</span>
+              {% if is_zh %}
+                <span class="is-active">中文</span>
+              {% else %}
+                <a href="/zh/#about-me">中文</a>
+              {% endif %}
+            </span>
+          </li>
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

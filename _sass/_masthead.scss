@@ -61,4 +61,26 @@
   }
 }
 
+.masthead__menu-item--lang {
+  font-weight: 600;
+}
+
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+}
+
+.lang-switch a {
+  margin: 0 0.2rem !important;
+}
+
+.lang-switch__sep {
+  color: $muted-text-color;
+}
+
+.lang-switch .is-active {
+  margin: 0 0.2rem;
+  color: $masthead-link-color;
+}
+
 

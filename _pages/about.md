@@ -1,5 +1,6 @@
 ---
 permalink: /
+lang: en
 title: ""
 excerpt: ""
 author_profile: true
@@ -36,6 +37,7 @@ My main research interests are multimedia information processing, primarily visi
 
 
 
+<span class='anchor' id='news'></span>
 # News
 - 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
@@ -76,6 +78,7 @@ _黄锦阳, **崔丰麒(导师一作)**, 马长秀, 樊文东, 李萌, 李经宇
 _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan Chen_, Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network, **Chaos, Solitons & Fractals** (<font color="red">SCI TOP Q1</font>), 2023.07. [\[Link\]](https://www.sciencedirect.com/science/article/pii/S0960077923004423)
 -->
 
+<span class='anchor' id='selected-publications'></span>
 # Selected Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -170,6 +173,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 </div>
 -->
 
+<span class='anchor' id='selected-honors-and-awards'></span>
 # Selected Honors and Awards
   - IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition **Silver Award**.<br> _(Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian , Zhangbin Li, Siying Tao, **Feng-Qi Cui**, Meng Wang)_ \| [\[Link\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/mmtc25.png)
   - Hefei University of Technology, one of the **top ten outstanding students (only 10 in the entire university)**.
@@ -184,6 +188,7 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
 -->
+<span class='anchor' id='academic-services'></span>
 # Academic Services
   - Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, **Student Working Group Leader**. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
   - Anhui Provincial Artificial Intelligence Society, Emotional Computing Committee, Student Working Group Leader (2024.08 - 2025.03 ). \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)

@@ -9,6 +9,8 @@
 title                    : "Feng-Qi Cui"
 description              : " "
 repository               : "qicita/qicita.github.io"
+url                      : "https://qicita.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics

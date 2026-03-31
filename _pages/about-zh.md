@@ -14,9 +14,10 @@ author_profile: true
 
 <span class='anchor' id='news'></span>
 # 最新动态
+- 2026.04: 🎉🎉 一篇关于遥感图像分类的合作论文被录用至 _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 一篇关于低光图像超分辨率的论文被录用至 _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 一篇关于手写身份验证的论文被录用至 _**IEEE T-DSC (CCF Rank A)**_！
-- 2026.01: 🎉🎉 一篇关于 3D 目标检测的联合论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
+- 2026.01: 🎉🎉 一篇关于 3D 目标检测的合作论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 技术竞赛中获得  _**Silver Award**_ !
 - 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 
@@ -75,6 +76,16 @@ Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huan
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS (CCF Rank B)</div><img src='./_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification** 
+Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='{{ "/_pages/images/taffc1.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

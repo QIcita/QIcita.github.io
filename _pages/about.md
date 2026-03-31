@@ -39,6 +39,7 @@ My main research interests are multimedia information processing, primarily visi
 
 <span class='anchor' id='news'></span>
 # News
+- 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
 - 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
@@ -125,6 +126,15 @@ Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuan
 
 Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS (CCF Rank B)</div><img src='./_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification** 
+Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
 
 </div>
 </div>

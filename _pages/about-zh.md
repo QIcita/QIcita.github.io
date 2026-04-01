@@ -77,7 +77,7 @@ Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huan
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS (CCF Rank B)</div><img src='./_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS (CCF Rank B)</div><img src='/_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification** 

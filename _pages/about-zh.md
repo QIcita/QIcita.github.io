@@ -14,6 +14,7 @@ author_profile: true
 
 <span class='anchor' id='news'></span>
 # 最新动态
+- 2026.04: 🎉🎉 一篇关于脑电图听觉注意力解码的合作论文被录用至 _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于遥感图像分类的合作论文被录用至 _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 一篇关于低光图像超分辨率的论文被录用至 _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 一篇关于手写身份验证的论文被录用至 _**IEEE T-DSC (CCF Rank A)**_！
@@ -111,6 +112,17 @@ Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF Rank B)</div><img src='./_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
+ 
+Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
+
+</div>
+</div>
+
 
 <span class='anchor' id='selected-honors-and-awards'></span>
 # 荣誉奖项

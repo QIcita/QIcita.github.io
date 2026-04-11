@@ -39,6 +39,7 @@ My main research interests are multimedia information processing, primarily visi
 
 <span class='anchor' id='news'></span>
 # News
+- 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
@@ -143,6 +144,7 @@ Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+
 [**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
 
 Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
@@ -163,6 +165,17 @@ Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan 
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF Rank B)</div><img src='./_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
+ 
+Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
+
+</div>
+</div>
+
 
 
 <!--

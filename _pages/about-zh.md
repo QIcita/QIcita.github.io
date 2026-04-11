@@ -118,7 +118,8 @@ Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan 
 
  **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
  
-Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
+Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
+ 
 
 </div>
 </div>

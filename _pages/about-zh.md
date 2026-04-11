@@ -113,7 +113,7 @@ Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF Rank B)</div><img src='./_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF Rank B)</div><img src='/_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 

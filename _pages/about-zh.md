@@ -14,17 +14,18 @@ author_profile: true
 
 <span class='anchor' id='news'></span>
 # 最新动态
+- 2026.04: 🎉🎉 一篇关于具身智能的合作论文被录用至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于脑电图听觉注意力解码的合作论文被录用至 _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于遥感图像分类的合作论文被录用至 _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 一篇关于低光图像超分辨率的论文被录用至 _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 一篇关于手写身份验证的论文被录用至 _**IEEE T-DSC (CCF Rank A)**_！
 - 2026.01: 🎉🎉 一篇关于 3D 目标检测的合作论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 技术竞赛中获得  _**Silver Award**_ !
-- 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 
 <details class='news-more' markdown='1'>
 <summary>展开更多</summary>
 
+- 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.07: 🎉🎉  一篇关于动态面部表情识别的论文被录用至 _**ACM MM 2025 (CCF Rank A)**_！
 - 2025.02: 🎉🎉  一篇合作论文被 _**PNAS Nexus**_ 作为 [Presss Interest Paper](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) 接受！
 
@@ -123,6 +124,20 @@ Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (CCF Rank B)</div><img src='./_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space** 
+ 
+Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, **Feng-Qi Cui**, Erbao Dong, Wenjing Chen
+ 
+
+
+</div>
+</div>
+
 
 
 <span class='anchor' id='selected-honors-and-awards'></span>

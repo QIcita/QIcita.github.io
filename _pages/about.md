@@ -39,17 +39,19 @@ My main research interests are multimedia information processing, primarily visi
 
 <span class='anchor' id='news'></span>
 # News
+- 2026.04: 🎉🎉 One collaborative paper about Embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
 - 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
 - 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+
 
 <details class='news-more' markdown='1'>
 <summary>Show more</summary>
-
+  
+- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
 
@@ -172,6 +174,18 @@ Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan 
  **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
  
 Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
+ 
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (CCF Rank B)</div><img src='./_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+ **PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space** 
+ 
+Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, **Feng-Qi Cui**, Erbao Dong, Wenjing Chen
  
 
 

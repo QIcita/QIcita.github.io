@@ -126,7 +126,7 @@ Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (CCF Rank B)</div><img src='./_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (CCF Rank B)</div><img src='/_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
  **PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space** 

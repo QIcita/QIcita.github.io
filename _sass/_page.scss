@@ -5,7 +5,7 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 1em;
+  margin-top: 0; /* reduce unnecessary top gap under masthead */
   padding-left: 1em;
   padding-right: 1em;
   animation: intro 0.3s both;
@@ -18,18 +18,26 @@
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(0 of 12);
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 0;
+    padding-right: 0;
+    display: flow-root;
   }
 
   .page__inner-wrap {
-    @include full();
+    clear: none;
+    float: none;
+    width: auto;
 
     .page__content,
     .page__meta,
-    .page__share {
-      @include full();
+    .page__share,
+    .page__comments {
+      float: none;
+      width: auto;
     }
   }
 }
@@ -50,15 +58,18 @@
 
 .page__content {
   #about-me{
-    margin-top: -10em;
-      &:before { 
-        content: ''; 
-        display: block; 
-        position: relative; 
-        width: 0; 
-        height: 10em; 
-        margin-top: -10em;
-    }
+    margin-top: 0; /* remove legacy negative offset */
+  }
+  /* Use scroll-margin-top for reliable anchor scrolling (replaces negative-margin trick) */
+  .anchor {
+    display: block;
+    visibility: hidden;
+    height: 0;
+    scroll-margin-top: 4.5rem;
+  }
+  /* Fallback: ensure elements with IDs also get an appropriate scroll offset */
+  [id] {
+    scroll-margin-top: 4.5rem;
   }
   h1 {
     margin-top: 1em;
@@ -72,6 +83,7 @@
 
   .news-more {
     margin-top: 0.35rem;
+    margin-bottom: 1.5rem;
 
     summary {
       width: fit-content;
@@ -82,7 +94,7 @@
     }
 
     &[open] {
-      margin-bottom: 0.6rem;
+      margin-bottom: 2rem;
     }
   }
 

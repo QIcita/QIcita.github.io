@@ -14,10 +14,8 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-// $sans-serif                 : Georgia, serif, sans-serif;
-
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$sans-serif                 : -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+// alternative: use system font stack for a modern Apple-like feel on macOS
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -34,6 +32,22 @@ $garamond                   : Garamond, serif;
 $global-font-family         : $sans-serif;
 $header-font-family         : $sans-serif;
 $caption-font-family        : $serif;
+
+/* Design System - Spacing */
+$base-spacing               : 1rem;
+$spacing-xs                 : 0.25rem;
+$spacing-sm                 : 0.5rem;
+$spacing-md                 : 1rem;
+$spacing-lg                 : 1.5rem;
+$spacing-xl                 : 2rem;
+$spacing-2xl                : 2.5rem;
+
+/* Glass Morphism & Modern UI */
+$glass-bg-light             : rgba(255, 255, 255, 0.7);
+$glass-bg-dark              : rgba(17, 25, 40, 0.8);
+$border-radius-sm           : 8px;
+$border-radius              : 12px;
+$border-radius-lg           : 16px;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -57,13 +71,17 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #fff;
+$background-color           : #f6f8fb;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : #0a84ff; // macOS accent-like blue for a subtle Apple feel
+$accent-color               : #0a84ff;
+$shadow-sm                  : 0 2px 4px rgba(0, 0, 0, 0.06);
+$shadow-md                  : 0 4px 12px rgba(0, 0, 0, 0.08);
+$shadow-lg                  : 0 12px 24px rgba(0, 0, 0, 0.12);
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -150,8 +168,10 @@ $susy: (
    Other
    ========================================================================== */
 
-$border-radius              : 4px;
-$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
+$border-radius              : 8px;
+$box-shadow                 : 0 10px 30px rgba(12, 16, 20, 0.06);
+$glass-bg-light            : rgba(255, 255, 255, 0.6);
+$glass-bg-dark             : rgba(20, 22, 25, 0.5);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;

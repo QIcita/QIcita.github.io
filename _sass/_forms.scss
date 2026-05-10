@@ -77,16 +77,26 @@ textarea,
 select {
   display: inline-block;
   width: 100%;
-  padding: 0.25em;
-  margin-bottom: 0.5em;
+  padding: $spacing-sm $spacing-md;
+  margin-bottom: $spacing-md;
   color: $text-color;
-  background-color: #fff;
-  border: 1px solid mix(#fff, #000, 80%);
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: $border-radius-sm;
+  box-shadow: $shadow-sm;
+  font-size: 1em;
+  transition: all 0.3s ease;
 
   &:hover {
-    border-color: mix(#fff, $primary-color, 50%);
+    border-color: rgba(10, 132, 255, 0.3);
+    box-shadow: $shadow-md;
+  }
+  
+  &:focus {
+    outline: none;
+    border-color: $primary-color;
+    background-color: #fff;
+    box-shadow: 0 0 0 3px rgba(10, 132, 255, 0.1), $shadow-md;
   }
 }
 
@@ -140,7 +150,27 @@ input[type="reset"],
 input[type="submit"] {
   width: auto;
   height: auto;
+  padding: $spacing-sm $spacing-xl;
   cursor: pointer;
+  background: linear-gradient(135deg, $primary-color 0%, mix($primary-color, #fff, 90%) 100%);
+  color: white;
+  border: none;
+  border-radius: $border-radius;
+  font-weight: 700;
+  font-size: $type-size-5;
+  transition: all 0.3s ease;
+  box-shadow: $shadow-md;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: $shadow-lg;
+  }
+  
+  &:active {
+    transform: translateY(0);
+    box-shadow: $shadow-sm;
+  }
+  
   *overflow: visible;
 }
 

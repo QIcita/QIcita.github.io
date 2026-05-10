@@ -5,9 +5,10 @@
 #main {
   @include container;
   @include clearfix;
-  margin-top: 0; /* reduce unnecessary top gap under masthead */
-  padding-left: 1em;
-  padding-right: 1em;
+  margin-top: 0;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  padding-top: $spacing-lg;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
@@ -65,36 +66,56 @@
     display: block;
     visibility: hidden;
     height: 0;
-    scroll-margin-top: 4.5rem;
+    scroll-margin-top: 5rem;
   }
   /* Fallback: ensure elements with IDs also get an appropriate scroll offset */
   [id] {
-    scroll-margin-top: 4.5rem;
+    scroll-margin-top: 5rem;
   }
   h1 {
-    margin-top: 1em;
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    margin-top: $spacing-2xl;
+    margin-bottom: $spacing-lg;
+    padding-bottom: $spacing-md;
+    border-bottom: 2px solid $border-color;
+    transition: color 0.2s ease;
+    &:hover {
+      color: $primary-color;
+    }
+  }
+  h2 {
+    margin-top: $spacing-2xl;
+    margin-bottom: $spacing-lg;
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.8;
   }
 
   .news-more {
-    margin-top: 0.35rem;
-    margin-bottom: 1.5rem;
+    margin-top: $spacing-md;
+    margin-bottom: $spacing-2xl;
+    background: rgba(10, 132, 255, 0.04);
+    padding: $spacing-lg;
+    border-left: 4px solid $primary-color;
+    border-radius: $border-radius-sm;
+    transition: all 0.2s ease;
 
     summary {
       width: fit-content;
       cursor: pointer;
-      color: $link-color;
-      font-weight: 600;
+      color: $primary-color;
+      font-weight: 700;
       user-select: none;
+      transition: all 0.2s ease;
+      &:hover {
+        transform: translateX(4px);
+      }
     }
 
     &[open] {
-      margin-bottom: 2rem;
+      margin-bottom: $spacing-2xl;
+      background: rgba(10, 132, 255, 0.08);
     }
   }
 

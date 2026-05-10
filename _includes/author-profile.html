@@ -9,7 +9,7 @@
     {% unless avatar_src contains '://' %}
       {% assign avatar_src = avatar_src | relative_url %}
     {% endunless %}
-    <img src="{{ avatar_src }}" class="author__avatar" alt="{{ author.name }}">
+    <img src="{{ avatar_src }}" alt="{{ author.name }}">
   </div>
 
   <div class="author__content">

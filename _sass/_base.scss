@@ -13,7 +13,11 @@ body {
   padding-bottom: 0em;
   color: $text-color;
   font-family: $global-font-family;
-  line-height: 1.5;
+  line-height: 1.6;
+  letter-spacing: 0.3px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(135deg, #f8f9fc 0%, #ffffff 100%);
 
   &.overflow--hidden {
     /* when primary navigation is visible, the content in the background won't scroll */
@@ -22,24 +26,32 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 1em 0 0.5em;
-  line-height: 1.2;
+  margin: $spacing-xl 0 $spacing-md;
+  line-height: 1.3;
   font-family: $header-font-family;
-  font-weight: bold;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 h1 {
-  // margin: 4em 0 0.5em;
-  margin-top: 1em;
+  margin-top: $spacing-2xl;
+  margin-bottom: $spacing-lg;
   font-size: $type-size-3;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  color: mix(#000, $text-color, 15%);
 }
 
 h2 {
+  margin-top: $spacing-2xl;
   font-size: $type-size-4;
+  font-weight: 700;
+  color: mix(#000, $text-color, 10%);
 }
 
 h3 {
   font-size: $type-size-5;
+  color: mix(#000, $text-color, 5%);
 }
 
 h4 {
@@ -59,7 +71,8 @@ small, .small {
 }
 
 p {
-  margin-bottom: 0.5em;
+  margin-bottom: $spacing-md;
+  line-height: 1.7;
 }
 
 u,
@@ -73,7 +86,8 @@ ins {
 
 ul {
   padding-inline-start: 2em;
-  margin-block-start: 0.5em;
+  margin-block-start: $spacing-md;
+  margin-block-end: $spacing-md;
 }
 
 del a {
@@ -165,6 +179,43 @@ hr {
   margin: 1em 0;
   border: 0;
   border-top: 1px solid $border-color;
+}
+
+/* Glassy panels for cards and sections */
+.panel {
+  background: $glass-bg-light;
+  border-radius: $border-radius;
+  box-shadow: $box-shadow;
+  border: 1px solid rgba(255,255,255,0.6);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  padding: 1rem;
+}
+
+/* Site grid: content + sidebar */
+.site-grid {
+  display: grid;
+  /* mobile-first: single column by default */
+  grid-template-columns: 1fr;
+  grid-gap: 2rem;
+  align-items: start;
+  /* at medium and up, use content + sidebar columns */
+  @include breakpoint($medium) {
+    grid-template-columns: 320px minmax(0, 1fr);
+  }
+}
+
+.main-content {
+  min-width: 0;
+  width: 100%;
+  max-width: none;
+  margin: 0;
+}
+
+/* Page content tweaks */
+.page__content {
+  padding: 1.25rem 1.5rem;
+  color: mix(#000, $text-color, 5%);
 }
 
 /* lists */

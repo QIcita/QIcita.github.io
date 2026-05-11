@@ -344,7 +344,7 @@ title: ""
 
 <!-- Theme 5: Interdisciplinary -->
 <div class='topic-section'>
-  <h3>交叉学科研究与探索</h3>
+  <h3>AI 交叉学科研究与探索</h3>
   <p class='topic-description'>跨越生物医学、环境科学与工程等领域，开展早期探索性研究。</p>
   <div class='carousel-scroll'>
 

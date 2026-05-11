@@ -397,7 +397,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <!-- Theme 5: Interdisciplinary -->
 <div class='topic-section'>
-  <h3>Interdisciplinary Studies and Early-stage Research</h3>
+  <h3>AI for Science</h3>
   <p class='topic-description'>Exploring innovative applications of AI technology across biomedical engineering, environmental science, and physical systems.</p>
   <div class='carousel-scroll'>
 

@@ -36,7 +36,7 @@ title: ""
 
 <!-- Theme 1: Robust Representation Learning -->
 <div class='topic-section'>
-  <h3>面向细粒度视觉理解的鲁棒表征学习</h3>
+  <h3>细粒度视觉理解与鲁棒表征学习</h3>
   <p class='topic-description'>在人脸表情、微动作、手写与场景分类等视觉行为理解任务中，研究具有分布鲁棒性和跨域泛化能力的表征学习方法。</p>
   <div class='carousel-scroll'>
 
@@ -147,7 +147,7 @@ title: ""
 
 <!-- Theme 2: Trustworthy Affective Computing -->
 <div class='topic-section'>
-  <h3>面向可信情感计算与健康感知的感知智能</h3>
+  <h3>可信心理生理计算与健康感知智能</h3>
   <p class='topic-description'>在抑郁症严重度估计、呼吸信号监测与跨主体听觉注意力解码中，发展因果表示与多模态融合以实现可信可解释的医学/健康感知系统。</p>
   <div class='carousel-scroll'>
 
@@ -344,7 +344,7 @@ title: ""
 
 <!-- Theme 5: Interdisciplinary -->
 <div class='topic-section'>
-  <h3>交叉学科研究与早期探索</h3>
+  <h3>交叉学科研究与探索</h3>
   <p class='topic-description'>跨越生物医学、环境科学与工程等领域，开展早期探索性研究。</p>
   <div class='carousel-scroll'>
 

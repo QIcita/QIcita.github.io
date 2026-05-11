@@ -359,7 +359,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <!-- Theme 4: Trustworthy Interaction Systems -->
 <div class='topic-section'>
-  <h3>Trustworthy Interaction Systems: Security, Privacy, and Reliable Perception</h3>
+  <h3>Trustworthy Intelligent Interaction System</h3>
   <p class='topic-description'>Research on attack detection, privacy-robust behavior recognition, and reliable perception algorithms to build secure interaction systems.</p>
   <div class='carousel-scroll'>
 

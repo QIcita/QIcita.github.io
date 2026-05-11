@@ -222,6 +222,19 @@
       text-decoration: underline;
     }
   }
+
+  i,
+  .fa,
+  .fab,
+  .fas,
+  .ai {
+    color: inherit;
+  }
+
+  .fa-github,
+  .fa-github-square {
+    color: $primary-color !important;
+  }
 }
 
 .author__urls_sm{

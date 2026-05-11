@@ -39,6 +39,8 @@ My main research interests are multimedia information processing, primarily visi
 
 <span class='anchor' id='news'></span>
 # News
+<div class='news-window' markdown='1'>
+
 - 2026.04: 🎉🎉 One collaborative paper about Embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
@@ -47,15 +49,11 @@ My main research interests are multimedia information processing, primarily visi
 - 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 
-
-<details class='news-more' markdown='1'>
-<summary>Show more</summary>
-  
 - 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
 
-</details>
+</div>
 
 <!--
 
@@ -90,6 +88,8 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications
+<div class='paper-grid'>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -193,6 +193,8 @@ Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, *
 </div>
 
 
+
+</div>
 
 <!--
 

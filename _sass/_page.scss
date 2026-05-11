@@ -255,6 +255,35 @@
    Social sharing
    ========================================================================== */
 
+  .news-window {
+    margin-top: $spacing-md;
+    margin-bottom: $spacing-2xl;
+    padding: $spacing-lg;
+    max-height: 320px;
+    overflow-y: auto;
+    background: linear-gradient(180deg, rgba(10, 132, 255, 0.10) 0%, rgba(10, 132, 255, 0.04) 100%);
+    border: 1px solid rgba(10, 132, 255, 0.18);
+    border-left: 4px solid $primary-color;
+    border-radius: $border-radius-lg;
+    box-shadow: $shadow-sm;
+    scrollbar-gutter: stable;
+
+    ul {
+      margin-bottom: 0;
+      padding-left: 1.25rem;
+    }
+
+    li {
+      margin-bottom: $spacing-sm;
+      line-height: 1.65;
+    }
+
+    a {
+      color: $primary-color;
+      font-weight: 600;
+    }
+  }
+
 .page__share {
   margin-top: 2em;
   padding-top: 1em;

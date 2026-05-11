@@ -14,6 +14,8 @@ author_profile: true
 
 <span class='anchor' id='news'></span>
 # 最新动态
+<div class='news-window' markdown='1'>
+
 - 2026.04: 🎉🎉 一篇关于具身智能的合作论文被录用至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于脑电图听觉注意力解码的合作论文被录用至 _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于遥感图像分类的合作论文被录用至 _**IEEE T-GRS (CCF Rank B)**_!
@@ -21,20 +23,18 @@ author_profile: true
 - 2026.02: 🎉🎉 一篇关于手写身份验证的论文被录用至 _**IEEE T-DSC (CCF Rank A)**_！
 - 2026.01: 🎉🎉 一篇关于 3D 目标检测的合作论文被录用至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
 - 2025.12: 🎉🎉 团队在 IEEE Communications Society Multimedia Communications Technical  Committee 2025 技术竞赛中获得  _**Silver Award**_ !
-
-<details class='news-more' markdown='1'>
-<summary>展开更多</summary>
-
 - 2025.09: 🎉🎉 一篇关于抑郁症评估的合作论文被录用至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
 - 2025.07: 🎉🎉  一篇关于动态面部表情识别的论文被录用至 _**ACM MM 2025 (CCF Rank A)**_！
-- 2025.02: 🎉🎉  一篇合作论文被 _**PNAS Nexus**_ 作为 [Presss Interest Paper](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) 接受！
+- 2025.02: 🎉🎉 一篇合作论文被 _**PNAS Nexus**_ 作为 [Presss Interest Paper](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html) 接受！
 
-</details>
+</div>
 
 
 
 <span class='anchor' id='selected-publications'></span>
 # 代表论文
+
+<div class='paper-grid'>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='{{ "/_pages/images/MM2025.png" | relative_url }}' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,6 +138,8 @@ Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, *
 </div>
 </div>
 
+
+ </div>
 
 
 <span class='anchor' id='selected-honors-and-awards'></span>

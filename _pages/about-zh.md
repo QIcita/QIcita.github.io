@@ -54,6 +54,48 @@ title: ""
       </div>
     </div>
 
+   <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-IFS 2026</div>
+          <img src='{{ "/_pages/images/tifs2026.png" | relative_url }}' alt="TIFS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong><br>
+
+        <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICME 2026</div>
+          <img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="ICME2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2603.27301"><strong>Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution</strong></a>
+
+        Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui (Corresponding author)</strong>, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-GRS 2026</div>
+          <img src='{{ "/_pages/images/tgrs.png" | relative_url }}' alt="TGRS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11479341"> <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
+
+        Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
+      </div>
+    </div>
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -71,7 +113,7 @@ title: ""
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">ISPA / MICACL 2025</div>
+          <div class="badge">ISPA 2025</div>
           <img src='{{ "/_pages/images/micacl.png" | relative_url }}' alt="MICACL" width="100%">
         </div>
       </div>
@@ -110,47 +152,7 @@ title: ""
       </div>
     </div>
 
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-IFS 2026</div>
-          <img src='{{ "/_pages/images/tifs2026.png" | relative_url }}' alt="TIFS2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong>
-
-        <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE ICME 2026</div>
-          <img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="ICME2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution</strong>
-
-        Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui (Corresponding author)</strong>, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-GRS 2026</div>
-          <img src='{{ "/_pages/images/tgrs.png" | relative_url }}' alt="TGRS2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong>
-
-        Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
-      </div>
-    </div>
+   
 
   </div> <!-- .carousel-scroll -->
 </div> <!-- .topic-section -->
@@ -211,7 +213,7 @@ title: ""
         </div>
       </div>
       <div class='paper-box-text'>
-        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong>
+        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
 
         Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
       </div>
@@ -226,17 +228,18 @@ title: ""
   <p class='topic-description'>探索多模态基础模型在三维场景理解、触觉感知与具身智能中的应用，推动感知-动作协同的认知泛化研究。</p>
   <div class='carousel-scroll'>
 
-    <div class='paper-box'>
+
+      <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">ICPADS 2025</div>
-          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
+          <div class="badge">IEEE ICASSP 2026</div>
+          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
+        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
 
-        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
+        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
       </div>
     </div>
 
@@ -254,19 +257,7 @@ title: ""
       </div>
     </div>
 
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE ICASSP 2026</div>
-          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
 
-        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
-      </div>
-    </div>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -279,6 +270,20 @@ title: ""
         <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong>
 
         Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
+      </div>
+    </div>
+
+      <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ICPADS 2025</div>
+          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
       </div>
     </div>
 

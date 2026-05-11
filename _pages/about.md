@@ -129,6 +129,20 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
+          <div class="badge">ISPA / MICACL 2025</div>
+          <img src='./_pages/images/micacl.png' alt="MICACL" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2509.04344"><strong>MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
           <div class="badge">arXiv 2026</div>
           <img src='./_pages/images/rema.png' alt="ReMA" width="100%">
         </div>
@@ -137,6 +151,34 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         <a href="https://arxiv.org/abs/2601.00311"><strong>ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition</strong></a>
 
         <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">arXiv 2025</div>
+          <img src='./_pages/images/disentangling.png' alt="Disentangling" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/pdf/2511.11406"><strong>Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Ziyu Jia, Xinyu Li, Xin Yan, Xiaokang Zhou, Meng Wang
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-IFS 2026</div>
+          <img src='./_pages/images/tifs2026.png' alt="TIFS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong>
+
+        <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
       </div>
     </div>
 

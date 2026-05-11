@@ -24,8 +24,9 @@ redirect_from:
 
 -->
 
-I am currently a graduate student in Computer Technology at the **University of Science and Technology of China (USTC)**. My Master's program is a joint program with Pro. **[Meng Wang (IEEE/IAPR Fellow)](https://aflab.hfut.edu.cn/info/1022/1023.htm)**'s laboratory at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and I am also affiliated with the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, under the supervision of Associate Pro. **[Jinyang Huang](https://happyisac.github.io/PersonHomePage/)**. I graduated with a Bachelor's degree in Microelectronics Science and Engineering from **Hefei University of Technology** in 2024.
-My main research interests are multimedia information processing, primarily vision-based, focusing on psychophysiological computing and multimodal human factors perception. I also have an interest in interdisciplinary areas such as AI4S and information security.
+I am currently pursuing a Ph.D. in Computer Technology at the **University of Science and Technology of China (USTC)**, affiliated with the **USTC-VGG research group** at the National Engineering Laboratory for Brain-inspired Intelligence Technology and Applications. My advisor is Prof. **[Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/)**. During my Master's degree, I was jointly supervised by Prof. **[Meng Wang (IEEE/IAPR Fellow)](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)** at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and Assoc. Prof. **[Jinyang Huang](https://happyisac.github.io/PersonHomePage/)** at the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines. I received my Bachelor's degree in Microelectronics Science and Engineering from **Hefei University of Technology** in 2024.
+
+My primary research areas are 3D vision, multimodal foundation models, and wireless sensing. My research interests center on developing brain-inspired perceptual and cognitive systems, with a focus on designing efficient, trustworthy, and personalized intelligent interactive systems.
 
 <!--
 **[中国科学技术大学（USTC）](https://ustc.edu.cn/)**计算机技术专业研究生在读，同时于**[合肥综合性国家科学中心人工智能研究院（安徽省人工智能实验室）](https://iai.ustc.edu.cn/iai/index.html)**联合培养，隶属于情感计算与先进智能机器[安徽省重点实验室](https://aflab.hfut.edu.cn/)，导师是[黄锦阳](https://happyisac.github.io/PersonHomePage/)讲师、[汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授（IEEE/IAPR Fellow）。2024年本科毕业于合肥工业大学微电子科学与工程专业。主要研究方向为以视觉为主的多媒体信息处理，聚焦心理生理计算、多模态人因感知，此外关注 AI4S、信息安全等交叉方向。<br>
@@ -88,9 +89,17 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <span class='anchor' id='selected-publications'></span>
 # Selected Publications
-<div class='paper-grid'>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025 (CCF Rank A)</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
+<div class='research-topics'>
+
+<div class='topic-section'>
+<h3>Robust Representation Learning for Fine-grained Visual Behavior Understanding</h3>
+<p class='topic-description'>
+Developing distributionally robust representation learning methods for fine-grained visual behavior understanding tasks including facial expressions, handwriting style, and scene classification. Building trustworthy vision systems with generalization across diverse modalities and conditions.
+</p>
+<div class='carousel-scroll'>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='./_pages/images/MM2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization**](https://arxiv.org/abs/2507.15765)
@@ -100,7 +109,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-DSC (CCF Rank A)</div><img src='./_pages/images/tifs26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-DSC</div><img src='./_pages/images/tifs26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style**](https://ieeexplore.ieee.org/document/11417419)
@@ -110,6 +119,95 @@ Jinyang Huang, Yuanhao Feng, **Feng-Qi Cui (Equal contribution)**, Xiang Zhang, 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2026</div><img src='./_pages/images/icme1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution**
+
+Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS</div><img src='./_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification** 
+ 
+Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='topic-section'>
+<h3>Trustworthy Affective Computing and Health-oriented Perceptual Intelligence</h3>
+<p class='topic-description'>
+Applying causal disentangled learning and multimodal fusion techniques in healthcare applications including depression diagnosis and auditory attention decoding. Developing trustworthy affective computing systems to advance AI applications in mental health and medical diagnosis.
+</p>
+<div class='carousel-scroll'>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
+
+Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026</div><img src='./_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
+ 
+Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='topic-section'>
+<h3>Multimodal Foundation Models and Embodied Cognitive Intelligence</h3>
+<p class='topic-description'>
+Exploring applications of multimodal foundation models in 3D scene understanding, tactile perception, and object detection. Establishing vision-tactile fusion robot perception systems to advance embodied cognitive intelligence.
+</p>
+<div class='carousel-scroll'>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026</div><img src='./_pages/images/icassp1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://arxiv.org/abs/2601.22616)
+
+Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='./_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space** 
+ 
+Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, **Feng-Qi Cui**, Erbao Dong, Wenjing Chen
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div class='topic-section'>
+<h3>Interdisciplinary Studies and Early-stage Research</h3>
+<p class='topic-description'>
+Exploring innovative applications of AI technology across multiple domains including biomedical engineering, environmental science, and physical systems—from plastic biodegradation and nonlinear dynamics to engineering applications.
+</p>
+<div class='carousel-scroll'>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PNAS Nexus</div><img src='./_pages/images/PNASNexus.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -118,81 +216,11 @@ Jinyang Huang, Yuanhao Feng, **Feng-Qi Cui (Equal contribution)**, Xiang Zhang, 
 
 Xiaoxing Lin, Rui Zhang, **Feng-Qi Cui**, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
 
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICME 2026 (CCF Rank B)</div><img src='./_pages/images/icme1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution**
-
-Ji-Xuan He, Jia-Cheng Zhao, **Feng-Qi Cui (Corresponding author)**, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
-
-
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-GRS (CCF Rank B)</div><img src='./_pages/images/tgrs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification** 
- 
-Xinyuan Wu, Zhiguo Ma, **Feng-Qi Cui**, Huasen He, Yunpeng Hou, Jian Yang
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-AFFC (CAAI Rank A, CCF Rank B)</div><img src='./_pages/images/taffc1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-
-[**CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews**](https://ieeexplore.ieee.org/document/11175917)
-
-Mingzheng Li, Xiao Sun, Xinke Wang, **Feng-Qi Cui**, Xun Yang
-
-
-</div>
-</div>
-
- 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP 2026 (CCF Rank B)</div><img src='./_pages/images/icassp1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[**UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating**](https://arxiv.org/abs/2601.22616)
-
-Xing Yi, Jinyang Huang, **Feng-Qi Cui**, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CogSci 2026 (CCF Rank B)</div><img src='./_pages/images/cogsci26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding** 
- 
-Siying Tao, Jingjing Hu, Jinyang Huang, **Feng-Qi Cui**, Xueliang Liu, Dan Guo
- 
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026 (CCF Rank B)</div><img src='./_pages/images/ijcai26.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
- **PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space** 
- 
-Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, **Feng-Qi Cui**, Erbao Dong, Wenjing Chen
- 
-
-
-</div>
-</div>
-
-
 
 </div>
 

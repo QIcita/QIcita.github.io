@@ -208,3 +208,88 @@
         box-shadow: 0 6px 16px rgba(10, 132, 255, 0.4);
     }
 }
+
+/* Research Topics Carousel */
+.research-topics {
+    margin-top: $spacing-2xl;
+    margin-bottom: $spacing-2xl;
+
+    .topic-section {
+        margin-bottom: $spacing-2xl;
+
+        h3 {
+            font-size: $type-size-3;
+            margin-bottom: $spacing-lg;
+            color: $primary-color;
+            padding-left: $spacing-md;
+            border-left: 4px solid $primary-color;
+        }
+
+        .topic-description {
+            font-size: $type-size-5;
+            color: rgba(30, 42, 66, 0.8);
+            margin-bottom: $spacing-lg;
+            line-height: 1.72;
+            padding: $spacing-md;
+            background: rgba(10, 132, 255, 0.04);
+            border-radius: $border-radius-sm;
+            border-left: 4px solid rgba(10, 132, 255, 0.2);
+        }
+    }
+}
+
+.carousel-scroll {
+    display: flex;
+    gap: $spacing-lg;
+    overflow-x: auto;
+    padding-bottom: $spacing-sm;
+    scroll-snap-type: x mandatory;
+    scroll-behavior: smooth;
+    -webkit-overflow-scrolling: touch;
+
+    &::-webkit-scrollbar {
+        height: 6px;
+    }
+
+    &::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, 0.05);
+        border-radius: 3px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background: rgba(10, 132, 255, 0.35);
+        border-radius: 3px;
+        
+        &:hover {
+            background: rgba(10, 132, 255, 0.55);
+        }
+    }
+
+    .paper-box {
+        flex: 0 0 320px;
+        scroll-snap-align: start;
+
+        @include breakpoint($medium) {
+            flex: 0 0 360px;
+        }
+
+        @include breakpoint($large) {
+            flex: 0 0 380px;
+        }
+    }
+}
+
+/* Placeholder for paper images */
+.paper-placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 190px;
+    background: linear-gradient(135deg, rgba(10, 132, 255, 0.1) 0%, rgba(10, 132, 255, 0.05) 100%);
+    border: 2px dashed rgba(10, 132, 255, 0.3);
+    border-radius: $border-radius-sm;
+    color: rgba(10, 132, 255, 0.6);
+    font-size: $type-size-6;
+    font-weight: 600;
+}

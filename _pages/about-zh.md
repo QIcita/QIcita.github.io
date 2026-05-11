@@ -219,6 +219,20 @@ title: ""
       </div>
     </div>
 
+        <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">计算机应用 2024</div>
+          <img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n5a0ma0vc4d0re0uq4e02t031077039&site=xueshu_se"><strong>基于通用手环的睡眠呼吸暂停检测</strong></a>
+
+        黄锦阳, <strong>崔丰麒</strong>, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志
+      </div>
+    </div>
+
   </div>
 </div>
 

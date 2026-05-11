@@ -98,11 +98,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   <p class='topic-description'>Developing distributionally robust representation learning methods for fine-grained visual behavior understanding tasks including facial expressions, handwriting style, and scene classification.</p>
   <div class='carousel-scroll'>
 
-    <div class='paper-box'>
+   <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">ACM MM 2025</div>
-          <img src='./_pages/images/MM2025.png' alt="MM2025" width="100%">
+          <img src='{{ "/_pages/images/MM2025.png" | relative_url }}' alt="MM2025" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -112,11 +112,53 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+   <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-IFS 2026</div>
+          <img src='{{ "/_pages/images/tifs2026.png" | relative_url }}' alt="TIFS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong><br>
+
+        <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICME 2026</div>
+          <img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="ICME2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2603.27301"><strong>Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution</strong></a>
+
+        Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui (Corresponding author)</strong>, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-GRS 2026</div>
+          <img src='{{ "/_pages/images/tgrs.png" | relative_url }}' alt="TGRS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+       <a href="https://ieeexplore.ieee.org/abstract/document/11479341"> <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
+
+        Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
+      </div>
+    </div>
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2025</div>
-          <img src='./_pages/images/every_subtlety.png' alt="EverySubtlety" width="100%">
+          <img src='{{ "/_pages/images/every_subtlety.png" | relative_url }}' alt="EverySubtlety" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -129,8 +171,8 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">ISPA / MICACL 2025</div>
-          <img src='./_pages/images/micacl.png' alt="MICACL" width="100%">
+          <div class="badge">ISPA 2025</div>
+          <img src='{{ "/_pages/images/micacl.png" | relative_url }}' alt="MICACL" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -144,7 +186,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2026</div>
-          <img src='./_pages/images/rema.png' alt="ReMA" width="100%">
+          <img src='{{ "/_pages/images/rema.png" | relative_url }}' alt="ReMA" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -158,7 +200,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2025</div>
-          <img src='./_pages/images/disentangling.png' alt="Disentangling" width="100%">
+          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -168,47 +210,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-IFS 2026</div>
-          <img src='./_pages/images/tifs2026.png' alt="TIFS2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong>
-
-        <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE ICME 2026</div>
-          <img src='./_pages/images/icme1.png' alt="ICME2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution</strong>
-
-        Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui (Corresponding author)</strong>, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-GRS 2026</div>
-          <img src='./_pages/images/tgrs.png' alt="TGRS2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong>
-
-        Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
-      </div>
-    </div>
+   
 
   </div>
 </div>
@@ -219,11 +221,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   <p class='topic-description'>Applying causal disentangled learning and multimodal fusion techniques in healthcare applications including depression diagnosis and auditory attention decoding.</p>
   <div class='carousel-scroll'>
 
-    <div class='paper-box'>
+  <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-AFFC 2025</div>
-          <img src='./_pages/images/taffc1.png' alt="TAFFC2025" width="100%">
+          <img src='{{ "/_pages/images/taffc1.png" | relative_url }}' alt="TAFFC2025" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -237,7 +239,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2026</div>
-          <img src='./_pages/images/towards_trustworthy_depression.png' alt="TowardsTrustworthyDepression" width="100%">
+          <img src='{{ "/_pages/images/towards_trustworthy_depression.png" | relative_url }}' alt="TowardsTrustworthyDepression" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -251,7 +253,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2026</div>
-          <img src='./_pages/images/trusted_respiratory.png' alt="TrustedRespiratory" width="100%">
+          <img src='{{ "/_pages/images/trusted_respiratory.png" | relative_url }}' alt="TrustedRespiratory" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -265,13 +267,27 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">CogSci 2026</div>
-          <img src='./_pages/images/cogsci26.png' alt="CogSci2026" width="100%">
+          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
-        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong>
+        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
 
         Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
+      </div>
+    </div>
+
+        <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">计算机应用 2024</div>
+          <img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n5a0ma0vc4d0re0uq4e02t031077039&site=xueshu_se"><strong>基于通用手环的睡眠呼吸暂停检测</strong></a>
+
+        黄锦阳, <strong>崔丰麒</strong>, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志
       </div>
     </div>
 
@@ -284,39 +300,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   <p class='topic-description'>Exploring applications of multimodal foundation models in 3D scene understanding, tactile perception, and object detection.</p>
   <div class='carousel-scroll'>
 
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">ICPADS 2025</div>
-          <img src='./_pages/images/wifi_gesture.png' alt="WiFiGesture" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
-
-        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">arXiv 2025</div>
-          <img src='./_pages/images/embodied_survey.png' alt="EmbodiedSurvey" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2505.06897"><strong>Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence</strong></a>
-
-        Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, <strong>Feng-Qi Cui</strong>, Erbao Dong
-      </div>
-    </div>
-
-    <div class='paper-box'>
+      <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE ICASSP 2026</div>
-          <img src='./_pages/images/icassp1.png' alt="ICASSP2026" width="100%">
+          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -329,14 +317,44 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
+          <div class="badge">arXiv 2025</div>
+          <img src='{{ "/_pages/images/embodied_survey.png" | relative_url }}' alt="EmbodiedSurvey" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2505.06897"><strong>Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence</strong></a>
+
+        Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, <strong>Feng-Qi Cui</strong>, Erbao Dong
+      </div>
+    </div>
+
+
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
           <div class="badge">IJCAI 2026</div>
-          <img src='./_pages/images/ijcai26.png' alt="IJCAI2026" width="100%">
+          <img src='{{ "/_pages/images/ijcai26.png" | relative_url }}' alt="IJCAI2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
         <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong>
 
         Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
+      </div>
+    </div>
+
+      <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ICPADS 2025</div>
+          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
       </div>
     </div>
 
@@ -349,11 +367,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   <p class='topic-description'>Research on attack detection, privacy-robust behavior recognition, and reliable perception algorithms to build secure interaction systems.</p>
   <div class='carousel-scroll'>
 
-    <div class='paper-box'>
+     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-DSC 2026</div>
-          <img src='./_pages/images/tifs26.png' alt="TDSC2026" width="100%">
+          <img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="TDSC2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -367,7 +385,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box-image'>
         <div>
           <div class="badge">arXiv 2026</div>
-          <img src='./_pages/images/checkerboard.png' alt="Checkerboard" width="100%">
+          <img src='{{ "/_pages/images/checkerboard.png" | relative_url }}' alt="Checkerboard" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -376,6 +394,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         Yi Yang, Jinyang Huang, Binbin Liu, <strong>Feng-Qi Cui</strong>, Xiaokang Zhou, Zhi Liu, Jie Zhang, Meng Li
       </div>
     </div>
+
 
   </div>
 </div>

@@ -307,7 +307,7 @@ title: ""
 
 <!-- Theme 4: Trustworthy Interaction Systems -->
 <div class='topic-section'>
-  <h3>可信交互系统：安全、隐私与可靠的感知</h3>
+  <h3>可信智能交互系统</h3>
   <p class='topic-description'>研究对抗性攻击检测、隐私鲁棒的行为识别与可靠感知算法，构建安全可信的交互系统。</p>
   <div class='carousel-scroll'>
 

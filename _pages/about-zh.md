@@ -6,9 +6,8 @@ title: ""
 
 <span class='anchor' id='about-me'></span>
 
-# 个人简介
 
-我目前于**[中国科学技术大学（USTC）](https://ustc.edu.cn/)**计算机技术专业硕博连读，博士期间隶属于国家脑启发智能技术与应用工程实验室的 **USTC-VGG 课题组**，导师是 Prof. **[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)**。硕士期间在合肥综合性国家科学中心人工智能研究院 Prof. **[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)** 团队联合培养，隶属于安徽省情感计算与先进智能机器省重点实验室，由 Assoc. Prof. **[黄锦阳](https://happyisac.github.io/PersonHomePage/)** 指导。我于 2024 年从**[合肥工业大学](https://www.hfut.edu.cn/)**获得了微电子科学与工程的学士学位。
+我目前于**[中国科学技术大学（USTC）](https://ustc.edu.cn/)**信息科学技术学院计算机技术专业硕博连读，博士期间隶属于国家脑启发智能技术与应用工程实验室的 **USTC-VGG 课题组**，导师是**[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)**教授。硕士期间在合肥综合性国家科学中心人工智能研究院 Prof. **[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)** 团队联合培养，隶属于安徽省情感计算与先进智能机器省重点实验室，由**[黄锦阳](https://happyisac.github.io/PersonHomePage/)**副教授指导。我于 2024 年从**[合肥工业大学](https://www.hfut.edu.cn/)**获得了微电子科学与工程的学士学位。
 
 我的主要研究方向包括三维视觉、多模态基础模型和无线感知。研究兴趣聚焦于开发脑启发感知与认知系统，致力于设计高效、可信、个性化的智能交互系统。
 
@@ -37,7 +36,7 @@ title: ""
 
 <!-- Theme 1: Robust Representation Learning -->
 <div class='topic-section'>
-  <h3>面向细粒度视觉行为理解的鲁棒表征学习</h3>
+  <h3>面向细粒度视觉理解的鲁棒表征学习</h3>
   <p class='topic-description'>在人脸表情、微动作、手写与场景分类等视觉行为理解任务中，研究具有分布鲁棒性和跨域泛化能力的表征学习方法。</p>
   <div class='carousel-scroll'>
 

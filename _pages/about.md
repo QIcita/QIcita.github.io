@@ -94,7 +94,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <!-- Theme 1: Robust Representation Learning -->
 <div class='topic-section'>
-  <h3>Robust Representation Learning for Fine-grained Visual Behavior Understanding</h3>
+  <h3>Robust Representation Learning for Fine-grained Visual Understanding</h3>
   <p class='topic-description'>Developing distributionally robust representation learning methods for fine-grained visual behavior understanding tasks including facial expressions, handwriting style, and scene classification.</p>
   <div class='carousel-scroll'>
 
@@ -357,6 +357,21 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
       </div>
     </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">Chaos Solitons & Fractals 2023</div>
+          <img src='{{ "/_pages/images/rc_cobweb.png" | relative_url }}' alt="RCcobweb" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0960077923004423"><strong>Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network</strong></a>
+
+        Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, <strong>Feng-Qi Cui</strong>, YangQuan Chen
+      </div>
+    </div>
+
 
   </div>
 </div>

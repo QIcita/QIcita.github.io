@@ -334,7 +334,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         </div>
       </div>
       <div class='paper-box-text'>
-        <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong>
+        <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong><br>
 
         Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
       </div>

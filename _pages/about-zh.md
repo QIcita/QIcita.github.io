@@ -7,7 +7,7 @@ title: ""
 <span class='anchor' id='about-me'></span>
 
 
-我目前于[中国科学技术大学](https://ustc.edu.cn/)信息科学技术学院计算机技术专业硕博连读，博士期间隶属于[类脑智能技术及应用国家工程实验室](https://leinao.ustc.edu.cn/main.htm)的视觉几何组（USTC-VGG），导师是[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)教授。硕士期间在合肥综合性国家科学中心人工智能研究院[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授团队联合培养，由[黄锦阳](https://happyisac.github.io/PersonHomePage/)副教授指导。我于 2024 年获得了[合肥工业大学](https://www.hfut.edu.cn/)微电子学的学士学位。
+我目前于[中国科学技术大学](https://ustc.edu.cn/)信息科学技术学院计算机技术专业硕博连读，博士期间隶属于[类脑智能技术及应用国家工程实验室](https://leinao.ustc.edu.cn/main.htm)的视觉几何组（USTC-VGG），导师是[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)教授。硕士期间 (2024-2026) 在合肥综合性国家科学中心人工智能研究院[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授团队联合培养，由[黄锦阳](https://happyisac.github.io/PersonHomePage/)副教授、[郭丹](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)教授指导。我于 2024 年获得了[合肥工业大学](https://www.hfut.edu.cn/)微电子学的学士学位。
 
 我的主要研究方向包括三维视觉、多模态基础模型和无线感知。研究兴趣聚焦于开发脑启发感知与认知系统，致力于设计高效、可信、个性化的智能交互系统。
 

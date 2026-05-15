@@ -84,19 +84,7 @@ title: ""
       </div>
     </div>
 
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">arXiv 2025</div>
-          <img src='{{ "/_pages/images/every_subtlety.png" | relative_url }}' alt="EverySubtlety" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2509.21261"><strong>Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization</strong></a>
 
-        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang
-      </div>
-    </div>
 
     <div class='paper-box'>
       <div class='paper-box-image'>

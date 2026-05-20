@@ -26,7 +26,7 @@ redirect_from:
 
 I am currently pursuing a Ph.D. in Computer Technology at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), affiliated with the Visual Geometry Group (USTC-VGG) research group at the [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application (NEL-BITA)](https://leinao.ustc.edu.cn/main.htm). My advisor is Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/). During my master's studies (2024-2026), I was jointly trained with Prof. [Meng Wang (IEEE/IAPR Fellow)](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)'s team at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and supervised by Assoc. Prof. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and Prof. [Dan Guo](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm). I received my Bachelor's degree in Microelectronics from [Hefei University of Technology](https://www.hfut.edu.cn/) in 2024.
 
-My primary research areas are 3D vision, multimodal foundation models, and wireless sensing. My research interests center on developing brain-inspired perceptual and cognitive systems, with a focus on designing efficient, trustworthy, and personalized intelligent interactive systems.
+My research focuses on brain-inspired multimodal perceptual and cognitive intelligence, spanning robust visual intelligence, brain-inspired and affective cognitive intelligence, multimodal foundation models and embodied intelligence, and AI for Science. My long-term goal is to build efficient, trustworthy, generalizable, and personalized intelligent systems for real-world interactive scenarios.
 
 
 
@@ -86,13 +86,13 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <div class='research-topics'>
 
-<!-- Theme 1: Robust Representation Learning -->
+<!-- Theme 1: Robust Visual Intelligence -->
 <div class='topic-section'>
-  <h3>Robust Representation Learning for Fine-grained Vision Understanding</h3>
-  <p class='topic-description'>Developing distributionally robust representation learning methods for fine-grained visual behavior understanding tasks including facial expressions, handwriting style, and scene classification.</p>
+  <h3>Robust Visual Intelligence</h3>
+  <p class='topic-description'>This direction studies robust representation learning for fine-grained visual understanding across images, videos, and 3D scenes, focusing on distribution shifts, long-tailed categories, low-quality imaging, cross-subject generalization, geometry-aware perception, and subtle visual variations.</p>
   <div class='carousel-scroll'>
 
-   <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">ACM MM 2025</div>
@@ -105,7 +105,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
       </div>
     </div>
-
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -121,7 +120,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-        <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-CE 2026</div>
@@ -135,7 +134,19 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICASSP 2026</div>
+          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
 
+        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+      </div>
+    </div>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -145,13 +156,11 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         </div>
       </div>
       <div class='paper-box-text'>
-       <a href="https://ieeexplore.ieee.org/abstract/document/11479341"> <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11479341"><strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
 
         Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
       </div>
     </div>
-
-  
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -181,19 +190,16 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-
-   
-
   </div>
 </div>
 
-<!-- Theme 2: Trustworthy Affective Computing -->
+<!-- Theme 2: Brain-inspired and Affective Cognitive Intelligence -->
 <div class='topic-section'>
-  <h3>Trustworthy Affective Computing and Health-oriented Perceptual Intelligence</h3>
-  <p class='topic-description'>Applying causal disentangled learning and multimodal fusion techniques in healthcare applications including depression diagnosis and auditory attention decoding.</p>
+  <h3>Brain-inspired and Affective Cognitive Intelligence</h3>
+  <p class='topic-description'>This direction explores brain-inspired perceptual and cognitive modeling by learning trustworthy representations of affective, physiological, and cognitive signals, covering dynamic facial expressions, depression assessment, respiratory monitoring, sleep health, auditory attention decoding, cross-subject cognitive modeling, and future neural structure analysis.</p>
   <div class='carousel-scroll'>
 
-     <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-IFS 2026</div>
@@ -207,7 +213,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-  <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-AFFC 2025</div>
@@ -218,6 +224,20 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         <a href="https://ieeexplore.ieee.org/document/11175917"><strong>CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews</strong></a>
 
         Mingzheng Li, Xiao Sun, Xinke Wang, <strong>Feng-Qi Cui</strong>, Xun Yang
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">CogSci 2026</div>
+          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
+
+        Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
       </div>
     </div>
 
@@ -252,20 +272,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">CogSci 2026</div>
-          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
-
-        Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
-      </div>
-    </div>
-
-        <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
           <div class="badge">计算机应用 2024</div>
           <img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">
         </div>
@@ -280,23 +286,23 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   </div>
 </div>
 
-<!-- Theme 3: Multimodal Foundation Models -->
+<!-- Theme 3: Multimodal and Embodied Intelligence -->
 <div class='topic-section'>
-  <h3>Multimodal Foundation Models and Embodied Cognitive Intelligence</h3>
-  <p class='topic-description'>Exploring applications of multimodal foundation models in 3D scene understanding, tactile perception, and object detection.</p>
+  <h3>Multimodal and Embodied Intelligence</h3>
+  <p class='topic-description'>This direction investigates multimodal foundation models, embodied intelligence, and ubiquitous sensing for real-world interactive systems, focusing on semantic distillation, multimodal alignment, wireless sensing, tactile perception, embodied control, identity perception, and trustworthy personalized interaction.</p>
   <div class='carousel-scroll'>
 
-      <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">IEEE ICASSP 2026</div>
-          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
+          <div class="badge">IEEE T-DSC 2026</div>
+          <img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="TDSC2026" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
+        <a href="https://ieeexplore.ieee.org/document/11417419"><strong>Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style</strong></a>
 
-        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+        Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
       </div>
     </div>
 
@@ -314,8 +320,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-
-
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -330,7 +334,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
-      <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">ICPADS 2025</div>
@@ -347,55 +351,17 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   </div>
 </div>
 
-<!-- Theme 4: Trustworthy Interaction Systems -->
-<div class='topic-section'>
-  <h3>Trustworthy Intelligent Interaction System</h3>
-  <p class='topic-description'>Research on attack detection, privacy-robust behavior recognition, and reliable perception algorithms to build secure interaction systems.</p>
-  <div class='carousel-scroll'>
-
-     <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-DSC 2026</div>
-          <img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="TDSC2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/11417419"><strong>Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style</strong></a>
-
-        Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">arXiv 2026</div>
-          <img src='{{ "/_pages/images/checkerboard.png" | relative_url }}' alt="Checkerboard" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2605.01298"><strong>Checkerboard: A Simple, Effective, Efficient and Learning-free Clean Label Backdoor Attack with Low Poisoning Budget</strong></a>
-
-        Yi Yang, Jinyang Huang, Binbin Liu, <strong>Feng-Qi Cui</strong>, Xiaokang Zhou, Zhi Liu, Jie Zhang, Meng Li
-      </div>
-    </div>
-
-
-  </div>
-</div>
-
-<!-- Theme 5: Interdisciplinary -->
+<!-- Theme 4: AI for Science -->
 <div class='topic-section'>
   <h3>AI for Science</h3>
-  <p class='topic-description'>Exploring innovative applications of AI technology across biomedical engineering, environmental science, and physical systems.</p>
+  <p class='topic-description'>This direction explores interdisciplinary intelligent computing for scientific discovery, including complex systems, environmental science, bio-inspired analysis, and scientific modeling.</p>
   <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">PNAS Nexus</div>
-          <img src='./_pages/images/PNASNexus.png' alt="PNASNexus" width="100%">
+          <img src='{{ "/_pages/images/PNASNexus.png" | relative_url }}' alt="PNASNexus" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
@@ -418,7 +384,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, <strong>Feng-Qi Cui</strong>, YangQuan Chen
       </div>
     </div>
-
 
   </div>
 </div>

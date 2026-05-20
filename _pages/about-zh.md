@@ -9,7 +9,7 @@ title: ""
 
 我目前于[中国科学技术大学](https://ustc.edu.cn/)信息科学技术学院计算机技术专业硕博连读，博士期间隶属于[类脑智能技术及应用国家工程实验室](https://leinao.ustc.edu.cn/main.htm)的视觉几何组（USTC-VGG），导师是[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)教授。硕士期间 (2024-2026) 在合肥综合性国家科学中心人工智能研究院[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授团队联合培养，由[黄锦阳](https://happyisac.github.io/PersonHomePage/)副教授、[郭丹](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)教授指导。我于 2024 年获得了[合肥工业大学](https://www.hfut.edu.cn/)微电子学的学士学位。
 
-我的主要研究方向包括三维视觉、多模态基础模型和无线感知。研究兴趣聚焦于开发脑启发感知与认知系统，致力于设计高效、可信、个性化的智能交互系统。
+我的研究兴趣集中于脑启发多模态感知与认知智能，主要围绕鲁棒视觉智能、脑启发与情感认知智能、多模态大模型与具身智能、AI for Science 展开研究。我的长期目标是构建面向真实世界复杂交互场景的高效、可信、泛化和个性化智能系统。
 
 <span class='anchor' id='news'></span>
 # 最新动态
@@ -34,11 +34,12 @@ title: ""
 # 代表论文
 
 <div class='research-topics'>
+<div class='research-topics'>
 
-<!-- Theme 1: Robust Representation Learning -->
+<!-- Theme 1: 鲁棒视觉智能 -->
 <div class='topic-section'>
-  <h3>细粒度视觉理解与鲁棒表征学习</h3>
-  <p class='topic-description'>在人脸表情、微动作、手写与场景分类等视觉行为理解任务中，研究具有分布鲁棒性和跨域泛化能力的表征学习方法。</p>
+  <h3>鲁棒视觉智能</h3>
+  <p class='topic-description'>面向图像、视频与 3D 场景中的细粒度视觉理解任务，研究复杂视觉条件下的鲁棒表征学习，重点关注分布偏移、长尾类别、低质量成像、跨主体泛化、几何感知和细微视觉差异建模。</p>
   <div class='carousel-scroll'>
 
     <div class='paper-box'>
@@ -55,8 +56,6 @@ title: ""
       </div>
     </div>
 
-
-
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -71,7 +70,6 @@ title: ""
       </div>
     </div>
 
-    
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -86,6 +84,19 @@ title: ""
       </div>
     </div>
 
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICASSP 2026</div>
+          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
+
+        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+      </div>
+    </div>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -95,13 +106,11 @@ title: ""
         </div>
       </div>
       <div class='paper-box-text'>
-       <a href="https://ieeexplore.ieee.org/abstract/document/11479341"> <strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11479341"><strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
 
         Xinyuan Wu, Zhiguo Ma, <strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
       </div>
     </div>
-
-
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -131,18 +140,16 @@ title: ""
       </div>
     </div>
 
-   
+  </div>
+</div>
 
-  </div> <!-- .carousel-scroll -->
-</div> <!-- .topic-section -->
-
-<!-- Theme 2: Trustworthy Affective Computing -->
+<!-- Theme 2: 脑启发与情感认知智能 -->
 <div class='topic-section'>
-  <h3>可信心理生理计算与健康感知智能</h3>
-  <p class='topic-description'>在抑郁症严重度估计、呼吸信号监测与跨主体听觉注意力解码中，发展因果表示与多模态融合以实现可信可解释的医学/健康感知系统。</p>
+  <h3>脑启发与情感认知智能</h3>
+  <p class='topic-description'>面向脑启发感知与认知建模，研究情感、生理与认知信号的可信表征、解耦和诊断，涵盖动态表情、抑郁评估、呼吸监测、睡眠健康、听觉注意解码和跨主体认知建模，并面向未来脑结构解析与神经元形态理解拓展。</p>
   <div class='carousel-scroll'>
 
-   <div class='paper-box'>
+    <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
           <div class="badge">IEEE T-IFS 2026</div>
@@ -155,6 +162,7 @@ title: ""
         <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
       </div>
     </div>
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -166,6 +174,20 @@ title: ""
         <a href="https://ieeexplore.ieee.org/document/11175917"><strong>CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews</strong></a>
 
         Mingzheng Li, Xiao Sun, Xinke Wang, <strong>Feng-Qi Cui</strong>, Xun Yang
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">CogSci 2026</div>
+          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
+
+        Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
       </div>
     </div>
 
@@ -200,20 +222,6 @@ title: ""
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">CogSci 2026</div>
-          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
-
-        Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
-      </div>
-    </div>
-
-        <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
           <div class="badge">计算机应用 2024</div>
           <img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">
         </div>
@@ -228,78 +236,10 @@ title: ""
   </div>
 </div>
 
-<!-- Theme 3: Multimodal Foundation Models -->
+<!-- Theme 3: 多模态与具身智能 -->
 <div class='topic-section'>
-  <h3>多模态大模型与具身认知智能</h3>
-  <p class='topic-description'>探索多模态基础模型在三维场景理解、触觉感知与具身智能中的应用，推动感知-动作协同的认知泛化研究。</p>
-  <div class='carousel-scroll'>
-
-
-      <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE ICASSP 2026</div>
-          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
-
-        Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">arXiv 2025</div>
-          <img src='{{ "/_pages/images/embodied_survey.png" | relative_url }}' alt="EmbodiedSurvey" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2505.06897"><strong>Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence</strong></a>
-
-        Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, <strong>Feng-Qi Cui</strong>, Erbao Dong
-      </div>
-    </div>
-
-
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IJCAI 2026</div>
-          <img src='{{ "/_pages/images/ijcai26.png" | relative_url }}' alt="IJCAI2026" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong><br>
-
-        Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
-      </div>
-    </div>
-
-      <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">ICPADS 2025</div>
-          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
-
-        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<!-- Theme 4: Trustworthy Interaction Systems -->
-<div class='topic-section'>
-  <h3>可信智能交互系统</h3>
-  <p class='topic-description'>研究对抗性攻击检测、隐私鲁棒的行为识别与可靠感知算法，构建安全可信的交互系统。</p>
+  <h3>多模态与具身智能</h3>
+  <p class='topic-description'>面向真实世界交互系统，研究多模态大模型、具身智能与泛在感知，重点关注语义蒸馏、多模态对齐、无线感知、触觉感知、具身控制、身份感知以及可信个性化交互。</p>
   <div class='carousel-scroll'>
 
     <div class='paper-box'>
@@ -319,30 +259,58 @@ title: ""
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">arXiv 2026</div>
-          <img src='{{ "/_pages/images/checkerboard.png" | relative_url }}' alt="Checkerboard" width="100%">
+          <div class="badge">arXiv 2025</div>
+          <img src='{{ "/_pages/images/embodied_survey.png" | relative_url }}' alt="EmbodiedSurvey" width="100%">
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://arxiv.org/abs/2605.01298"><strong>Checkerboard: A Simple, Effective, Efficient and Learning-free Clean Label Backdoor Attack with Low Poisoning Budget</strong></a>
+        <a href="https://arxiv.org/abs/2505.06897"><strong>Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence</strong></a>
 
-        Yi Yang, Jinyang Huang, Binbin Liu, <strong>Feng-Qi Cui</strong>, Xiaokang Zhou, Zhi Liu, Jie Zhang, Meng Li
+        Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li, <strong>Feng-Qi Cui</strong>, Erbao Dong
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IJCAI 2026</div>
+          <img src='{{ "/_pages/images/ijcai26.png" | relative_url }}' alt="IJCAI2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong><br>
+
+        Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
+      </div>
+    </div>
+
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ICPADS 2025</div>
+          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
       </div>
     </div>
 
   </div>
 </div>
 
-<!-- Theme 5: Interdisciplinary -->
+<!-- Theme 4: AI for Science -->
 <div class='topic-section'>
-  <h3>AI 交叉学科研究与探索</h3>
-  <p class='topic-description'>跨越生物医学、环境科学与微电子工程等领域，开展早期探索性研究。</p>
+  <h3>AI for Science</h3>
+  <p class='topic-description'>面向科学发现中的交叉智能计算，探索智能方法在复杂系统、环境科学、生物启发分析和科学建模中的应用。</p>
   <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">PNAS Nexus 2025</div>
+          <div class="badge">PNAS Nexus</div>
           <img src='{{ "/_pages/images/PNASNexus.png" | relative_url }}' alt="PNASNexus" width="100%">
         </div>
       </div>
@@ -372,19 +340,20 @@ title: ""
 
 </div>
 
+<p><span class='anchor' id='selected-honors-and-awards'></span></p>
+<h1 id='selected-honors-and-awards'>荣誉奖项</h1>
+<ul>
+  <li>IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition <strong>Silver Award</strong>.<br /> <em>(Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang)</em> | <a href='https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/mmtc25.png'>[Link]</a></li>
+  <li>Hefei University of Technology, one of the <strong>top ten outstanding students (only 10 in the entire university)</strong>.</li>
+  <li>CCF首届泛在智能感知技术创新应用大赛 <strong>二等奖</strong>.<strong>（排序2/5）</strong> | <a href='https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA'>[Link]</a></li>
+  <li>第八届（2022）中国国际“互联网+”大学生创新创业大赛 <strong>国家银奖</strong>.<strong>（排序1/15）</strong>；安徽省产业赛道<strong>唯一</strong>入围全国现场赛项目）| <a href='https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw'>[Link1]</a> | <a href='https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ'>[Link2]</a></li>
+</ul>
 
-<span class='anchor' id='selected-honors-and-awards'></span>
-# 荣誉奖项
-
-  - IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition **Silver Award**.<br> _(Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian , Zhangbin Li, Siying Tao, **Feng-Qi Cui**, Meng Wang)_ \| [\[Link\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/mmtc25.png)
-  - Hefei University of Technology, one of the **top ten outstanding students (only 10 in the entire university)**.
-  - CCF首届泛在智能感知技术创新应用大赛 **二等奖**.**（排序2/5）** \| [\[Link\]](https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA)
-  - 第八届（2022）中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)  
-
-<span class='anchor' id='academic-services'></span>
-# 学术服务
-
-  - 情感计算与先进智能机器安徽省重点实验室, **学生工作组组长**. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
-  - 安徽省人工智能学会, 情感计算专委会, 学生工作组组长 (2024.08 - 2025.03 ). \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
-  - 审稿人：IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
-  - 百度飞桨开发者技术专家 (PPDE).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
+<p><span class='anchor' id='academic-services'></span></p>
+<h1 id='academic-services'>学术服务</h1>
+<ul>
+  <li>情感计算与先进智能机器安徽省重点实验室, <strong>学生工作组组长</strong>. | <a href='http://aflab.hfut.edu.cn/sysgk/zzjg.htm'>[Link]</a></li>
+  <li>安徽省人工智能学会, 情感计算专委会, 学生工作组组长 (2024.08 - 2025.03 ). | <a href='https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA'>[Link]</a></li>
+  <li>审稿人：IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.</li>
+  <li>百度飞桨开发者技术专家 (PPDE). | <a href='https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92'>[Link]</a></li>
+</ul>

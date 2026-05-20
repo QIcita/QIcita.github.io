@@ -15,6 +15,7 @@ title: ""
 # 最新动态
 <div class='news-window' markdown='1'>
 
+- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/) 老师的指导!
 - 2026.04: 🎉🎉 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于遥感场景分类的合作论文被接收至 _**IEEE T-GRS (CCF Rank B)**_!
@@ -70,6 +71,22 @@ title: ""
       </div>
     </div>
 
+    
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-CE 2026</div>
+          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
+      </div>
+    </div>
+
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -111,20 +128,6 @@ title: ""
         <a href="https://arxiv.org/abs/2601.00311"><strong>ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition</strong></a>
 
         <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">arXiv 2025</div>
-          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
-
-        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
       </div>
     </div>
 

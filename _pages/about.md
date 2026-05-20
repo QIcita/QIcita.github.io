@@ -35,7 +35,7 @@ My primary research areas are 3D vision, multimodal foundation models, and wirel
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
-
+- 2026.05: 🎉🎉 One paper about Video-Based Affective Computing is accepted to _**IEEE T-CE**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 - 2026.04: 🎉🎉 One collaborative paper about Embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
@@ -168,7 +168,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">arXiv 2025</div>
+          <div class="badge">IEEE T-CE 2026</div>
           <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
         </div>
       </div>

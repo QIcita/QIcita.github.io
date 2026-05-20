@@ -121,6 +121,22 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+        <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-CE 2026</div>
+          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
+
+        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
+      </div>
+    </div>
+
+
+
     <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
@@ -162,20 +178,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         <a href="https://arxiv.org/abs/2601.00311"><strong>ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition</strong></a>
 
         <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu
-      </div>
-    </div>
-
-    <div class='paper-box'>
-      <div class='paper-box-image'>
-        <div>
-          <div class="badge">IEEE T-CE 2026</div>
-          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
-        </div>
-      </div>
-      <div class='paper-box-text'>
-        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
-
-        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
       </div>
     </div>
 

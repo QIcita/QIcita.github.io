@@ -209,72 +209,114 @@
     }
 }
 
-/* Research Topics Carousel */
+/* Research Topics Accordion */
 .research-topics {
     margin-top: $spacing-2xl;
     margin-bottom: $spacing-2xl;
 
-    .topic-section {
-        margin-bottom: $spacing-2xl;
+    .topic-accordion {
+        margin-bottom: $spacing-xl;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.98) 0%, rgba(248, 251, 255, 0.98) 100%);
+        border: 1px solid rgba(0, 0, 0, 0.06);
+        border-radius: $border-radius-lg;
+        box-shadow: $shadow-sm;
+        overflow: hidden;
+    }
 
-        h3 {
-            font-size: $type-size-3;
-            margin-bottom: $spacing-lg;
-            color: $primary-color;
-            padding-left: $spacing-md;
-            border-left: 4px solid $primary-color;
-        }
+    .topic-accordion > summary {
+        list-style: none;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: $spacing-md;
+        padding: $spacing-lg;
+        cursor: pointer;
+        user-select: none;
+        background: linear-gradient(135deg, rgba(10, 132, 255, 0.07) 0%, rgba(10, 132, 255, 0.02) 100%);
+        transition: background 0.25s ease;
+    }
 
-        .topic-description {
-            font-size: $type-size-5;
-            color: rgba(30, 42, 66, 0.8);
-            margin-bottom: $spacing-lg;
-            line-height: 1.72;
-            padding: $spacing-md;
-            background: rgba(10, 132, 255, 0.04);
-            border-radius: $border-radius-sm;
-            border-left: 4px solid rgba(10, 132, 255, 0.2);
+    .topic-accordion > summary::-webkit-details-marker {
+        display: none;
+    }
+
+    .topic-accordion > summary::marker {
+        content: '';
+    }
+
+    .topic-accordion > summary:hover {
+        background: rgba(10, 132, 255, 0.1);
+    }
+
+    .topic-accordion[open] > summary {
+        border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    .topic-accordion > summary::after {
+        content: '▾';
+        flex: 0 0 auto;
+        color: $primary-color;
+        font-size: 1.6rem;
+        line-height: 1;
+        transition: transform 0.25s ease;
+    }
+
+    .topic-accordion[open] > summary::after {
+        transform: rotate(180deg);
+    }
+
+    .topic-summary-copy {
+        display: flex;
+        flex-direction: column;
+        gap: 0.35rem;
+    }
+
+    .topic-summary-title {
+        margin: 0;
+        color: $primary-color;
+        font-size: $type-size-3;
+        font-weight: 700;
+        line-height: 1.2;
+    }
+
+    .topic-summary-meta {
+        font-size: $type-size-6;
+        color: rgba(30, 42, 66, 0.68);
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+    }
+
+    .topic-panel {
+        padding: 0 $spacing-lg $spacing-lg;
+    }
+
+    .topic-panel .topic-description {
+        margin-top: $spacing-lg;
+    }
+
+    .topic-panel .carousel-scroll {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: $spacing-lg;
+        overflow: visible;
+        padding-bottom: 0;
+        scroll-snap-type: none;
+        scroll-behavior: auto;
+        -webkit-overflow-scrolling: auto;
+
+        .paper-box {
+            width: 100%;
+            flex: 1 1 auto;
+            scroll-snap-align: initial;
         }
     }
 }
 
-.carousel-scroll {
-    display: flex;
-    gap: $spacing-lg;
-    overflow-x: auto;
-    padding-bottom: $spacing-sm;
-    scroll-snap-type: x mandatory;
-    scroll-behavior: smooth;
-    -webkit-overflow-scrolling: touch;
-
-    &::-webkit-scrollbar {
-        height: 6px;
-    }
-
-    &::-webkit-scrollbar-track {
-        background: rgba(0, 0, 0, 0.05);
-        border-radius: 3px;
-    }
-
-    &::-webkit-scrollbar-thumb {
-        background: rgba(10, 132, 255, 0.35);
-        border-radius: 3px;
-        
-        &:hover {
-            background: rgba(10, 132, 255, 0.55);
-        }
-    }
-
-    .paper-box {
-        flex: 0 0 320px;
-        scroll-snap-align: start;
-
-        @include breakpoint($medium) {
-            flex: 0 0 360px;
-        }
-
-        @include breakpoint($large) {
-            flex: 0 0 380px;
+@include breakpoint($medium) {
+    .research-topics {
+        .topic-panel .carousel-scroll {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+            gap: $spacing-xl;
         }
     }
 }

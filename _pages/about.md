@@ -87,10 +87,16 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 <div class='research-topics'>
 
 <!-- Theme 1: Robust Visual Intelligence -->
-<div class='topic-section'>
-  <h3>Robust Visual Intelligence</h3>
-  <p class='topic-description'>This direction studies robust representation learning for fine-grained visual understanding across images, videos, and 3D scenes, focusing on distribution shifts, long-tailed categories, low-quality imaging, cross-subject generalization, geometry-aware perception, and subtle visual variations.</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>Robust Visual Intelligence</div>
+      <div class='topic-summary-meta'>7 papers</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>This direction studies robust representation learning for fine-grained visual understanding across images, videos, and 3D scenes, focusing on distribution shifts, long-tailed categories, low-quality imaging, cross-subject generalization, geometry-aware perception, and subtle visual variations.</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -190,14 +196,21 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 2: Brain-inspired and Affective Cognitive Intelligence -->
-<div class='topic-section'>
-  <h3>Brain-inspired and Affective Cognitive Intelligence</h3>
-  <p class='topic-description'>This direction explores brain-inspired perceptual and cognitive modeling by learning trustworthy representations of affective, physiological, and cognitive signals, covering dynamic facial expressions, depression assessment, respiratory monitoring, sleep health, auditory attention decoding, cross-subject cognitive modeling, and future neural structure analysis.</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>Brain-inspired and Affective Cognitive Intelligence</div>
+      <div class='topic-summary-meta'>6 papers</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>This direction explores brain-inspired perceptual and cognitive modeling by learning trustworthy representations of affective, physiological, and cognitive signals, covering dynamic facial expressions, depression assessment, respiratory monitoring, sleep health, auditory attention decoding, cross-subject cognitive modeling, and future neural structure analysis.</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -283,14 +296,21 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 3: Multimodal and Embodied Intelligence -->
-<div class='topic-section'>
-  <h3>Multimodal and Embodied Intelligence</h3>
-  <p class='topic-description'>This direction investigates multimodal foundation models, embodied intelligence, and ubiquitous sensing for real-world interactive systems, focusing on semantic distillation, multimodal alignment, wireless sensing, tactile perception, embodied control, identity perception, and trustworthy personalized interaction.</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>Multimodal and Embodied Intelligence</div>
+      <div class='topic-summary-meta'>4 papers</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>This direction investigates multimodal foundation models, embodied intelligence, and ubiquitous sensing for real-world interactive systems, focusing on semantic distillation, multimodal alignment, wireless sensing, tactile perception, embodied control, identity perception, and trustworthy personalized interaction.</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -348,14 +368,21 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 4: AI for Science -->
-<div class='topic-section'>
-  <h3>AI for Science</h3>
-  <p class='topic-description'>This direction explores interdisciplinary intelligent computing for scientific discovery, including complex systems, environmental science, bio-inspired analysis, and scientific modeling.</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>AI for Science</div>
+      <div class='topic-summary-meta'>2 papers</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>This direction explores interdisciplinary intelligent computing for scientific discovery, including complex systems, environmental science, bio-inspired analysis, and scientific modeling.</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -385,8 +412,9 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 </div>
 

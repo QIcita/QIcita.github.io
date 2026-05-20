@@ -34,13 +34,18 @@ title: ""
 # 代表论文
 
 <div class='research-topics'>
-<div class='research-topics'>
 
 <!-- Theme 1: 鲁棒视觉智能 -->
-<div class='topic-section'>
-  <h3>鲁棒视觉智能</h3>
-  <p class='topic-description'>面向图像、视频与 3D 场景中的细粒度视觉理解任务，研究复杂视觉条件下的鲁棒表征学习，重点关注分布偏移、长尾类别、低质量成像、跨主体泛化、几何感知和细微视觉差异建模。</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>鲁棒视觉智能</div>
+      <div class='topic-summary-meta'>7 篇论文</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>面向图像、视频与 3D 场景中的细粒度视觉理解任务，研究复杂视觉条件下的鲁棒表征学习，重点关注分布偏移、长尾类别、低质量成像、跨主体泛化、几何感知和细微视觉差异建模。</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -140,14 +145,21 @@ title: ""
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 2: 脑启发与情感认知智能 -->
-<div class='topic-section'>
-  <h3>脑启发与情感认知智能</h3>
-  <p class='topic-description'>面向脑启发感知与认知建模，研究情感、生理与认知信号的可信表征、解耦和诊断，涵盖动态表情、抑郁评估、呼吸监测、睡眠健康、听觉注意解码和跨主体认知建模，并面向未来脑结构解析与神经元形态理解拓展。</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>脑启发与情感认知智能</div>
+      <div class='topic-summary-meta'>6 篇论文</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>面向脑启发感知与认知建模，研究情感、生理与认知信号的可信表征、解耦和诊断，涵盖动态表情、抑郁评估、呼吸监测、睡眠健康、听觉注意解码和跨主体认知建模，并面向未来脑结构解析与神经元形态理解拓展。</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -233,14 +245,21 @@ title: ""
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 3: 多模态与具身智能 -->
-<div class='topic-section'>
-  <h3>多模态与具身智能</h3>
-  <p class='topic-description'>面向真实世界交互系统，研究多模态大模型、具身智能与泛在感知，重点关注语义蒸馏、多模态对齐、无线感知、触觉感知、具身控制、身份感知以及可信个性化交互。</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>多模态与具身智能</div>
+      <div class='topic-summary-meta'>4 篇论文</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>面向真实世界交互系统，研究多模态大模型、具身智能与泛在感知，重点关注语义蒸馏、多模态对齐、无线感知、触觉感知、具身控制、身份感知以及可信个性化交互。</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -298,14 +317,21 @@ title: ""
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 <!-- Theme 4: AI for Science -->
-<div class='topic-section'>
-  <h3>AI for Science</h3>
-  <p class='topic-description'>面向科学发现中的交叉智能计算，探索智能方法在复杂系统、环境科学、生物启发分析和科学建模中的应用。</p>
-  <div class='carousel-scroll'>
+<details class='topic-section topic-accordion'>
+  <summary>
+    <div class='topic-summary-copy'>
+      <div class='topic-summary-title'>AI for Science</div>
+      <div class='topic-summary-meta'>2 篇论文</div>
+    </div>
+  </summary>
+  <div class='topic-panel'>
+    <p class='topic-description'>面向科学发现中的交叉智能计算，探索智能方法在复杂系统、环境科学、生物启发分析和科学建模中的应用。</p>
+    <div class='carousel-scroll'>
 
     <div class='paper-box'>
       <div class='paper-box-image'>
@@ -335,8 +361,9 @@ title: ""
       </div>
     </div>
 
+    </div>
   </div>
-</div>
+</details>
 
 </div>
 

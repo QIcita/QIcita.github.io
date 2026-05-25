@@ -15,6 +15,8 @@ title: ""
 # 最新动态
 <div class='news-window' markdown='1'>
 
+- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收至 _**IEEE T-AFFC (CCF Rank B)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
+
 - 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/) 老师的指导!
 - 2026.04: 🎉🎉 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF Rank B)**_!
@@ -174,6 +176,20 @@ title: ""
         <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
       </div>
     </div>
+        <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-AFFC 2026<6div>
+          <img src='{{ "/_pages/images/taffc2.png" | relative_url }}' alt="TAFFC2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+       <strong>PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions</strong>
+
+        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, Meng Wang
+      </div>
+    </div>
+
 
     <div class='paper-box'>
       <div class='paper-box-image'>

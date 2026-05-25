@@ -230,7 +230,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
       <div class='paper-box'>
       <div class='paper-box-image'>
         <div>
-          <div class="badge">IEEE T-AFFC 2025<6div>
+          <div class="badge">IEEE T-AFFC 2026<6div>
           <img src='{{ "/_pages/images/taffc2.png" | relative_url }}' alt="TAFFC2026" width="100%">
         </div>
       </div>

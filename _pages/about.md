@@ -35,6 +35,7 @@ My research focuses on brain-inspired multimodal perceptual and cognitive intell
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
+- 2026.05: 🎉🎉 One paper about Video-based Personality Assessment is accepted to _**IEEE T-AFFC (CCF Rank B)**_！Thanks to Prof. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Dan Guo]([https://zjzac.github.io/](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
 - 2026.05: 🎉🎉 One paper about Video-Based Affective Computing is accepted to _**IEEE T-CE**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 - 2026.04: 🎉🎉 One collaborative paper about Embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
@@ -225,6 +226,21 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
       </div>
     </div>
+
+      <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-AFFC 2025<6div>
+          <img src='{{ "/_pages/images/taffc2.png" | relative_url }}' alt="TAFFC2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+       <strong>PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions</strong>
+
+        <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, Meng Wang
+      </div>
+    </div>
+
 
     <div class='paper-box'>
       <div class='paper-box-image'>

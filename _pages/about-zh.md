@@ -154,7 +154,7 @@ title: ""
   <summary>
     <div class='topic-summary-copy'>
       <div class='topic-summary-title'>脑启发与情感认知智能</div>
-      <div class='topic-summary-meta'>6 篇论文</div>
+      <div class='topic-summary-meta'>7 篇论文</div>
     </div>
   </summary>
   <div class='topic-panel'>

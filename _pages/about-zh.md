@@ -15,20 +15,18 @@ title: ""
 # 最新动态
 <div class='news-window' markdown='1'>
 
-- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收至 _**IEEE T-AFFC (CCF Rank B)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
-
-- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/) 老师的指导!
+- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收至 _**IEEE T-AFFC (CCF Rank B)**_！ 
+- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！
 - 2026.04: 🎉🎉 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于遥感场景分类的合作论文被接收至 _**IEEE T-GRS (CCF Rank B)**_!
 - 2026.03: 🎉🎉 一篇关于低光图像超分辨率的合作论文被接收至 _**IEEE ICME 2026 (CCF Rank B)**_!
-- 2026.02: 🎉🎉 一篇关于手写身份验证的论文被接收至 _**IEEE T-DSC (CCF Rank A)**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/) 和 [李萌](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) 教授的指导!
+- 2026.02: 🎉🎉 一篇关于手写身份验证的论文被接收至 _**IEEE T-DSC (CCF Rank A)**_！
 - 2026.01: 🎉🎉 一篇关于三维物体检测的合作论文被接收至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
-- 2025.12: 🎉🎉 获得 IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition _**银奖**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/) 和 [汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) 教授的指导!
-
+- 2025.12: 🎉🎉 获得 IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition _**银奖**_！
 - 2025.09: 🎉🎉 一篇关于抑郁症估计的合作论文被接收至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2025.07: 🎉🎉 一篇关于动态表情识别的分布鲁棒优化论文被接收至 _**ACM MM 2025 (CCF Rank A)**_！感谢 [黄锦阳](https://happyisac.github.io/PersonHomePage/)、[张杰](https://zjzac.github.io/) 和 [汪萌](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) 教授的指导!
-- 2025.02: 🎉🎉 一篇合作论文被接收至 _**PNAS Nexus [(媒体关注)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！感谢 [宋立岩](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) 教授的指导!
+- 2025.07: 🎉🎉 一篇关于动态表情识别的分布鲁棒优化论文被接收至 _**ACM MM 2025 (CCF Rank A)**_！
+- 2025.02: 🎉🎉 一篇合作论文被接收至 _**PNAS Nexus [(媒体关注)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_
 
 </div>
 

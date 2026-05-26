@@ -46,105 +46,105 @@ title: ""
     <p class='topic-description'>面向图像、视频与 3D 场景中的细粒度视觉理解任务，研究复杂视觉条件下的鲁棒表征学习，重点关注分布偏移、长尾类别、低质量成像、跨主体泛化、几何感知和细微视觉差异建模。</p>
     <div class='carousel-scroll'>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`ACM MM 2025`</div>`
-          `<img src='{{ "/_pages/images/MM2025.png" | relative_url }}' alt="MM2025" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2507.15765"><strong>`Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ACM MM 2025</div>
+          <img src='{{ "/_pages/images/MM2025.png" | relative_url }}' alt="MM2025" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2507.15765"><strong>Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization</strong></a>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, Meng Wang
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE ICME 2026`</div>`
-          `<img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="ICME2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2603.27301"><strong>`Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICME 2026</div>
+          <img src='{{ "/_pages/images/icme1.png" | relative_url }}' alt="ICME2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2603.27301"><strong>Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution</strong></a>
 
-    Ji-Xuan He, Jia-Cheng Zhao,`<strong>`Feng-Qi Cui (Corresponding author)`</strong>`, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
-      `</div>`
-    `</div>`
+    Ji-Xuan He, Jia-Cheng Zhao,<strong>Feng-Qi Cui (Corresponding author)</strong>, Jinyang Huang, Yang Liu, Sirui Zhao, Meng Li, Zhi Liu
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-CE 2026`</div>`
-          `<img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/pdf/2511.11406"><strong>`Robust Low-Rank Sparse Framework for Video-Based Affective Computing`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-CE 2026</div>
+          <img src='{{ "/_pages/images/disentangling.png" | relative_url }}' alt="Disentangling" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE ICASSP 2026`</div>`
-          `<img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2601.22616"><strong>`UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE ICASSP 2026</div>
+          <img src='{{ "/_pages/images/icassp1.png" | relative_url }}' alt="ICASSP2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2601.22616"><strong>UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating</strong></a>
 
-    Xing Yi, Jinyang Huang,`<strong>`Feng-Qi Cui`</strong>`, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
-      `</div>`
-    `</div>`
+    Xing Yi, Jinyang Huang,<strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, Dan Guo
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-GRS 2026`</div>`
-          `<img src='{{ "/_pages/images/tgrs.png" | relative_url }}' alt="TGRS2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://ieeexplore.ieee.org/abstract/document/11479341"><strong>`Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-GRS 2026</div>
+          <img src='{{ "/_pages/images/tgrs.png" | relative_url }}' alt="TGRS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/abstract/document/11479341"><strong>Dual-Branch CNN with Enhanced Bidirectional Multiscale Sparse Cross-Attention for Remote Sensing Scene Classification</strong></a>
 
-    Xinyuan Wu, Zhiguo Ma,`<strong>`Feng-Qi Cui`</strong>`, Huasen He, Yunpeng Hou, Jian Yang
-      `</div>`
-    `</div>`
+    Xinyuan Wu, Zhiguo Ma,<strong>Feng-Qi Cui</strong>, Huasen He, Yunpeng Hou, Jian Yang
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`ISPA 2025`</div>`
-          `<img src='{{ "/_pages/images/micacl.png" | relative_url }}' alt="MICACL" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2509.04344"><strong>`MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ISPA 2025</div>
+          <img src='{{ "/_pages/images/micacl.png" | relative_url }}' alt="MICACL" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2509.04344"><strong>MICACL: Multi-Instance Category-Aware Contrastive Learning for Long-Tailed Dynamic Facial Expression Recognition</strong></a>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Zhen Lin, Xinlong Rao, Anyang Tong, Shiyao Li, Fei Wang, Changlin Chen, Bin Liu
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`arXiv 2026`</div>`
-          `<img src='{{ "/_pages/images/rema.png" | relative_url }}' alt="ReMA" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2601.00311"><strong>`ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">arXiv 2026</div>
+          <img src='{{ "/_pages/images/rema.png" | relative_url }}' alt="ReMA" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2601.00311"><strong>ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition</strong></a>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu
+      </div>
+    </div>
 
-    `</div>`
+    </div>
 
 </div>
 </details>
@@ -164,105 +164,105 @@ title: ""
     <p class='topic-description'>面向脑启发感知与认知建模，研究情感、生理与认知信号的可信表征、解耦和诊断，涵盖动态表情、抑郁评估、呼吸监测、睡眠健康、听觉注意解码和跨主体认知建模，并面向未来脑结构解析与神经元形态理解拓展。</p>
     <div class='carousel-scroll'>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-IFS 2026`</div>`
-          `<img src='{{ "/_pages/images/tifs2026.png" | relative_url }}' alt="TIFS2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<strong>`Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling`</strong><br>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-IFS 2026</div>
+          <img src='{{ "/_pages/images/tifs2026.png" | relative_url }}' alt="TIFS2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Towards Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling</strong><br>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
-      `</div>`
-    `</div>`
-        `<div class='paper-box'>`
+    <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, Meng Wang
+      </div>
+    </div>
+        <div class='paper-box'>
 
-    `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-AFFC 2026`</div>`
-          `<img src='{{ "/_pages/images/taffc2.png" | relative_url }}' alt="TAFFC2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-       `<strong>`PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions`</strong>`<br>
+    <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-AFFC 2026</div>
+          <img src='{{ "/_pages/images/taffc2.png" | relative_url }}' alt="TAFFC2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+       <strong>PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions</strong><br>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, Meng Wang
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, Meng Wang
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-AFFC 2025`</div>`
-          `<img src='{{ "/_pages/images/taffc1.png" | relative_url }}' alt="TAFFC2025" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://ieeexplore.ieee.org/document/11175917"><strong>`CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-AFFC 2025</div>
+          <img src='{{ "/_pages/images/taffc1.png" | relative_url }}' alt="TAFFC2025" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/document/11175917"><strong>CausalSymptom: Learning Causal Disentangled Representation for Depression Severity Estimation on Transcribed Clinical Interviews</strong></a>
 
-    Mingzheng Li, Xiao Sun, Xinke Wang,`<strong>`Feng-Qi Cui`</strong>`, Xun Yang
-      `</div>`
-    `</div>`
+    Mingzheng Li, Xiao Sun, Xinke Wang,<strong>Feng-Qi Cui</strong>, Xun Yang
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`CogSci 2026`</div>`
-          `<img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<strong>`Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding`</strong><br>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">CogSci 2026</div>
+          <img src='{{ "/_pages/images/cogsci26.png" | relative_url }}' alt="CogSci2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding</strong><br>
 
-    Siying Tao, Jingjing Hu, Jinyang Huang,`<strong>`Feng-Qi Cui`</strong>`, Xueliang Liu, Dan Guo
-      `</div>`
-    `</div>`
+    Siying Tao, Jingjing Hu, Jinyang Huang,<strong>Feng-Qi Cui</strong>, Xueliang Liu, Dan Guo
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`arXiv 2026`</div>`
-          `<img src='{{ "/_pages/images/towards_trustworthy_depression.png" | relative_url }}' alt="TowardsTrustworthyDepression" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2604.16579"><strong>`Towards Trustworthy Depression Estimation via Disentangled Evidential Learning`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">arXiv 2026</div>
+          <img src='{{ "/_pages/images/towards_trustworthy_depression.png" | relative_url }}' alt="TowardsTrustworthyDepression" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2604.16579"><strong>Towards Trustworthy Depression Estimation via Disentangled Evidential Learning</strong></a>
 
-    Fangyuan Liu, Sirui Zhao, Zeyu Zhang, Jinyang Huang,`<strong>`Feng-Qi Cui`</strong>`, Bin Luo, Tong Xu, Meng Li, Enhong Chen
-      `</div>`
-    `</div>`
+    Fangyuan Liu, Sirui Zhao, Zeyu Zhang, Jinyang Huang,<strong>Feng-Qi Cui</strong>, Bin Luo, Tong Xu, Meng Li, Enhong Chen
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`arXiv 2026`</div>`
-          `<img src='{{ "/_pages/images/trusted_respiratory.png" | relative_url }}' alt="TrustedRespiratory" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2601.16241"><strong>`A New Paradigm for Trusted Respiratory Monitoring Via Consumer Electronics-grade Radar Signals`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">arXiv 2026</div>
+          <img src='{{ "/_pages/images/trusted_respiratory.png" | relative_url }}' alt="TrustedRespiratory" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2601.16241"><strong>A New Paradigm for Trusted Respiratory Monitoring Via Consumer Electronics-grade Radar Signals</strong></a>
 
-    Xinyu Li, Jinyang Huang,`<strong>`Feng-Qi Cui`</strong>`, Meng Wang, Peng Zhao, Meng Li, Dan Guo
-      `</div>`
-    `</div>`
+    Xinyu Li, Jinyang Huang,<strong>Feng-Qi Cui</strong>, Meng Wang, Peng Zhao, Meng Li, Dan Guo
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`计算机应用 2024`</div>`
-          `<img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n5a0ma0vc4d0re0uq4e02t031077039&site=xueshu_se"><strong>`基于通用手环的睡眠呼吸暂停检测`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">计算机应用 2024</div>
+          <img src='{{ "/_pages/images/trusted_respiratory_sleep.png" | relative_url }}' alt="SleepApnea" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://xueshu.baidu.com/usercenter/paper/show?paperid=1n5a0ma0vc4d0re0uq4e02t031077039&site=xueshu_se"><strong>基于通用手环的睡眠呼吸暂停检测</strong></a>
 
-    黄锦阳,`<strong>`崔丰麒`</strong>`, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志
-      `</div>`
-    `</div>`
+    黄锦阳,<strong>崔丰麒</strong>, 马长秀, 樊文东, 李萌, 李经宇, 孙晓, 黄林生, 刘志
+      </div>
+    </div>
 
-    `</div>`
+    </div>
 
 </div>
 </details>
@@ -282,63 +282,63 @@ title: ""
     <p class='topic-description'>面向真实世界交互系统，研究多模态大模型、具身智能与泛在感知，重点关注语义蒸馏、多模态对齐、无线感知、触觉感知、具身控制、身份感知以及可信个性化交互。</p>
     <div class='carousel-scroll'>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IEEE T-DSC 2026`</div>`
-          `<img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="TDSC2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://ieeexplore.ieee.org/document/11417419"><strong>`Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IEEE T-DSC 2026</div>
+          <img src='{{ "/_pages/images/tifs26.png" | relative_url }}' alt="TDSC2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://ieeexplore.ieee.org/document/11417419"><strong>Identifying Who You Are No Matter What You Write through Abstracting Handwriting Style</strong></a>
 
-    Jinyang Huang, Yuanhao Feng,`<strong>`Feng-Qi Cui (Equal contribution)`</strong>`, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
-      `</div>`
-    `</div>`
+    Jinyang Huang, Yuanhao Feng,<strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, Meng Li
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`arXiv 2025`</div>`
-          `<img src='{{ "/_pages/images/embodied_survey.png" | relative_url }}' alt="EmbodiedSurvey" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2505.06897"><strong>`Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">arXiv 2025</div>
+          <img src='{{ "/_pages/images/embodied_survey.png" | relative_url }}' alt="EmbodiedSurvey" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2505.06897"><strong>Embodied Intelligence: The Key to Unblocking Generalized Artificial Intelligence</strong></a>
 
-    Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li,`<strong>`Feng-Qi Cui`</strong>`, Erbao Dong
-      `</div>`
-    `</div>`
+    Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shuai Li,<strong>Feng-Qi Cui</strong>, Erbao Dong
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`IJCAI 2026`</div>`
-          `<img src='{{ "/_pages/images/ijcai26.png" | relative_url }}' alt="IJCAI2026" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<strong>`PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space`</strong><br>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">IJCAI 2026</div>
+          <img src='{{ "/_pages/images/ijcai26.png" | relative_url }}' alt="IJCAI2026" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <strong>PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space</strong><br>
 
-    Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu,`<strong>`Feng-Qi Cui`</strong>`, Erbao Dong, Wenjing Chen
-      `</div>`
-    `</div>`
+    Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu,<strong>Feng-Qi Cui</strong>, Erbao Dong, Wenjing Chen
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`ICPADS 2025`</div>`
-          `<img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://arxiv.org/abs/2510.13390"><strong>`Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">ICPADS 2025</div>
+          <img src='{{ "/_pages/images/wifi_gesture.png" | relative_url }}' alt="WiFiGesture" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://arxiv.org/abs/2510.13390"><strong>Generalizing WiFi Gesture Recognition via Large-Model-Aware Semantic Distillation and Alignment</strong></a>
 
-    `<strong>`Feng-Qi Cui`</strong>`, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
-      `</div>`
-    `</div>`
+    <strong>Feng-Qi Cui</strong>, Yu-Tong Guo, Tianyue Zheng, Jinyang Huang
+      </div>
+    </div>
 
-    `</div>`
+    </div>
 
 </div>
 </details>
@@ -358,35 +358,35 @@ title: ""
     <p class='topic-description'>面向科学发现中的交叉智能计算，探索智能方法在复杂系统、环境科学、生物启发分析和科学建模中的应用。</p>
     <div class='carousel-scroll'>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`PNAS Nexus`</div>`
-          `<img src='{{ "/_pages/images/PNASNexus.png" | relative_url }}' alt="PNASNexus" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true"><strong>`Natural-selected plastics biodegradation species and enzymes in landfills`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">PNAS Nexus</div>
+          <img src='{{ "/_pages/images/PNASNexus.png" | relative_url }}' alt="PNASNexus" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://academic.oup.com/pnasnexus/article/4/3/pgaf066/8063326?login=true"><strong>Natural-selected plastics biodegradation species and enzymes in landfills</strong></a>
 
-    Xiaoxing Lin, Rui Zhang,`<strong>`Feng-Qi Cui`</strong>`, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
-      `</div>`
-    `</div>`
+    Xiaoxing Lin, Rui Zhang,<strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, Liyan Song
+      </div>
+    </div>
 
-    `<div class='paper-box'>`
-      `<div class='paper-box-image'>`
-        `<div>`
-          `<div class="badge">`Chaos Solitons & Fractals 2023`</div>`
-          `<img src='{{ "/_pages/images/rc_cobweb.png" | relative_url }}' alt="RCcobweb" width="100%">`
-        `</div>`
-      `</div>`
-      `<div class='paper-box-text'>`
-        `<a href="https://www.sciencedirect.com/science/article/pii/S0960077923004423"><strong>`Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network`</strong></a>`
+    <div class='paper-box'>
+      <div class='paper-box-image'>
+        <div>
+          <div class="badge">Chaos Solitons & Fractals 2023</div>
+          <img src='{{ "/_pages/images/rc_cobweb.png" | relative_url }}' alt="RCcobweb" width="100%">
+        </div>
+      </div>
+      <div class='paper-box-text'>
+        <a href="https://www.sciencedirect.com/science/article/pii/S0960077923004423"><strong>Theoretical analysis and experimental verification of fractional-order RC cobweb circuit network</strong></a>
 
-    Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes,`<strong>`Feng-Qi Cui`</strong>`, YangQuan Chen
-      `</div>`
-    `</div>`
+    Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes,<strong>Feng-Qi Cui</strong>, YangQuan Chen
+      </div>
+    </div>
 
-    `</div>`
+    </div>
 
 </div>
 </details>

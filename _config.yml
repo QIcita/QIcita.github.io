@@ -85,8 +85,6 @@ exclude:
   - README
   - Rakefile
   - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
   - config
   - gulpfile.js
   - log

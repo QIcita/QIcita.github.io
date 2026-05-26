@@ -206,7 +206,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   <summary>
     <div class='topic-summary-copy'>
       <div class='topic-summary-title'>Brain-inspired and Affective Cognitive Intelligence</div>
-      <div class='topic-summary-meta'>6 papers</div>
+      <div class='topic-summary-meta'>7 papers</div>
     </div>
   </summary>
   <div class='topic-panel'>

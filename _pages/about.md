@@ -28,6 +28,108 @@ I am currently pursuing a Ph.D. in Computer Technology at the [University of Sci
 
 My research focuses on brain-inspired multimodal perceptual and cognitive intelligence, spanning robust visual intelligence, brain-inspired and affective cognitive intelligence, multimodal foundation models and embodied intelligence, and AI for Science. My long-term goal is to build efficient, trustworthy, generalizable, and personalized intelligent systems for real-world interactive scenarios.
 
+<div class='cv-overview'>
+  <section class='cv-section cv-section--education'>
+    <span class='anchor' id='education-work-experience'></span>
+    <h1 class='cv-heading'>Education & Work Experience</h1>
+
+    <div class='cv-card'>
+      <div class='cv-scroll-window'>
+      <div class='cv-list'>
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>University of Science and Technology of China</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>Ph.D. in Computer Technology</div>
+              <div class='cv-time'>Sep. 2026 - Present</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/iai-footer-logo.png" | relative_url }}' alt='IAI logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>Institute of Artificial Intelligence, Hefei Comprehensive National Science Center</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>Joint Training Program </div>
+              <div class='cv-time'>Sep. 2024 - Jun. 2026</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>University of Science and Technology of China</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>M.S. in Computer Technology</div>
+              <div class='cv-time'>Sep. 2024 - Jun. 2026</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/hfut.svg" | relative_url }}' alt='HFUT logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>Hefei University of Technology</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>B.Eng. in Microelectronics</div>
+              <div class='cv-time'>Jun. 2020 - Jul. 2024</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <section class='cv-section cv-section--honors'>
+    <span class='anchor' id='selected-honors-and-awards'></span>
+    <span class='anchor' id='academic-services'></span>
+    <h1 class='cv-heading'>Honors & Services</h1>
+
+    <div class='cv-card'>
+      <div class='cv-scroll-window'>
+        <ul class='cv-compact-list cv-compact-list--clean'>
+        <li>
+          IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong>
+          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">Certificate</a>
+        </li>
+        <li>
+          Hefei University of Technology, one of the <strong>Top Ten Outstanding Students</strong> (10 selected university-wide)
+        </li>
+        <li>
+          CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong> (ranked 2/5)
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA" target="_blank">Details</a>
+        </li>
+        <li>
+          The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
+          (ranked 1/15; the only Anhui industry-track project entering the national on-site final)
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">Report 1</a>
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">Report 2</a>
+        </li>
+        <li>
+          Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ
+        </li>
+        <li>
+          Baidu PaddlePaddle Developers Experts (PPDE)
+          <a class="cv-link-chip" href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92" target="_blank">Profile</a>
+        </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>
+
 
 
 
@@ -459,13 +561,6 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
 </div>
 -->
 
-<span class='anchor' id='selected-honors-and-awards'></span>
-# Selected Honors and Awards
-  - IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition **Silver Award**.<br> _(Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian , Zhangbin Li, Siying Tao, **Feng-Qi Cui**, Meng Wang)_ \| [\[Link\]](https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/mmtc25.png)
-  - Hefei University of Technology, one of the **top ten outstanding students (only 10 in the entire university)**.
-  - CCF首届泛在智能感知技术创新应用大赛 **二等奖**.**（排序2/5）** \| [\[Link\]](https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA)
-  - 第八届（2022）中国国际“互联网+”大学生创新创业大赛 **国家银奖**.（**排序1/15**；安徽省产业赛道**唯一**入围全国现场赛项目）\| [\[Link1\]](https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw) \| [\[Link2\]](https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ)  
-
 <!--
 #  学术服务
   - 情感计算与先进智能机器安徽省重点实验室 学生工作组负责人. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
@@ -474,14 +569,6 @@ _Jinhao Jiang, Changlin Chen, Shile Feng, Wanru Geng, Zesheng Zhou, Ni Wang, Shu
   - 百度 (Baidu) 飞桨开发者技术专家 (PPDE,PaddlePaddle Developers Experts).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
   - OpenI启智社区高校旅长.\| [\[Link\]](https://openi.org.cn/index.php?m=content&c=index&a=lists&catid=220)
 -->
-<span class='anchor' id='academic-services'></span>
-# Academic Services
-  - Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines, **Student Working Group Leader**. \| [\[Link\]](http://aflab.hfut.edu.cn/sysgk/zzjg.htm)
-  - Anhui Provincial Artificial Intelligence Society, Emotional Computing Committee, Student Working Group Leader (2024.08 - 2025.03 ). \| [\[Link\]](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)
-  - Reviewer: IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.
-  - Baidu PaddlePaddle Developers Experts (PPDE).\| [\[Link\]](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92)
-
-
 <!--
 # 个人荣誉
   - 入选中国科学技术大学先进技术研究院“英才计划”.\| [\[Link1\]](https://iat.ustc.edu.cn/u/cms/xjjs/202204/18160317wmer.pdf)

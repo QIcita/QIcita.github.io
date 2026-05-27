@@ -6,14 +6,14 @@
   @include container;
   @include clearfix;
   margin-top: 0;
-  padding-left: 1.5em;
-  padding-right: 1.5em;
-  padding-top: $spacing-lg;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  padding-top: 2rem;
   animation: intro 0.3s both;
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: 1440px;
   }
 }
 
@@ -73,23 +73,32 @@
     scroll-margin-top: 5rem;
   }
   h1 {
-    margin-top: $spacing-2xl;
-    margin-bottom: $spacing-lg;
-    padding-bottom: $spacing-md;
-    border-bottom: 2px solid $border-color;
+    margin-top: 2.5rem;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0;
+    border-bottom: 0;
     transition: color 0.2s ease;
+    font-size: clamp(1.28rem, 1.25vw, 1.65rem);
+    font-weight: 800;
+    letter-spacing: -0.03em;
+    color: #111827;
+
     &:hover {
-      color: $primary-color;
+      color: #111827;
     }
   }
   h2 {
-    margin-top: $spacing-2xl;
-    margin-bottom: $spacing-lg;
+    margin-top: 2.25rem;
+    margin-bottom: 1rem;
+    font-size: clamp(1.02rem, 0.95vw, 1.2rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    color: #111827;
   }
 
   p, li, dl {
-    font-size: 1em;
-    line-height: 1.8;
+    font-size: 1.04em;
+    line-height: 1.78;
   }
 
   .news-more {
@@ -133,7 +142,8 @@
   }
 
   a {
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -258,12 +268,11 @@
   .news-window {
     margin-top: $spacing-md;
     margin-bottom: $spacing-2xl;
-    padding: $spacing-lg;
+    padding: 1.5rem 1.75rem;
     max-height: 320px;
     overflow-y: auto;
-    background: linear-gradient(180deg, rgba(10, 132, 255, 0.10) 0%, rgba(10, 132, 255, 0.04) 100%);
-    border: 1px solid rgba(10, 132, 255, 0.18);
-    border-left: 4px solid $primary-color;
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.06);
     border-radius: $border-radius-lg;
     box-shadow: $shadow-sm;
     scrollbar-gutter: stable;
@@ -279,7 +288,7 @@
     }
 
     a {
-      color: $primary-color;
+      color: #1f2937;
       font-weight: 600;
     }
   }

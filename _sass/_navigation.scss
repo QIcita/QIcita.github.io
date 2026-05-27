@@ -180,15 +180,15 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
-    color: $masthead-link-color;
+    padding: 0.6rem 0;
+    color: rgba(255, 255, 255, 0.92);
     text-decoration: none;
-    font-weight: 500;
+    font-weight: 600;
     letter-spacing: -0.01em;
     transition: all 0.3s ease;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      color: #fff;
     }
   }
 
@@ -197,19 +197,19 @@
     height: 100%;
     right: 0;
     padding: 0 0.75rem;
-    border: 0;
+    border: 1px solid rgba(255, 255, 255, 0.18);
     outline: none;
-    background: $primary-color;
+    background: rgba(255, 255, 255, 0.08);
     color: #fff;
     cursor: pointer;
-    border-radius: $border-radius-sm;
+    border-radius: 999px;
     margin-right: 0.5rem;
     transition: all 0.3s ease;
     
     &:hover {
-      transform: translateY(-2px);
-      box-shadow: $shadow-md;
-      background: mix($primary-color, #fff, 90%);
+      transform: translateY(-1px);
+      box-shadow: 0 8px 18px rgba(15, 23, 42, 0.2);
+      background: rgba(255, 255, 255, 0.14);
     }
   }
 
@@ -226,7 +226,7 @@
 
         a {
           margin-left: 0;
-          color: $primary-color;
+          color: #fff;
         }
       }
 
@@ -246,7 +246,7 @@
         left: 0;
         bottom: 0;
         height: 2px;
-        background: $primary-color;
+        background: #fff;
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
@@ -269,12 +269,10 @@
     right: 0;
     margin-top: 12px;
     padding: $spacing-sm;
-    border: none;
+    border: 1px solid rgba(255, 255, 255, 0.08);
     border-radius: $border-radius;
-    background: $glass-bg-light;
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
-    box-shadow: $shadow-lg;
+    background: #3f434b;
+    box-shadow: 0 18px 40px rgba(15, 23, 42, 0.24);
 
     a {
       margin: 0;
@@ -282,10 +280,11 @@
       font-size: $type-size-5;
       border-radius: $border-radius-sm;
       transition: all 0.3s ease;
+      color: rgba(255, 255, 255, 0.92);
 
       &:hover {
-        color: $primary-color;
-        background: rgba(10, 132, 255, 0.1);
+        color: #fff;
+        background: rgba(255, 255, 255, 0.08);
         transform: translateX(4px);
       }
     }
@@ -300,7 +299,7 @@
 
     li {
       display: block;
-      border-bottom: 1px solid $border-color;
+      border-bottom: 1px solid rgba(255, 255, 255, 0.08);
 
       &:last-child {
         border-bottom: none;

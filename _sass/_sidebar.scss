@@ -27,17 +27,16 @@
   /* Apple-style subtle items */
   > * {
     margin-bottom: $spacing-lg;
-    padding: $spacing-lg;
-    border-radius: $border-radius;
-    background: $glass-bg-light;
-    backdrop-filter: blur(8px);
-    border: 1px solid rgba(255, 255, 255, 0.8);
-    box-shadow: $shadow-sm;
+    padding: 1.75rem 1.5rem;
+    border-radius: $border-radius-lg;
+    background: #fff;
+    border: 1px solid rgba(15, 23, 42, 0.06);
+    box-shadow: $shadow-md;
     transition: all 0.3s ease;
     
     &:hover {
-      box-shadow: $shadow-md;
-      transform: translateY(-2px);
+      box-shadow: $shadow-lg;
+      transform: translateY(-3px);
     }
   }
 
@@ -80,7 +79,7 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
-  gap: $spacing-lg;
+  gap: 1.25rem;
 }
 
 .author__avatar {
@@ -91,17 +90,17 @@
 
   img {
     display: block;
-    width: 130px;
-    height: 130px;
+    width: 100%;
+    max-width: 240px;
+    height: auto;
     object-fit: cover;
-    border-radius: 50%;
-    box-shadow: $shadow-lg;
-    border: 3px solid rgba(255, 255, 255, 0.9);
+    border-radius: 20px;
+    box-shadow: $shadow-md;
     transition: all 0.3s ease;
     
     &:hover {
-      transform: scale(1.05);
-      box-shadow: 0 16px 32px rgba(0, 0, 0, 0.16);
+      transform: scale(1.02);
+      box-shadow: $shadow-lg;
     }
   }
 }
@@ -116,35 +115,36 @@
 
 .author__name {
   margin: 0;
-  margin-bottom: $spacing-md;
+  margin-bottom: 0.4rem;
   font-weight: 700;
   letter-spacing: -0.01em;
+  color: #111827;
+  line-height: 1.25;
 }
 
 .sidebar .author__name {
   @include breakpoint($medium) {
-    font-size: $type-size-3;
+    font-size: 1.1rem;
   }
   font-family: $sans-serif;
-  font-size: $type-size-4;
+  font-size: 1.05rem;
 }
 
 .author__bio {
   margin: 0;
-  color: mix(#000, $text-color, 30%);
-  line-height: 1.6;
+  color: #4b5563;
+  line-height: 1.5;
+  font-size: 0.92rem;
 }
 
 .author__urls-wrapper {
   display: block;
   width: 100%;
   margin-top: $spacing-md;
-  padding: $spacing-lg;
-  border: none;
-  border-radius: $border-radius;
-  background: $glass-bg-light;
-  backdrop-filter: blur(8px);
-  border: 1px solid rgba(255, 255, 255, 0.8);
+  padding: 1.25rem 1rem;
+  border: 1px solid rgba(15, 23, 42, 0.06);
+  border-radius: $border-radius-lg;
+  background: #f8fafc;
   box-shadow: $shadow-sm;
   font-family: $sans-serif;
   z-index: 10;
@@ -163,17 +163,17 @@
     margin-bottom: 0;
     width: 120px;
     padding: 0.5em;
-    border: 1px solid rgba(0, 0, 0, 0.15);
-    border-radius: $border-radius-sm;
-    background: rgba(10, 132, 255, 0.1);
-    color: $primary-color;
+    border: 1px solid rgba(15, 23, 42, 0.15);
+    border-radius: 999px;
+    background: #fff;
+    color: #334155;
     font-weight: 700;
     font-size: $type-size-6;
     cursor: pointer;
     transition: all 0.3s ease;
     
     &:hover {
-      background: rgba(10, 132, 255, 0.2);
+      background: rgba(15, 23, 42, 0.05);
       box-shadow: $shadow-sm;
       transform: translateY(-1px);
     }
@@ -186,9 +186,10 @@
 
 .author__urls {
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 0.75rem 1.2rem;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  gap: 0.45rem;
   position: static;
   margin: 0;
   padding: 0;
@@ -200,26 +201,42 @@
   cursor: default;
 
   li {
-    white-space: nowrap;
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+    width: 100%;
+    white-space: normal;
+    line-height: 1.45;
   }
 
   a {
     display: inline-flex;
     align-items: center;
-    gap: $spacing-sm;
+    gap: 0.45rem;
     margin-bottom: 0;
-    padding: $spacing-sm $spacing-md;
-    color: $primary-color;
-    font-size: $type-size-5;
+    padding: 0.2rem 0;
+    color: #334155;
+    font-size: 0.95rem;
     font-weight: 500;
     text-decoration: none;
     border-radius: $border-radius-sm;
     transition: all 0.3s ease;
+    width: 100%;
 
     &:hover {
-      background: rgba(10, 132, 255, 0.1);
+      background: rgba(15, 23, 42, 0.05);
       transform: translateY(-2px);
       text-decoration: underline;
+    }
+  }
+
+  .author__email-link {
+    align-items: flex-start;
+    word-break: break-all;
+
+    span {
+      display: inline-block;
+      line-height: 1.4;
     }
   }
 

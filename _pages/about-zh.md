@@ -9,6 +9,108 @@ title: ""
 
 我的研究兴趣集中于脑启发多模态感知与认知智能，主要围绕鲁棒视觉智能、脑启发与情感认知智能、多模态大模型与具身智能、AI for Science 展开研究。我的长期目标是构建面向真实世界复杂交互场景的高效、可信、泛化和个性化智能系统。
 
+<div class='cv-overview'>
+  <section class='cv-section cv-section--education'>
+    <span class='anchor' id='education-work-experience'></span>
+    <h1 class='cv-heading'>教育与工作经历</h1>
+
+    <div class='cv-card'>
+      <div class='cv-scroll-window'>
+      <div class='cv-list'>
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>中国科学技术大学</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>计算机技术博士</div>
+              <div class='cv-time'>2026.09 - 至今</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/iai-footer-logo.png" | relative_url }}' alt='IAI logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>硕士阶段联合培养</div>
+              <div class='cv-time'>2024.09 - 2026.06</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>中国科学技术大学</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>计算机技术硕士</div>
+              <div class='cv-time'>2024.09 - 2026.06</div>
+            </div>
+          </div>
+        </div>
+
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/hfut.svg" | relative_url }}' alt='HFUT logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>合肥工业大学</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>微电子学学士</div>
+              <div class='cv-time'>2020.06 - 2024.07</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </section>
+
+  <section class='cv-section cv-section--honors'>
+    <span class='anchor' id='selected-honors-and-awards'></span>
+    <span class='anchor' id='academic-services'></span>
+    <h1 class='cv-heading'>荣誉与服务</h1>
+
+    <div class='cv-card'>
+      <div class='cv-scroll-window'>
+        <ul class='cv-compact-list cv-compact-list--clean'>
+        <li>
+          IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>
+          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
+        </li>
+        <li>
+          合肥工业大学“<strong>十佳大学生</strong>”（全校仅 10 人）
+        </li>
+        <li>
+          CCF 首届泛在智能感知技术创新应用大赛，<strong>二等奖</strong>（排序 2/5）
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA" target="_blank">详情</a>
+        </li>
+        <li>
+          第八届中国国际“互联网+”大学生创新创业大赛，<strong>国家银奖</strong>
+          （排序 1/15；安徽省产业赛道唯一入围全国现场赛项目）
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">报道 1</a>
+          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">报道 2</a>
+        </li>
+        <li>
+          审稿人：IEEE TAFFC、IEEE TMM、IEEE TCSVT、IEEE OJCS、IEEE IoTJ
+        </li>
+        <li>
+          百度飞桨开发者技术专家（PPDE）
+          <a class="cv-link-chip" href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92" target="_blank">个人页</a>
+        </li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</div>
+
 <span class='anchor' id='news'></span>
 # 最新动态
 <div class='news-window' markdown='1'>
@@ -394,20 +496,3 @@ title: ""
 
 </div>
 
-<p><span class='anchor' id='selected-honors-and-awards'></span></p>
-<h1 id='selected-honors-and-awards'>荣誉奖项</h1>
-<ul>
-  <li>IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition <strong>Silver Award</strong>.<br /> <em>(Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang)</em> | <a href='https://github.com/QIcita/QIcita.github.io/blob/main/_pages/images/mmtc25.png'>[Link]</a></li>
-  <li>Hefei University of Technology, one of the <strong>top ten outstanding students (only 10 in the entire university)</strong>.</li>
-  <li>CCF首届泛在智能感知技术创新应用大赛 <strong>二等奖</strong>.<strong>（排序2/5）</strong> | <a href='https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA'>[Link]</a></li>
-  <li>第八届（2022）中国国际“互联网+”大学生创新创业大赛 <strong>国家银奖</strong>.<strong>（排序1/15）</strong>；安徽省产业赛道<strong>唯一</strong>入围全国现场赛项目）| <a href='https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw'>[Link1]</a> | <a href='https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ'>[Link2]</a></li>
-</ul>
-
-<p><span class='anchor' id='academic-services'></span></p>
-<h1 id='academic-services'>学术服务</h1>
-<ul>
-  <li>情感计算与先进智能机器安徽省重点实验室, <strong>学生工作组组长</strong>. | <a href='http://aflab.hfut.edu.cn/sysgk/zzjg.htm'>[Link]</a></li>
-  <li>安徽省人工智能学会, 情感计算专委会, 学生工作组组长 (2024.08 - 2025.03 ). | <a href='https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA'>[Link]</a></li>
-  <li>审稿人：IEEE Trans. Affective Computing, IEEE Trans. Multimedia, IEEE Trans. Circuits and Systems for Video Technology, IEEE Open Journal of the Computer Society, IEEE Internet of Things Journal.</li>
-  <li>百度飞桨开发者技术专家 (PPDE). | <a href='https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92'>[Link]</a></li>
-</ul>

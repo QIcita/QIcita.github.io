@@ -184,7 +184,7 @@ title: ""
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
+        <a href="https://ieeexplore.ieee.org/document/11538256"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
 
     <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
       </div>

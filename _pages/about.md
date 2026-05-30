@@ -237,7 +237,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://arxiv.org/pdf/2511.11406"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
+        <a href="https://ieeexplore.ieee.org/document/11538256"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
 
         <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
       </div>
@@ -542,7 +542,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 _**Feng-Qi Cui**, Jinyang Huang, Sirui Zhao, Jinglong Guo, Qifan Cai, Xin Yan, Zhi Liu_, ReMA: A Training-Free Plug-and-Play Mixing Augmentation for Video Behavior Recognition, 2026.01.[\[Link\]](https://arxiv.org/abs/2601.00311)
 
-_**Feng-Qi Cui**, Jinyang Huang, Ziyu Jia, Xinyu Li, Xin Yan, Xiaokang Zhou, Meng Wang_, Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis, 2025.11.[\[Link\]](https://arxiv.org/pdf/2511.11406)
+_**Feng-Qi Cui**, Jinyang Huang, Ziyu Jia, Xinyu Li, Xin Yan, Xiaokang Zhou, Meng Wang_, Disentangling Emotional Bases and Transient Fluctuations: A Low-Rank Sparse Decomposition Approach for Video Affective Analysis, 2025.11.[\[Link\]](https://ieeexplore.ieee.org/document/11538256)
   
 _**Feng-Qi Cui**, Jinyang Huang, Anyang Tong, Ziyu Jia, Jie Zhang, Zhi Liu, Dan Guo, Jianwei Lu, Meng Wang_, Every Subtlety Counts: Fine-grained Person Independence Micro-Action Recognition via Distributionally Robust Optimization, 2025.09.[\[Link\]](https://arxiv.org/abs/2509.21261)
 

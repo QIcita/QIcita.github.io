@@ -337,7 +337,8 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
         </div>
       </div>
       <div class='paper-box-text'>
-       <strong>PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions</strong><br>
+       <a href="https://ieeexplore.ieee.org/document/11543185"><strong>PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions</strong></a>
+       <a href="https://qicita.github.io/PersoMoni/zh.html" target="_blank" rel="noopener">[Project]</a><br>
 
         <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, Meng Wang
       </div>

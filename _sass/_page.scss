@@ -154,26 +154,38 @@
     }
   }
 
-  p a,
-  li a,
-  dd a,
-  blockquote a {
-    color: darken($primary-color, 8%);
-    font-weight: 600;
-    text-decoration: underline;
-    text-decoration-thickness: 0.09em;
-    text-underline-offset: 0.16em;
-    text-decoration-color: rgba($primary-color, 0.45);
-    transition: color 0.18s ease, text-decoration-color 0.18s ease, background-size 0.18s ease;
-    background-image: linear-gradient(rgba($primary-color, 0.12), rgba($primary-color, 0.12));
-    background-repeat: no-repeat;
-    background-size: 100% 0.42em;
-    background-position: 0 92%;
+  a[href*="ustc.edu.cn/"],
+  a[href*="leinao.ustc.edu.cn"],
+  a[href*="staff.ustc.edu.cn/~xjchen99"],
+  a[href*="faculty.hfut.edu.cn/wm12/zh_CN/index.htm"],
+  a[href*="happyisac.github.io/PersonHomePage"],
+  a[href*="hfut.edu.cn/"],
+  a[href*="aflab.hfut.edu.cn/sysgk/zzjg.htm"],
+  a[href*="mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA"],
+  a[href*="paddlepaddle.org.cn/support/news?action=detail&id=3262"],
+  a[href*="github.com/XShengTech"],
+  a[href*="docs.megrez.xsheng-ai.com/about/"] {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    color: inherit !important;
+    font-weight: 700 !important;
+    line-height: inherit !important;
+    text-decoration: underline !important;
+    text-decoration-thickness: 0.08em !important;
+    text-underline-offset: 0.16em !important;
+    text-decoration-color: rgba(31, 41, 55, 0.38) !important;
+    border: 0 !important;
+    border-radius: 0 !important;
+    background: transparent !important;
+    box-shadow: none !important;
+    text-shadow: 0 0.035em 0.08em rgba(31, 41, 55, 0.14);
+    transition: color 0.18s ease, text-decoration-color 0.18s ease, text-shadow 0.18s ease !important;
 
     &:hover {
-      color: darken($primary-color, 16%);
-      text-decoration-color: rgba($primary-color, 0.85);
-      background-size: 100% 0.9em;
+      color: inherit !important;
+      text-decoration-color: rgba(31, 41, 55, 0.78) !important;
+      text-shadow: 0 0.045em 0.1em rgba(31, 41, 55, 0.2);
     }
   }
 

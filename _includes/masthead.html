@@ -2,17 +2,17 @@
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       {% assign is_zh = false %}
-      {% if page.url == '/zh/' or page.url == '/zh' or page.url contains '/zh/' %}
+      {% if page.lang == 'zh' %}
         {% assign is_zh = true %}
       {% endif %}
       {% if is_zh %}
         {% assign menu_key = "main_zh" %}
         {% assign home_label = "首页" %}
-        {% assign home_url = "/zh/#about-me" %}
+        {% assign home_url = "/#about-me" %}
       {% else %}
         {% assign menu_key = "main_en" %}
         {% assign home_label = "Homepage" %}
-        {% assign home_url = "/#about-me" %}
+        {% assign home_url = "/en/#about-me" %}
       {% endif %}
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
@@ -23,9 +23,9 @@
           {% endfor %}
           <li class="masthead__menu-item masthead__menu-item--lang">
             <span class="lang-switch">
-              <a class="{% unless is_zh %}is-active{% endunless %}" href="{{ '/#about-me' | relative_url }}">En</a>
+              <a class="{% unless is_zh %}is-active{% endunless %}" href="{{ '/en/#about-me' | relative_url }}">En</a>
               <span class="lang-switch__sep">|</span>
-              <a class="{% if is_zh %}is-active{% endif %}" href="{{ '/zh/#about-me' | relative_url }}">中文</a>
+              <a class="{% if is_zh %}is-active{% endif %}" href="{{ '/#about-me' | relative_url }}">中文</a>
             </span>
           </li>
         </ul>

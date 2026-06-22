@@ -1,33 +1,32 @@
 # main links links
 main_en:
   - title: "About"
-    url: "/#about-me"
+    url: "/en/#about-me"
 
   - title: "News"
-    url: "/#news"
+    url: "/en/#news"
 
   - title: "Publications"
-    url: "/#selected-publications"
+    url: "/en/#selected-publications"
 
   - title: "Honors"
-    url: "/#selected-honors-and-awards"
+    url: "/en/#selected-honors-and-awards"
 
   - title: "Services"
-    url: "/#academic-services"
+    url: "/en/#academic-services"
 
 main_zh:
   - title: "个人简介"
-    url: "/zh/#about-me"
+    url: "/#about-me"
 
   - title: "最新动态"
-    url: "/zh/#news"
+    url: "/#news"
 
   - title: "代表论文"
-    url: "/zh/#selected-publications"
+    url: "/#selected-publications"
 
   - title: "荣誉奖项"
-    url: "/zh/#selected-honors-and-awards"
+    url: "/#selected-honors-and-awards"
 
   - title: "学术服务"
-    url: "/zh/#academic-services"
-
+    url: "/#academic-services"

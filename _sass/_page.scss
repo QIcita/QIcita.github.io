@@ -154,6 +154,36 @@
     }
   }
 
+  p a,
+  li a,
+  dd a,
+  blockquote a {
+    color: darken($primary-color, 8%);
+    font-weight: 600;
+    text-decoration: underline;
+    text-decoration-thickness: 0.09em;
+    text-underline-offset: 0.16em;
+    text-decoration-color: rgba($primary-color, 0.45);
+    transition: color 0.18s ease, text-decoration-color 0.18s ease, background-size 0.18s ease;
+    background-image: linear-gradient(rgba($primary-color, 0.12), rgba($primary-color, 0.12));
+    background-repeat: no-repeat;
+    background-size: 100% 0.42em;
+    background-position: 0 92%;
+
+    &:hover {
+      color: darken($primary-color, 16%);
+      text-decoration-color: rgba($primary-color, 0.85);
+      background-size: 100% 0.9em;
+    }
+  }
+
+  .cv-link-chip,
+  .paper-link-chip,
+  .topic-panel a,
+  .paper-box a {
+    background-image: none;
+  }
+
   dt {
     margin-top: 1em;
     font-family: $sans-serif;

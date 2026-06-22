@@ -1,13 +1,17 @@
 ---
-permalink: /zh/
+permalink: /
 lang: zh
 title: ""
+redirect_from:
+  + /zh/
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前于[中国科学技术大学](https://ustc.edu.cn/)信息科学技术学院计算机技术专业硕博连读，博士期间隶属于[类脑智能技术及应用国家工程实验室](https://leinao.ustc.edu.cn/main.htm)的视觉几何组（USTC-VGG），导师是[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)教授。硕士期间 (2024-2026) 在合肥综合性国家科学中心人工智能研究院[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授团队联合培养，由[黄锦阳](https://happyisac.github.io/PersonHomePage/)副教授指导。我于 2024 年获得了[合肥工业大学](https://www.hfut.edu.cn/)微电子学的学士学位。
+我目前在[中国科学技术大学](https://ustc.edu.cn/)信息科学技术学院攻读计算机技术博士，隶属于[类脑智能技术及应用国家工程实验室](https://leinao.ustc.edu.cn/main.htm)视觉几何组（USTC-VGG），导师是[陈雪锦](http://staff.ustc.edu.cn/~xjchen99/)教授。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院[汪萌（IEEE/IAPR Fellow）](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)教授团队联合培养，并由[黄锦阳](https://happyisac.github.io/PersonHomePage/)副教授指导；2024年本科毕业于[合肥工业大学](https://www.hfut.edu.cn/)微电子学专业。
 
-我的研究兴趣集中于脑启发多模态感知与认知智能，主要围绕鲁棒视觉智能、脑启发与情感认知智能、多模态大模型与具身智能、AI for Science 展开研究。我的长期目标是构建面向真实世界复杂交互场景的高效、可信、泛化和个性化智能系统。
+我的研究聚焦于脑启发多模态感知与认知智能，重点围绕视觉表征、脑启发模型设计与情感/认知/具身智能，以及 AI for Science 展开。长期而言，我希望面向真实世界复杂交互场景，构建兼具高效性、可信性、泛化性与个性化能力的智能系统。目前围绕上述方向，以第一作者发表 CCF A 类及 IEEE/ACM Trans 论文 4 篇。同时我持续参与学术组织建设，现任情感计算与先进智能机器安徽省重点实验室(主任：汪萌教授)[学生工作组组长](https://aflab.hfut.edu.cn/sysgk/zzjg.htm)，曾任安徽省人工智能学会情感计算专委会[学生工作组组长](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA)。
+
+此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得第八届中国国际“互联网+”大学生创新创业大赛[国家级银奖](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82)（产业赛道安徽省唯一）。目前我是 [XSheng Tech](https://github.com/XShengTech) 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 [MEGREZ 平台](https://docs.megrez.xsheng-ai.com/about/)并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -496,4 +500,3 @@ title: ""
 
 
 </div>
-

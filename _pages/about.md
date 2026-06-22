@@ -1,10 +1,11 @@
 ---
-permalink: /
+permalink: /en/
 lang: en
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
+  + /
   + /about/
   + /about.html
 ---
@@ -24,9 +25,11 @@ redirect_from:
 
 -->
 
-I am currently pursuing a Ph.D. in Computer Technology at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), affiliated with the Visual Geometry Group (USTC-VGG) research group at the [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application (NEL-BITA)](https://leinao.ustc.edu.cn/main.htm). My advisor is Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/). During my master's studies (2024-2026), I was jointly trained with Prof. [Meng Wang (IEEE/IAPR Fellow)](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm)'s team at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and supervised by Assoc. Prof. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/). I received my Bachelor's degree in Microelectronics from [Hefei University of Technology](https://www.hfut.edu.cn/) in 2024.
+I am currently pursuing a Ph.D. in Computer Technology at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), where I am a member of the Visual Geometry Group (USTC-VGG) at the [National Engineering Laboratory for Brain-inspired Intelligence Technology and Application (NEL-BITA)](https://leinao.ustc.edu.cn/main.htm), under the supervision of Prof. [Xuejin Chen](http://staff.ustc.edu.cn/~xjchen99/). During my master's studies (2024-2026), I was jointly trained in the group of Prof. [Meng Wang (IEEE/IAPR Fellow)](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and advised by Assoc. Prof. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/). I received my B.Eng. in Microelectronics from [Hefei University of Technology](https://www.hfut.edu.cn/) in 2024.
 
-My research focuses on brain-inspired multimodal perceptual and cognitive intelligence, spanning robust visual intelligence, brain-inspired and affective cognitive intelligence, multimodal foundation models and embodied intelligence, and AI for Science. My long-term goal is to build efficient, trustworthy, generalizable, and personalized intelligent systems for real-world interactive scenarios.
+My research centers on brain-inspired multimodal perception and cognitive intelligence, with a particular focus on visual representation, brain-inspired model design for affective, cognitive, and embodied intelligence, and AI for Science. In the long run, I aim to build intelligent systems that are efficient, trustworthy, generalizable, and personalized for complex real-world interactive scenarios. Along these directions, I have published four first-author papers in CCF-A venues and IEEE/ACM Transactions. I also actively contribute to academic community building, and currently serve as the [Leader of the Student Working Group](https://aflab.hfut.edu.cn/sysgk/zzjg.htm) at the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines. Previously, I served as the [Leader of the Student Working Group](https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA) of the Affective Computing Committee under the Anhui Society for Artificial Intelligence.
+
+Beyond research, I am also interested in translating technology into real-world applications. As project lead, I received a [National Silver Award](https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82) in the 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, as the only industry-track project from Anhui Province to win at the national level. I am also a Co-founder of [XSheng Tech](https://github.com/XShengTech), where we are building high-performance computing and intelligent R&D infrastructure for the era of foundation models. Our team has open-sourced the [MEGREZ platform](https://docs.megrez.xsheng-ai.com/about/) and is already serving more than ten research institutions and commercial companies. I welcome opportunities for trial, collaboration, and broader deployment.
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -607,4 +610,3 @@ OpenI/O2022 活动嘉宾]\| [\[Link1\]](https://2022.openi.org.cn/)\| [\[Link2\]
 
 
 -->
-

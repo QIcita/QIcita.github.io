@@ -25,11 +25,11 @@ redirect_from:
 
 -->
 
-I am currently pursuing a Ph.D. in Computer Technology at the <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, where I am a member of the Visual Geometry Group (USTC-VGG) at the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application (NEL-BITA)</a>, under the supervision of Prof. <a class="intro-link" href="http://staff.ustc.edu.cn/~xjchen99/">Xuejin Chen</a>. During my master's studies (2024-2026), I was jointly trained in the group of Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a> at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
+I am currently pursuing a Ph.D. in Computer Technology at the School of Information Science and Technology of the <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, where I am affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a>. During my master's studies (2024-2026), I was jointly trained in the group of Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a> at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, and advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
 
-My research centers on brain-inspired multimodal perception and cognitive intelligence, with a particular focus on visual representation, brain-inspired model design for affective, cognitive, and embodied intelligence, and AI for Science. In the long run, I aim to build intelligent systems that are efficient, trustworthy, generalizable, and personalized for complex real-world interactive scenarios. Along these directions, I have published 11 papers, including publications in a PNAS journal, CCF-A venues, and IEEE/ACM Transactions, with 4 first-author papers. I also actively contribute to academic community building, and currently serve as the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Leader of the Student Working Group</a> at the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines. Previously, I served as the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Leader of the Student Working Group</a> of the Affective Computing Committee under the Anhui Society for Artificial Intelligence.
+My research focuses on brain-inspired multimodal perception and cognitive intelligence, with particular emphasis on visual representation, brain-inspired model design for affective, cognitive, and embodied intelligence, and AI for Science. In the long run, I aim to build intelligent systems that are efficient, trustworthy, generalizable, and personalized for complex real-world interactive scenarios. Along these directions, I have published 11 papers in PNAS, CCF-A venues, and IEEE/ACM Transactions, including 5 first-author or co-first-author papers. I also actively contribute to academic community building, and have served as the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Student Working Group Leader</a> of the Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines (director: Prof. Meng Wang) and previously as the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Student Working Group Leader</a> of the Affective Computing Committee under the Anhui Society for Artificial Intelligence.
 
-Beyond research, I am also interested in translating technology into real-world applications. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> in the 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, as the only industry-track project from Anhui Province to win at the national level. I am also a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we are building high-performance computing and intelligent R&D infrastructure for the era of foundation models. Our team has open-sourced the <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> and is already serving more than ten research institutions and commercial companies. I welcome opportunities for trial, collaboration, and broader deployment.
+Beyond research, I am also interested in translating technology into real-world applications. As project lead, I received the <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> in the 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, the only project from Anhui Province in the industry track to reach the national final, and also won the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am also a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we are building high-performance computing and intelligent R&D infrastructure for the era of foundation models. Our team has open-sourced the <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> and is already serving more than ten research institutions and commercial companies. I welcome opportunities for trial, collaboration, and broader deployment.
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -140,19 +140,22 @@ Beyond research, I am also interested in translating technology into real-world 
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
-- 2026.05: 🎉🎉 One paper about Video-based Personality Assessment is accepted to _**IEEE T-AFFC (CCF Rank B)**_！Thanks to Prof. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Dan Guo]([https://zjzac.github.io/](https://faculty.hfut.edu.cn/gd/zh_CN/index.htm)) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2026.05: 🎉🎉 One paper about Video-Based Affective Computing is accepted to _**IEEE T-CE**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
-- 2026.04: 🎉🎉 One collaborative paper about Embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 One collaborative paper about EEG Auditory Attention Decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 One collaborative paper about Remote Sensing Scene Classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
-- 2026.03: 🎉🎉 One collaborative paper about Low-Light Image Super-Resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
-- 2026.02: 🎉🎉 One paper about Handwritten Identity Verification is accepted to _**IEEE T-DSC (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Li](https://faculty.hfut.edu.cn/limeng/zh_CN/index.htm) for their guidance!
-- 2026.01: 🎉🎉 One collaborative paper about 3D Object Detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
-- 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-
-- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
+- 2026.07: 🎉🎉 Two collaborative papers on digital human driving and affective dialogue generation are accepted to _**ACM MM 2026 (CCF Rank A)**_!
+- 2026.07: 🎉🎉 One paper on robust dynamic facial expression analysis is accepted to _**IEEE T-IFS (CCF Rank A)**_!
+- 2026.06: 🎉🎉 One collaborative paper on EEG-based affective analysis is accepted to _**ACM T-AAS (CCF Rank B)**_!
+- 2026.06: 🎉🎉 One collaborative paper on fine-grained behavior analysis is accepted to _**IEEE SMC (CAA Rank A, CCF Rank C)**_!
+- 2026.05: 🎉🎉 One paper on fine-grained personality assessment is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+- 2026.05: 🎉🎉 One paper on visual affective computing is accepted to _**IEEE T-CE**_!
+- 2026.04: 🎉🎉 One collaborative paper on embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
+- 2026.04: 🎉🎉 One collaborative paper on EEG auditory attention decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
+- 2026.04: 🎉🎉 One collaborative paper on remote sensing scene classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
+- 2026.03: 🎉🎉 One collaborative paper on low-light image super-resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
+- 2026.02: 🎉🎉 One paper on handwritten identity verification is accepted to _**IEEE T-DSC (CCF Rank A)**_!
+- 2026.01: 🎉🎉 One collaborative paper on 3D object detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
+- 2025.12: 🎉🎉 Received the _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition!
+- 2025.09: 🎉🎉 One collaborative paper on depression estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+- 2025.07: 🎉🎉 One paper on distributionally robust optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_!
+- 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Press Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_!
 
 </div>
 
@@ -169,6 +172,7 @@ Beyond research, I am also interested in translating technology into real-world 
 
 
 
+{% comment %}
 # Selected Publications
 - ## Published:
 
@@ -192,7 +196,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 
 <div class='research-topics'>
 
-<!-- Theme 1: Robust Visual Intelligence -->
 <details class='topic-section topic-accordion'>
   <summary>
     <div class='topic-summary-copy'>
@@ -306,7 +309,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   </div>
 </details>
 
-<!-- Theme 2: Brain-inspired and Affective Cognitive Intelligence -->
 <details class='topic-section topic-accordion'>
   <summary>
     <div class='topic-summary-copy'>
@@ -422,7 +424,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   </div>
 </details>
 
-<!-- Theme 3: Multimodal and Embodied Intelligence -->
 <details class='topic-section topic-accordion'>
   <summary>
     <div class='topic-summary-copy'>
@@ -494,7 +495,6 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
   </div>
 </details>
 
-<!-- Theme 4: AI for Science -->
 <details class='topic-section topic-accordion'>
   <summary>
     <div class='topic-summary-copy'>
@@ -539,6 +539,7 @@ _Yang Liu, Liping Chen, Xiaobo Wu, António M Lopes, **Feng-Qi Cui**, YangQuan C
 </details>
 
 </div>
+{% endcomment %}
 
 <!--
 

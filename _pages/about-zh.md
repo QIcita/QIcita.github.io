@@ -7,11 +7,11 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前在<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院攻读计算机技术博士，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>视觉几何组（USTC-VGG），导师是<a class="intro-link" href="http://staff.ustc.edu.cn/~xjchen99/">陈雪锦</a>教授。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前在<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院攻读计算机技术博士，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
-我的研究聚焦于脑启发多模态感知与认知智能，重点围绕视觉表征、脑启发模型设计与情感/认知/具身智能，以及 AI for Science 展开。长期而言，我希望面向真实世界复杂交互场景，构建兼具高效性、可信性、泛化性与个性化能力的智能系统。目前围绕上述方向，发表PNAS子刊、CCF A 类及 IEEE/ACM Trans 论文 11 篇（其中一作4篇）。同时我持续参与学术组织建设，现任情感计算与先进智能机器安徽省重点实验室(主任：汪萌教授)<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">学生工作组组长</a>，曾任安徽省人工智能学会情感计算专委会<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">学生工作组组长</a>。
+我的研究聚兴趣是脑启发的多模态感知与认知智能，重点围绕视觉表征、脑启发模型设计与情感/认知/具身智能，以及 AI4Science 展开。长期而言，我希望面向真实世界复杂交互场景，构建兼具高效性、可信性、泛化性与个性化能力的智能系统。目前围绕上述方向，发表PNAS子刊、CCF A 类及 IEEE/ACM Trans 论文 11 篇（其中一作/共一5篇）。同时我持续参与学术组织建设，先后作为情感计算与先进智能机器安徽省重点实验室(主任：汪萌教授)<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">学生工作组组长</a>、安徽省人工智能学会情感计算专委会<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">学生工作组组长</a>。
 
-此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得第八届中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
+此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得第八届中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、获得IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -118,8 +118,11 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # 最新动态
 <div class='news-window' markdown='1'>
-
-- 2026.05: 🎉🎉 一篇关于视觉细粒度人格评估的论文被接收至 _**IEEE T-AFFC (CCF Rank B)**_！
+- 2026.07: 🎉🎉 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF Rank A)**_！
+- 2026.07: 🎉🎉 一篇关于鲁棒动态表情分析的论文被接收至 _**IEEE T-IFS (CCF Rank A)**_！
+- 2026.06: 🎉🎉 一篇关于EEG情感分析的合作论文被接收至 _**ACM T-AAS (CCF Rank B)**_！
+- 2026.06: 🎉🎉 一篇关于细粒度行为分析的合作论文被接收至 _**IEEE SMC (CAA Rank A, CCF Rank C)**_！
+- 2026.05: 🎉🎉 一篇关于视觉细粒度人格评估的论文被接收至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_！
 - 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！
 - 2026.04: 🎉🎉 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF Rank B)**_!
 - 2026.04: 🎉🎉 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF Rank B)**_!
@@ -134,12 +137,11 @@ redirect_from:
 
 </div>
 
+{% comment %}
 <span class='anchor' id='selected-publications'></span>
 # 代表论文
 
 <div class='research-topics'>
-
-<!-- Theme 1: 鲁棒视觉智能 -->
 
 <details class='topic-section topic-accordion'>
   <summary>
@@ -252,12 +254,10 @@ redirect_from:
 
     </div>
 
-</div>
+  </div>
 </details>
 
 
-
-<!-- Theme 2: 脑启发与情感认知智能 -->
 
 <details class='topic-section topic-accordion'>
   <summary>
@@ -371,12 +371,10 @@ redirect_from:
 
     </div>
 
-</div>
+  </div>
 </details>
 
 
-
-<!-- Theme 3: 多模态与具身智能 -->
 
 <details class='topic-section topic-accordion'>
   <summary>
@@ -447,12 +445,10 @@ redirect_from:
 
     </div>
 
-</div>
+  </div>
 </details>
 
 
-
-<!-- Theme 4: AI for Science -->
 
 <details class='topic-section topic-accordion'>
   <summary>
@@ -495,8 +491,9 @@ redirect_from:
 
     </div>
 
-</div>
+  </div>
 </details>
 
 
 </div>
+{% endcomment %}

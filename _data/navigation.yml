@@ -6,9 +6,6 @@ main_en:
   - title: "News"
     url: "/en/#news"
 
-  - title: "Publications"
-    url: "/en/#selected-publications"
-
   - title: "Honors"
     url: "/en/#selected-honors-and-awards"
 
@@ -21,9 +18,6 @@ main_zh:
 
   - title: "最新动态"
     url: "/#news"
-
-  - title: "代表论文"
-    url: "/#selected-publications"
 
   - title: "荣誉奖项"
     url: "/#selected-honors-and-awards"

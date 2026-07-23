@@ -2,7 +2,7 @@
 {% if site.url %}
   {% assign seo_url = site.url %}
 {% endif %}
-{% assign seo_url = seo_url | default: site.github.url %}
+{% assign seo_url = seo_url | default: site.url %}
 
 {% if site.url %}
   {% assign canonical_url = page.url | replace: "index.html", "" | prepend: site.url %}

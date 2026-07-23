@@ -7,7 +7,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前在<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院攻读计算机技术博士，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前在<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院攻读电子信息专业博士，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
 我的研究聚兴趣是脑启发的多模态感知与认知智能，重点围绕视觉表征、脑启发模型设计与情感/认知/具身智能，以及 AI4Science 展开。长期而言，我希望面向真实世界复杂交互场景，构建兼具高效性、可信性、泛化性与个性化能力的智能系统。目前围绕上述方向，发表PNAS子刊、CCF A 类及 IEEE/ACM Trans 论文 11 篇（其中一作/共一5篇）。同时我持续参与学术组织建设，先后作为情感计算与先进智能机器安徽省重点实验室(主任：汪萌教授)<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">学生工作组组长</a>、安徽省人工智能学会情感计算专委会<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">学生工作组组长</a>。
 
@@ -101,6 +101,10 @@ redirect_from:
           （排序 1/15；安徽省产业赛道唯一入围全国现场赛项目）
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">报道 1</a>
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">报道 2</a>
+        </li>
+        <li>
+          Codabench MER 2026: MER-PS 竞赛，<strong>第一名</strong>（排序 1，负责人）
+          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">结果页</a>
         </li>
         <li>
           审稿人：IEEE TAFFC、IEEE TMM、IEEE TCSVT、IEEE OJCS、IEEE IoTJ

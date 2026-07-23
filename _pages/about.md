@@ -104,6 +104,10 @@ Beyond research, I am also interested in translating technology into real-world 
       <div class='cv-scroll-window'>
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
+          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1, team lead)
+          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">Results</a>
+        </li>
+        <li>
           IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong>
           <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">Certificate</a>
         </li>
@@ -119,10 +123,6 @@ Beyond research, I am also interested in translating technology into real-world 
           (ranked 1/15; the only Anhui industry-track project entering the national on-site final)
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">Report 1</a>
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">Report 2</a>
-        </li>
-        <li>
-          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1, team lead)
-          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">Results</a>
         </li>
         <li>
           Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ
@@ -144,6 +144,7 @@ Beyond research, I am also interested in translating technology into real-world 
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
+- 2026.07: 🎉🎉 As team lead, I won **[1st Place in ACM MM MER Challenge 26 Physiological Signal Emotion Track](https://www.codabench.org/competitions/15992/#/results-tab)**!
 - 2026.07: 🎉🎉 Two collaborative papers on digital human driving and affective dialogue generation are accepted to _**ACM MM 2026 (CCF Rank A)**_!
 - 2026.07: 🎉🎉 One paper on robust dynamic facial expression analysis is accepted to _**IEEE T-IFS (CCF Rank A)**_!
 - 2026.06: 🎉🎉 One collaborative paper on EEG-based affective analysis is accepted to _**ACM T-AAS (CCF Rank B)**_!

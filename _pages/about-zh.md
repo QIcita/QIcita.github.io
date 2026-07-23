@@ -86,6 +86,10 @@ redirect_from:
       <div class='cv-scroll-window'>
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
+          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track 第一名</strong>（排序 1，负责人）
+          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">结果页</a>
+        </li>
+        <li>
           IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>
           <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
         </li>
@@ -103,10 +107,6 @@ redirect_from:
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">报道 2</a>
         </li>
         <li>
-          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track 第一名</strong>（排序 1，负责人）
-          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">结果页</a>
-        </li>
-        <li>
           审稿人：IEEE TAFFC、IEEE TMM、IEEE TCSVT、IEEE OJCS、IEEE IoTJ
         </li>
         <li>
@@ -122,6 +122,7 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # 最新动态
 <div class='news-window' markdown='1'>
+- 2026.07: 🎉🎉 作为负责人带队获得 **[ACM MM MER Challenge 26 Physiological Signal Emotion Track 第一名](https://www.codabench.org/competitions/15992/#/results-tab)**！
 - 2026.07: 🎉🎉 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF Rank A)**_！
 - 2026.07: 🎉🎉 一篇关于鲁棒动态表情分析的论文被接收至 _**IEEE T-IFS (CCF Rank A)**_！
 - 2026.06: 🎉🎉 一篇关于EEG情感分析的合作论文被接收至 _**ACM T-AAS (CCF Rank B)**_！

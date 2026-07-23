@@ -121,7 +121,7 @@ Beyond research, I am also interested in translating technology into real-world 
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">Report 2</a>
         </li>
         <li>
-          Codabench MER 2026: MER-PS, <strong>1st Place</strong> (ranked 1, team lead)
+          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1, team lead)
           <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">Results</a>
         </li>
         <li>

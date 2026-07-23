@@ -103,7 +103,7 @@ redirect_from:
           <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">报道 2</a>
         </li>
         <li>
-          Codabench MER 2026: MER-PS 竞赛，<strong>第一名</strong>（排序 1，负责人）
+          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track 第一名</strong>（排序 1，负责人）
           <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">结果页</a>
         </li>
         <li>

@@ -7,9 +7,9 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院电子信息专业硕博连读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。硕士阶段（2024-2026）在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院电子信息专业硕博连读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
-我的研究聚兴趣是脑启发的多模态感知与认知智能，重点围绕视觉表征、脑启发模型设计与情感/认知/具身智能，以及 AI4Science 展开。长期而言，我希望面向真实世界复杂交互场景，构建兼具高效性、可信性、泛化性与个性化能力的智能系统。目前围绕上述方向，发表PNAS子刊、CCF A 类及 IEEE/ACM Trans 论文 11 篇（其中一作/共一5篇）。同时我持续参与学术组织建设，先后作为情感计算与先进智能机器安徽省重点实验室(主任：汪萌教授)<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">学生工作组组长</a>、安徽省人工智能学会情感计算专委会<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">学生工作组组长</a>。
+我的研究聚兴趣是 NeuroAI，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。目前围绕上述方向，发表 Nature 子刊、PNAS 子刊、CCF A 类会议、 IEEE/ACM Trans 期刊论文共 11 篇（其中一作/共一7篇）。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
 
 此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得第八届中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM MER Challenge 26 Physiological Signal Emotion Track 第一名、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
@@ -59,7 +59,18 @@ redirect_from:
             </div>
           </div>
         </div>
-
+        <div class='cv-item'>
+          <div class='cv-logo'>
+            <img src='{{ "/images/logos/iai-footer-logo.png" | relative_url }}' alt='IAI logo'>
+          </div>
+          <div class='cv-main'>
+            <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
+            <div class='cv-meta-row'>
+              <div class='cv-subtitle'>科研实习生</div>
+              <div class='cv-time'>2022.12 - 2024.06</div>
+            </div>
+          </div>
+        </div>
         <div class='cv-item'>
           <div class='cv-logo'>
             <img src='{{ "/images/logos/hfut.svg" | relative_url }}' alt='HFUT logo'>
@@ -122,7 +133,10 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # 最新动态
 <div class='news-window' markdown='1'>
-- 2026.07: 🎉🎉 团队在**2026 ACM MM Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track** 获得**第一名**！
+- 2026.08: 🎉🎉 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF Rank A)**_！
+- 2026.07: 🎉🎉 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
+- 2026.07: 🎉🎉 一篇关于EEG-fNIRS时序情感分析的论文被接收至 _**ACM MM (CCF Rank A)**_！
+- 2026.07: 🎉🎉 团队在**2026 ACM MM (CCF Rank A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track** 获得**第一名**！
 - 2026.07: 🎉🎉 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF Rank A)**_！
 - 2026.07: 🎉🎉 一篇关于鲁棒动态表情分析的论文被接收至 _**IEEE T-IFS (CCF Rank A)**_！
 - 2026.06: 🎉🎉 一篇关于EEG情感分析的合作论文被接收至 _**ACM T-AAS (CCF Rank B)**_！

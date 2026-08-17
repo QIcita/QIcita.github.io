@@ -557,6 +557,103 @@
     .cv-section--education .cv-meta-row {
         margin-top: 0;
     }
+
+    .cv-section--education-en .cv-list {
+        display: flex;
+        flex-direction: column;
+        gap: 0.72rem;
+        height: auto;
+    }
+
+    .cv-section--education-en .cv-item {
+        align-items: flex-start;
+        padding: 0.72rem 0.88rem;
+        border: 1px solid rgba(15, 23, 42, 0.07);
+        border-radius: 16px;
+        background: linear-gradient(180deg, #ffffff 0%, #f8fafc 100%);
+        box-shadow: 0 4px 14px rgba(15, 23, 42, 0.045);
+    }
+
+    .cv-section--education-en .cv-item:last-child {
+        padding-bottom: 0.72rem;
+    }
+
+    .cv-section--education-en .cv-card {
+        height: auto;
+        padding: 1rem 1.15rem 1.15rem;
+    }
+
+    .cv-section--education-en .cv-scroll-window {
+        height: auto;
+        max-height: none;
+        overflow: visible;
+        padding: 0;
+    }
+
+    .cv-section--education-en .cv-title {
+        max-width: none;
+        font-size: 1rem;
+        line-height: 1.28;
+        letter-spacing: -0.02em;
+    }
+
+    .cv-section--education-en .cv-meta-row {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) auto;
+        align-items: center;
+        gap: 0.75rem;
+        margin-top: 0.34rem;
+    }
+
+    .cv-section--education-en .cv-subtitle {
+        font-size: 0.93rem;
+        line-height: 1.35;
+    }
+
+    .cv-section--education-en .cv-time {
+        padding: 0.16rem 0.48rem;
+        border-radius: 999px;
+        background: rgba(15, 23, 42, 0.055);
+        font-size: 0.78rem;
+        line-height: 1.35;
+        color: #374151;
+    }
+
+    .cv-section--education-en .cv-logo {
+        width: 38px;
+        height: 38px;
+        flex-basis: 38px;
+    }
+
+    .cv-section--honors-en .cv-card {
+        overflow: hidden;
+    }
+
+    .cv-section--honors-en .cv-scroll-window {
+        height: 100%;
+        max-height: none;
+        overflow-y: auto;
+        padding-bottom: 0.2rem;
+    }
+
+    .cv-section--honors-en .cv-compact-list--clean li {
+        margin-bottom: 0.42rem;
+        padding: 0.46rem 0.58rem;
+        line-height: 1.48;
+    }
+}
+
+@media (min-width: 1421px) {
+    .cv-section--honors-en .cv-card {
+        box-sizing: border-box;
+    }
+
+    .cv-section--honors-en .cv-scroll-window {
+        height: 100%;
+        max-height: none;
+        min-height: 0;
+        overflow-y: auto;
+    }
 }
 
 @media (max-width: 1420px) {

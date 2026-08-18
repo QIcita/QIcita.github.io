@@ -66,7 +66,7 @@ redirect_from:
           <div class='cv-main'>
             <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>科研实习生</div>
+              <div class='cv-subtitle'>Research Intern</div>
               <div class='cv-time'>2022.12 - 2024.06</div>
             </div>
           </div>
@@ -98,7 +98,7 @@ redirect_from:
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
           ACM MM MER Challenge 26 Physiological Signal Emotion Track <strong>第一名</strong>（排序 1）
-          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">结果页</a>
+
         </li>
         <li>
           IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>

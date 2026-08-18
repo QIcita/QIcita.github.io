@@ -118,7 +118,7 @@ I am also interested in technology translation. As project lead, I received a <a
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
           ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1, team lead)
-          <a class="cv-link-chip" href="https://www.codabench.org/competitions/15992/#/results-tab" target="_blank">Results</a>
+
         </li>
         <li>
           IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong>

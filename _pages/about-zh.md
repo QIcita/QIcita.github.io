@@ -7,7 +7,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院电子信息专业硕博连读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院电子信息专业硕博连读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
 我的研究聚兴趣是 NeuroAI，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。目前围绕上述方向，发表 Nature 子刊、PNAS 子刊、CCF A 类会议、 IEEE/ACM Trans 期刊论文共 8 篇。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
 

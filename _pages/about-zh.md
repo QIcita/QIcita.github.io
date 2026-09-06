@@ -219,6 +219,7 @@ redirect_from:
 <ul class='talk-list'>
   <li><span class='talk-source'>[中国新闻网]</span> <a class='talk-link' href='https://www.chinanews.com.cn/gn/2026/04-22/10608612.shtml' target='_blank' rel='noopener'>让科技成果“落地生金” 中国科大先研院何以激活科创“一池春水”？</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/s-a1RvO5Kq851n1bTaZpcA' target='_blank' rel='noopener'>青春领航 | 学院团队荣获 2025 年度“中国大学生自强之星科创团体”</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[中国科学技术大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/awpduD104qSeFp0tNBYavw' target='_blank' rel='noopener'>【科大新闻】中国科大“科创试点班”进一步扩容提质</a> <span class='talk-year'>2025</span></li>
   <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/rqu8FIMpsRG8L3rA2zoQng' target='_blank' rel='noopener'>芯青年成长手册 | 从竞赛国奖到创业实践，科创达人是如何养成的？</a> <span class='talk-year'>2024</span></li>
   <li><span class='talk-source'>[新一代人工智能产业技术创新战略联盟]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA' target='_blank' rel='noopener'>碰撞高校智慧，凝聚青春力量 | 因“AI”而“深”高校开源专场顺利举办！</a> <span class='talk-year'>2023</span></li>
   <li><span class='talk-source'>[百度飞桨]</span> <a class='talk-link' href='https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262' target='_blank' rel='noopener'>飞桨助力普适心理计算团队斩获“互联网+”大赛全国银奖</a> <span class='talk-year'>2023</span></li>

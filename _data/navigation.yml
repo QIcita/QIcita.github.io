@@ -19,20 +19,20 @@ main_en:
     url: "/en/#talk"
 
 main_zh:
-  - title: "个人简介"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "最新动态"
-    url: "/#news"
+  - title: "Education & Work"
+    url: "/#education-work-experience"
 
-  - title: "代表论文"
-    url: "/#selected-papers"
-
-  - title: "荣誉奖项"
+  - title: "Honors & Services"
     url: "/#selected-honors-and-awards"
 
-  - title: "学术服务"
-    url: "/#academic-services"
+  - title: "News"
+    url: "/#news"
 
-  - title: "Talk"
+  - title: "Selected Papers"
+    url: "/#selected-papers"
+
+  - title: "Talks & Media"
     url: "/#talk"

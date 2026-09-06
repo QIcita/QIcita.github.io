@@ -117,7 +117,7 @@ I am also interested in technology translation. As project lead, I received a <a
       <div class='cv-scroll-window'>
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
-          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1, team lead)
+          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1)
 
         </li>
         <li>
@@ -177,10 +177,6 @@ I am also interested in technology translation. As project lead, I received a <a
   })();
 </script>
 
-
-
-
-
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
@@ -206,6 +202,73 @@ I am also interested in technology translation. As project lead, I received a <a
 - 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Press Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_!
 
 </div>
+
+<span class='anchor' id='selected-papers'></span>
+# Selected Papers
+
+<div class='selected-papers'>
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>AI for Science</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, and Chongwu Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[PNAS Nexus '25]</span> Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, and Liyan Song, &ldquo;Natural-selected plastics biodegradation species and enzymes in landfills,&rdquo; <em>PNAS Nexus</em>, 2025.</li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>Visual Representation Learning</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[ACM MM '25]</span> <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, and Meng Wang, &ldquo;Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization,&rdquo; <em>ACM International Conference on Multimedia</em>, 2025. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TIFS '26]</span> <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, and Meng Wang, &ldquo;Toward Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling,&rdquo; <em>IEEE Transactions on Information Forensics and Security</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> Sirui Zhao, Yubo Huang, Xinchen Yao, Zhengye Zhang, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Shiwei Wu, and Enhong Chen, &ldquo;DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ICME '26]</span> Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui<sup>*</sup> (Corresponding Author)</strong>, Jinyang Huang<sup>*</sup>, Yang Liu, Sirui Zhao, Meng Li, and Zhi Liu, &ldquo;Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution,&rdquo; <em>IEEE International Conference on Multimedia and Expo</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ICASSP '26]</span> Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, and Dan Guo, &ldquo;UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing</em>, 2026. <strong>CCF B</strong></li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>Multimodal Affective Understanding</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[TAFFC '26]</span> <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, and Meng Wang, &ldquo;PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions,&rdquo; <em>IEEE Transactions on Affective Computing</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> Sirui Zhao, Yu Bai, Jinyang Huang, Fangyuan Liu, <strong>Feng-Qi Cui</strong>, Xinqi Chen, Guo Cheng, Tong Xu, and Enhong Chen, &ldquo;MEC<sup>2</sup>-TT: Multimodal Emotion Consistency Correction and Trajectory Tracking for Empathetic Dialogue Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TAAS '26]</span> Xinhui Li, Hao Chen, Minchao Wu, Qingwei Song, Fan Li, Jinyang Huang, <strong>Feng-Qi Cui</strong>, and Zhao Lv, &ldquo;MS<sup>2</sup>FL: Modality-shared and Modality-specific Feature Learning for Multimodal Emotion Recognition,&rdquo; <em>ACM Transactions on Autonomous and Adaptive Systems</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, and Bing-kun Bao, &ldquo;SAIN: A Hierarchical Dynamics-Aware EEG-fNIRS Framework for Continuous Affect Estimation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>Embodied Intelligent Perception and Interaction</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[TDSC '26]</span> Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal Contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, and Meng Li, &ldquo;Identifying who you are no matter what you write through abstracting handwriting style,&rdquo; <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[IMWUT '26]</span> Meng Wang, Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui</strong>, Meng Li, Xiaokang Zhou, and Fusang Zhang, &ldquo;Sensing Without Borders: A Sensing-Centric Handover Scheme for Continuous WiFi Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[IJCAI '26]</span> Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, and Wenjing Chen, &ldquo;PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space,&rdquo; <em>International Joint Conference on Artificial Intelligence</em>, 2026. <strong>CCF B</strong></li>
+    </ul>
+  </section>
+</div>
+
+<span class='anchor' id='talk'></span>
+# Talks & Media
+
+<ul class='talk-list'>
+  <li><span class='talk-source'>[China News Service]</span> <a class='talk-link' href='https://www.chinanews.com.cn/gn/2026/04-22/10608612.shtml' target='_blank' rel='noopener'>Turning Research into Real-World Value: How USTC's Institute of Advanced Technology Activates Innovation</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[Hefei University of Technology]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/s-a1RvO5Kq851n1bTaZpcA' target='_blank' rel='noopener'>Youth at the Helm: College Team Receives the 2025 China Collegiate Self-Improvement Star Innovation Group Award</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[Hefei University of Technology]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/rqu8FIMpsRG8L3rA2zoQng' target='_blank' rel='noopener'>Young Innovators' Growth Handbook: From National Competition Awards to Entrepreneurial Practice</a> <span class='talk-year'>2024</span></li>
+  <li><span class='talk-source'>[Next Generation AI Industry Technology Innovation Strategic Alliance]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA' target='_blank' rel='noopener'>Connecting University Insight and Youth Innovation: AI-Themed University Open-Source Forum Successfully Held</a> <span class='talk-year'>2023</span></li>
+  <li><span class='talk-source'>[Baidu PaddlePaddle]</span> <a class='talk-link' href='https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262' target='_blank' rel='noopener'>PaddlePaddle Helps the Pervasive Psychological Computing Team Win National Silver at the "Internet+" Competition</a> <span class='talk-year'>2023</span></li>
+  <li><span class='talk-source'>[OpenI Qizhi Community]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/LN_zMlv8XAru-Osh8RgXjw' target='_blank' rel='noopener'>AI Brings Us Together: Fourth OpenI/O Qizhi Developer Conference University Open-Source Forum Opens on the 25th</a> <span class='talk-year'>2023</span></li>
+</ul>
+
+
+
+
 
 <!--
 

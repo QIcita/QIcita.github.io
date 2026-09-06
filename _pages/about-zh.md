@@ -16,7 +16,7 @@ redirect_from:
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
     <span class='anchor' id='education-work-experience'></span>
-    <h1 class='cv-heading'>教育与工作经历</h1>
+    <h1 class='cv-heading'>Education & Work</h1>
 
     <div class='cv-card'>
       <div class='cv-scroll-window'>
@@ -91,7 +91,7 @@ redirect_from:
   <section class='cv-section cv-section--honors'>
     <span class='anchor' id='selected-honors-and-awards'></span>
     <span class='anchor' id='academic-services'></span>
-    <h1 class='cv-heading'>荣誉与服务</h1>
+    <h1 class='cv-heading'>Honors & Services</h1>
 
     <div class='cv-card'>
       <div class='cv-scroll-window'>
@@ -105,7 +105,7 @@ redirect_from:
           <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
         </li>
         <li>
-          合肥工业大学“<strong>十佳大学生</strong>”（全校仅 10 人）
+          合肥工业大学“<strong>十佳大学生</strong>”（全校 10 人）
         </li>
         <li>
           CCF 首届泛在智能感知技术创新应用大赛，<strong>二等奖</strong>（排序 2/5）
@@ -131,7 +131,7 @@ redirect_from:
 </div>
 
 <span class='anchor' id='news'></span>
-# 最新动态
+# News
 <div class='news-window' markdown='1'>
 - 2026.08: 🎉🎉 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF Rank A)**_！
 - 2026.07: 🎉🎉 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
@@ -155,6 +155,75 @@ redirect_from:
 - 2025.02: 🎉🎉 一篇合作论文被接收至 _**PNAS Nexus [(媒体关注)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_
 
 </div>
+
+<span class='anchor' id='selected-papers'></span>
+# Selected Papers
+
+<div class='selected-papers'>
+
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>AI for Science</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, and Chongwu Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[PNAS Nexus '25]</span> Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, and Liyan Song, &ldquo;Natural-selected plastics biodegradation species and enzymes in landfills,&rdquo; <em>PNAS Nexus</em>, 2025.</li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>视觉表征学习</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[ACM MM '25]</span> <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, and Meng Wang, &ldquo;Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization,&rdquo; <em>ACM International Conference on Multimedia</em>, 2025. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TIFS '26]</span> <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, and Meng Wang, &ldquo;Toward Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling,&rdquo; <em>IEEE Transactions on Information Forensics and Security</em>, 2026.<strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> Sirui Zhao, Yubo Huang, Xinchen Yao, Zhengye Zhang, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Shiwei Wu, Enhong Chen, &ldquo;DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ICME '26]</span> Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui<sup>*</sup>(Corresponding author)</strong>, Jinyang Huang<sup>*</sup>, Yang Liu, Sirui Zhao, Meng Li, and Zhi Liu, &ldquo;Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution,&rdquo; <em>IEEE International Conference on Multimedia and Expo</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ICASSP '26]</span> Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, and Dan Guo, &ldquo;UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing</em>, 2026. <strong>CCF B</strong></li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>多模态情感理解</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[TAFFC '26]</span> <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, and Meng Wang, &ldquo;PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions,&rdquo; <em>IEEE Transactions on Affective Computing</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> Sirui Zhao, Yu Bai, Jinyang Huang, Fangyuan Liu, <strong>Feng-Qi Cui</strong>, Xinqi Chen, Guo Cheng, Tong Xu, and Enhong Chen, &ldquo;MEC<sup>2</sup>-TT: Multimodal Emotion Consistency Correction and Trajectory Tracking for Empathetic Dialogue Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TAAS '26]</span> Xinhui Li, Hao Chen, Minchao Wu, Qingwei Song, Fan Li, Jinyang Huang, <strong>Feng-Qi Cui</strong>, and Zhao Lv, &ldquo;MS<sup>2</sup>FL: Modality-shared and Modality-specific Feature Learning for Multimodal Emotion Recognition,&rdquo; <em>ACM Transactions on Autonomous and Adaptive Systems</em>, 2026. <strong>CCF B</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, and Bing-kun Bao, &ldquo;SAIN: A Hierarchical Dynamics-Aware EEG-fNIRS Framework for Continuous Affect Estimation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+    </ul>
+  </section>
+
+  <section class='selected-paper-group'>
+    <div class='selected-paper-group-heading'>
+      <h2>具身智能感知与交互</h2>
+    </div>
+    <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[TDSC '26]</span> Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, and Meng Li, &ldquo;Identifying who you are no matter what you write through abstracting handwriting style,&rdquo; <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[IMWUT '26]</span> Meng Wang, Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui</strong>, Meng Li, Xiaokang Zhou, and Fusang Zhang, &ldquo;Sensing Without Borders: A Sensing-Centric Handover Scheme for Continuous WiFi Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[IJCAI '26]</span> Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, and Wenjing Chen, &ldquo;PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space,&rdquo; <em>International Joint Conference on Artificial Intelligence</em>, 2026. <strong>CCF B</strong></li>
+    </ul>
+  </section>
+
+<!--
+  <p class='selected-papers-note'><sup>*</sup> 共同一作。</p> -->
+</div>
+
+<span class='anchor' id='talk'></span>
+# Talks & Media
+
+
+<ul class='talk-list'>
+  <li><span class='talk-source'>[中国新闻网]</span> <a class='talk-link' href='https://www.chinanews.com.cn/gn/2026/04-22/10608612.shtml' target='_blank' rel='noopener'>让科技成果“落地生金” 中国科大先研院何以激活科创“一池春水”？</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/s-a1RvO5Kq851n1bTaZpcA' target='_blank' rel='noopener'>青春领航 | 学院团队荣获 2025 年度“中国大学生自强之星科创团体”</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/rqu8FIMpsRG8L3rA2zoQng' target='_blank' rel='noopener'>芯青年成长手册 | 从竞赛国奖到创业实践，科创达人是如何养成的？</a> <span class='talk-year'>2024</span></li>
+  <li><span class='talk-source'>[新一代人工智能产业技术创新战略联盟]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/g7Rehw5FX03sbVmFch_PgA' target='_blank' rel='noopener'>碰撞高校智慧，凝聚青春力量 | 因“AI”而“深”高校开源专场顺利举办！</a> <span class='talk-year'>2023</span></li>
+  <li><span class='talk-source'>[百度飞桨]</span> <a class='talk-link' href='https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262' target='_blank' rel='noopener'>飞桨助力普适心理计算团队斩获“互联网+”大赛全国银奖</a> <span class='talk-year'>2023</span></li>
+  <li><span class='talk-source'>[OpenI启智社区]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/LN_zMlv8XAru-Osh8RgXjw' target='_blank' rel='noopener'>因“AI”而“深” 第四届OpenI/O 启智开发者大会高校开源专场25日开启！</a> <span class='talk-year'>2023</span></li>
+</ul>
 
 {% comment %}
 <span class='anchor' id='selected-publications'></span>

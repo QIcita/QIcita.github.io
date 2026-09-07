@@ -174,7 +174,7 @@ redirect_from:
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>视觉表征学习</h2>
+      <h2>Visual Representation Learning</h2>
     </div>
     <ul class='selected-paper-list'>
       <li><span class='selected-paper-venue'>[ACM MM '25]</span> <strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, and Meng Wang, &ldquo;Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization,&rdquo; <em>ACM International Conference on Multimedia</em>, 2025. <strong>CCF A</strong></li>
@@ -186,7 +186,7 @@ redirect_from:
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>多模态情感理解</h2>
+      <h2>Multimodal Affective Understanding</h2>
     </div>
     <ul class='selected-paper-list'>
       <li><span class='selected-paper-venue'>[TAFFC '26]</span> <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, and Meng Wang, &ldquo;PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions,&rdquo; <em>IEEE Transactions on Affective Computing</em>, 2026. <strong>CCF B</strong></li>
@@ -198,7 +198,7 @@ redirect_from:
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>具身智能感知与交互</h2>
+      <h2>Embodied Intelligent Perception and Interaction</h2>
     </div>
     <ul class='selected-paper-list'>
       <li><span class='selected-paper-venue'>[TDSC '26]</span> Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, and Meng Li, &ldquo;Identifying who you are no matter what you write through abstracting handwriting style,&rdquo; <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026. <strong>CCF A</strong></li>
@@ -217,7 +217,7 @@ redirect_from:
 
 
 <ul class='talk-list'>
-  <li><span class='talk-source'>[中国新闻网]</span> <a class='talk-link' href='https://www.chinanews.com.cn/gn/2026/04-22/10608612.shtml' target='_blank' rel='noopener'>让科技成果“落地生金” 中国科大先研院何以激活科创“一池春水”？</a> <span class='talk-year'>2026</span></li>
+  <li><span class='talk-source'>[中国新闻网]</span> <a class='talk-link' href='https://m.chinanews.com/wap/detail/chs/zw/409636.shtml' target='_blank' rel='noopener'>让科技成果“落地生金” 中国科大先研院何以激活科创“一池春水”？</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/s-a1RvO5Kq851n1bTaZpcA' target='_blank' rel='noopener'>青春领航 | 学院团队荣获 2025 年度“中国大学生自强之星科创团体”</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[中国科学技术大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/awpduD104qSeFp0tNBYavw' target='_blank' rel='noopener'>【科大新闻】中国科大“科创试点班”进一步扩容提质</a> <span class='talk-year'>2025</span></li>
   <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/rqu8FIMpsRG8L3rA2zoQng' target='_blank' rel='noopener'>芯青年成长手册 | 从竞赛国奖到创业实践，科创达人是如何养成的？</a> <span class='talk-year'>2024</span></li>

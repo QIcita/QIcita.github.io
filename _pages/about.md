@@ -212,7 +212,7 @@ I am also interested in technology translation. As project lead, I received a <a
       <h2>AI for Science</h2>
     </div>
     <ul class='selected-paper-list'>
-      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, and Chongwu Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, Chongwu Wang, and Qi Jie Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
       <li><span class='selected-paper-venue'>[PNAS Nexus '25]</span> Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, and Liyan Song, &ldquo;Natural-selected plastics biodegradation species and enzymes in landfills,&rdquo; <em>PNAS Nexus</em>, 2025.</li>
     </ul>
   </section>

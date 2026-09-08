@@ -7,11 +7,11 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院电子信息专业硕博连读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
-我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。目前围绕上述方向，发表 Nature 子刊、PNAS 子刊、CCF A 类会议、 IEEE/ACM Trans 期刊论文共 8 篇。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
+我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。代表性成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/UbiComp/TAAS、IEEE TMM/TIFS/TDSC/TAFFC/TCE/TGRS/ICME/ICASSP 等国际高水平会议与期刊，授权国家发明专利10项。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
 
-此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得第八届中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM MER Challenge 26 Physiological Signal Emotion Track 第一名、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
+此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、2026 MER 挑战赛 Physiological Signal Emotion Track 冠军、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -28,7 +28,7 @@ redirect_from:
           <div class='cv-main'>
             <div class='cv-title'>中国科学技术大学</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>计算机技术博士</div>
+              <div class='cv-subtitle'>人工智能博士</div>
               <div class='cv-time'>2026.09 - 至今</div>
             </div>
           </div>
@@ -167,7 +167,7 @@ redirect_from:
       <h2>AI for Science</h2>
     </div>
     <ul class='selected-paper-list'>
-      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, Chongwu Wang, and  Qi Jie Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[Nat. Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, Chongwu Wang, and  Qi Jie Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
       <li><span class='selected-paper-venue'>[PNAS Nexus '25]</span> Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, and Liyan Song, &ldquo;Natural-selected plastics biodegradation species and enzymes in landfills,&rdquo; <em>PNAS Nexus</em>, 2025.</li>
     </ul>
   </section>
@@ -213,6 +213,19 @@ redirect_from:
 
 <!--
   <p class='selected-papers-note'><sup>*</sup> 共同一作。</p> -->
+</div>
+
+<span class='anchor' id='selected-patents'></span>
+# Selected Patents
+
+<div class='selected-patents'>
+  <ul class='selected-patent-list'>
+    <li><strong>崔丰麒</strong>等，&ldquo;基于大模型的多模态情感计算智能问询系统及方法，&rdquo; <span class='selected-patent-number'>[CN122432305B]</span> 中国发明专利，2026 年授权。</li>
+    <li><strong>崔丰麒</strong>等，&ldquo;基于多轮对话的数字化病人对话生成方法和系统，&rdquo; <span class='selected-patent-number'>[CN117874205B]</span> 中国发明专利，2026 年授权。</li>
+    <li><strong>崔丰麒</strong>等，&ldquo;基于微博情感序列的情感异常检测方法和系统，&rdquo; <span class='selected-patent-number'>[CN117633629B]</span> 中国发明专利，2026 年授权。</li>
+    <li><strong>崔丰麒</strong>等，&ldquo;一种基于面部关键点时空特征融合的情绪检测方法，&rdquo; <span class='selected-patent-number'>[CN120877354B]</span> 中国发明专利，2025 年授权。</li>
+    <li><strong>崔丰麒</strong>等，&ldquo;一种基于因果表征学习的抑郁症严重程度评估方法及系统，&rdquo; <span class='selected-patent-number'>[CN118888146B]</span> 中国发明专利，2024 年授权。</li>
+  </ul>
 </div>
 
 <span class='anchor' id='talk'></span>

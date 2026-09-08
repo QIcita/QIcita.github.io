@@ -400,6 +400,39 @@
     font-size: $type-size-6;
 }
 
+/* Selected patent citations */
+.selected-patents {
+    margin: $spacing-lg 0 $spacing-2xl;
+}
+
+.selected-patent-list {
+    margin: 0;
+    padding-left: 1.1rem;
+
+    li {
+        margin: 0;
+        padding: 0.28rem 0.4rem 0.28rem 0.12rem;
+        color: #26313f;
+        line-height: 1.58;
+        transition: background-color 0.18s ease;
+
+        &::marker {
+            color: #64748b;
+            font-size: 0.7em;
+        }
+
+        &:hover {
+            background: #f8fafc;
+        }
+    }
+}
+
+.selected-patent-number {
+    color: #b42318;
+    font-size: 0.93em;
+    font-weight: 700;
+}
+
 /* Talks and media coverage */
 .talk-list {
     margin: 0.55rem 0 $spacing-2xl;
@@ -453,6 +486,10 @@
     }
 
     .selected-paper-list {
+        padding-left: 0.95rem;
+    }
+
+    .selected-patent-list {
         padding-left: 0.95rem;
     }
 

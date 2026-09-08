@@ -25,11 +25,11 @@ redirect_from:
 
 -->
 
-I am a combined M.S.-Ph.D. student in Electronic Information at the <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a> and advised by Prof. <a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">Xuejin Chen</a>. During my undergraduate and master's training, I was a research intern and joint-training student in the group of Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a>, advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a> and Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">Dan Guo</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
+I am a Ph.D. student in Artificial Intelligence at the <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a> and advised by Prof. <a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">Xuejin Chen</a>. During my undergraduate and master's training, I was a research intern and joint-training student in the group of Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a>, advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a> and Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">Dan Guo</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
 
-My research focuses on human-computer interaction and brain-inspired intelligent systems, spanning visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. I have published 8 papers in Nature and PNAS portfolio journals, CCF-A conferences, and IEEE/ACM Transactions. I have also led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>.
+My research focuses on human-computer interaction and brain-inspired intelligent systems, spanning visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My representative work has appeared in Nature Communications, PNAS Nexus, ACM MM, UbiComp, TAAS, and IEEE TMM, TIFS, TDSC, TAFFC, TCE, TGRS, ICME, and ICASSP. I hold ten granted Chinese invention patents. I have also led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>.
 
-I am also interested in technology translation. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, placed first in the ACM MM MER Challenge 26 Physiological Signal Emotion Track, and received the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> now serves more than ten research institutions and companies.
+I am also interested in technology translation. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition, won the Physiological Signal Emotion Track at the 2026 MER Challenge, and received the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> now serves more than ten research institutions and companies.
 
 <div class='cv-overview cv-overview--en'>
   <section class='cv-section cv-section--education cv-section--education-en'>
@@ -46,7 +46,7 @@ I am also interested in technology translation. As project lead, I received a <a
           <div class='cv-main'>
             <div class='cv-title'>University of Science and Technology of China</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>Ph.D. in Computer Technology</div>
+              <div class='cv-subtitle'>Ph.D. in Artificial Intelligence</div>
               <div class='cv-time'>Sep. 2026 - Present</div>
             </div>
           </div>
@@ -212,7 +212,7 @@ I am also interested in technology translation. As project lead, I received a <a
       <h2>AI for Science</h2>
     </div>
     <ul class='selected-paper-list'>
-      <li><span class='selected-paper-venue'>[Nature Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, Chongwu Wang, and Qi Jie Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[Nat. Commun. '26]</span> Shi Fang, Fakun Wang, <strong>Feng-Qi Cui</strong>, Jinyang Huang, Wenduo Chen, Chao Han, Hui Ma, Jianbo Yu, Zhenhan Zhang, Chongwu Wang, and Qi Jie Wang, &ldquo;In-sensor multispectral perception for near- and mid-infrared discrimination,&rdquo; <em>Nature Communications</em>, 2026.</li>
       <li><span class='selected-paper-venue'>[PNAS Nexus '25]</span> Xiaoxing Lin, Rui Zhang, <strong>Feng-Qi Cui</strong>, Wenqing Hong, Shu Yang, Feng Ju, Chuanwu Xi, Xiao Sun, and Liyan Song, &ldquo;Natural-selected plastics biodegradation species and enzymes in landfills,&rdquo; <em>PNAS Nexus</em>, 2025.</li>
     </ul>
   </section>
@@ -255,6 +255,19 @@ I am also interested in technology translation. As project lead, I received a <a
       <li><span class='selected-paper-venue'>[UbiComp '26]</span> Xinyu Li, Jinyang Huang, Meng Wang, Peng Zhao, <strong>Feng-Qi Cui</strong>, Yuanhao Feng, Zheng Gong, Feiyu Han, and Fusang Zhang, &ldquo;Hiding Identity, Preserving Respiration: Semantic-Decoupled Privacy Protection for mmWave Radar Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
     </ul>
   </section>
+</div>
+
+<span class='anchor' id='selected-patents'></span>
+# Selected Patents
+
+<div class='selected-patents'>
+  <ul class='selected-patent-list'>
+    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Large Language Model-Based Multimodal Affective Computing Intelligent Inquiry System and Method,&rdquo; <span class='selected-patent-number'>[CN122432305B]</span> Granted Chinese invention patent, 2026.</li>
+    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Generating Digital-Patient Dialogues Based on Multi-Turn Conversations,&rdquo; <span class='selected-patent-number'>[CN117874205B]</span> Granted Chinese invention patent, 2026.</li>
+    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Detecting Affective Anomalies Based on Weibo Sentiment Sequences,&rdquo; <span class='selected-patent-number'>[CN117633629B]</span> Granted Chinese invention patent, 2026.</li>
+    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Emotion Detection Method Based on Spatiotemporal Facial Landmark Feature Fusion,&rdquo; <span class='selected-patent-number'>[CN120877354B]</span> Granted Chinese invention patent, 2025.</li>
+    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Assessing Depression Severity Based on Causal Representation Learning,&rdquo; <span class='selected-patent-number'>[CN118888146B]</span> Granted Chinese invention patent, 2024.</li>
+  </ul>
 </div>
 
 <span class='anchor' id='talk'></span>

@@ -9,6 +9,9 @@ main_en:
   - title: "Selected Papers"
     url: "/en/#selected-papers"
 
+  - title: "Selected Patents"
+    url: "/en/#selected-patents"
+
   - title: "Honors"
     url: "/en/#selected-honors-and-awards"
 
@@ -33,6 +36,9 @@ main_zh:
 
   - title: "Selected Papers"
     url: "/#selected-papers"
+
+  - title: "Selected Patents"
+    url: "/#selected-patents"
 
   - title: "Talks & Media"
     url: "/#talk"

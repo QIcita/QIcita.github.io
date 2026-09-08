@@ -133,8 +133,9 @@ redirect_from:
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
-- 2026.08: 🎉🎉 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF Rank A)**_！
-- 2026.07: 🎉🎉 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
+- 2026.09: 🎉🎉 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF Rank A)**_！
+- 2026.08: 🎉🎉 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
+- 2026.08: 🎉🎉 两篇篇关于泛在无线感知的合作论文被接收至 _**ACM UbiComp 2026 (CCF Rank A)**_！
 - 2026.07: 🎉🎉 一篇关于EEG-fNIRS时序情感分析的论文被接收至 _**ACM MM (CCF Rank A)**_！
 - 2026.07: 🎉🎉 团队在**2026 ACM MM (CCF Rank A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track** 获得**第一名**！
 - 2026.07: 🎉🎉 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF Rank A)**_！

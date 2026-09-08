@@ -180,8 +180,9 @@ I am also interested in technology translation. As project lead, I received a <a
 <span class='anchor' id='news'></span>
 # News
 <div class='news-window' markdown='1'>
-- 2026.08: 🎉🎉 One paper on uncertainty-guided facial expression analysis is accepted to _**IEEE T-MM (CCF Rank A)**_!
-- 2026.07: 🎉🎉 One collaborative paper on visual neuromorphic chip design is accepted to _**Nature Communications**_!
+- 2026.09: 🎉🎉 One paper on uncertainty-guided facial expression analysis is accepted to _**IEEE T-MM (CCF Rank A)**_!
+- 2026.08: 🎉🎉 One collaborative paper on visual neuromorphic chip design is accepted to _**Nature Communications**_!
+- 2026.08: 🎉🎉 Two collaborative papers on ubiquitous wireless sensing are accepted to _**ACM UbiComp 2026 (CCF Rank A)**_!
 - 2026.07: 🎉🎉 One paper on EEG-fNIRS temporal affective analysis is accepted to _**ACM MM (CCF Rank A)**_!
 - 2026.07: 🎉🎉 Our team won **1st Place in the ACM MM 2026 (CCF Rank A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track**!
 - 2026.07: 🎉🎉 Two collaborative papers on digital human driving and affective dialogue generation are accepted to _**ACM MM 2026 (CCF Rank A)**_!

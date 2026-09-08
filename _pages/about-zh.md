@@ -156,10 +156,14 @@ redirect_from:
 
 </div>
 
+<span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
-# Selected Papers
+# Selected Research Outputs
 
-<div class='selected-papers'>
+<div class='selected-outputs'>
+  <section class='selected-output-section'>
+    <h2 class='selected-output-heading'>Papers</h2>
+    <div class='selected-papers'>
 
 
   <section class='selected-paper-group'>
@@ -213,19 +217,22 @@ redirect_from:
 
 <!--
   <p class='selected-papers-note'><sup>*</sup> 共同一作。</p> -->
-</div>
+    </div>
+  </section>
 
-<span class='anchor' id='selected-patents'></span>
-# Selected Patents
-
-<div class='selected-patents'>
-  <ul class='selected-patent-list'>
-    <li><strong>崔丰麒</strong>等，&ldquo;基于大模型的多模态情感计算智能问询系统及方法，&rdquo; <span class='selected-patent-number'>[CN122432305B]</span> 中国发明专利，2026 年授权。</li>
-    <li><strong>崔丰麒</strong>等，&ldquo;基于多轮对话的数字化病人对话生成方法和系统，&rdquo; <span class='selected-patent-number'>[CN117874205B]</span> 中国发明专利，2026 年授权。</li>
-    <li><strong>崔丰麒</strong>等，&ldquo;基于微博情感序列的情感异常检测方法和系统，&rdquo; <span class='selected-patent-number'>[CN117633629B]</span> 中国发明专利，2026 年授权。</li>
-    <li><strong>崔丰麒</strong>等，&ldquo;一种基于面部关键点时空特征融合的情绪检测方法，&rdquo; <span class='selected-patent-number'>[CN120877354B]</span> 中国发明专利，2025 年授权。</li>
-    <li><strong>崔丰麒</strong>等，&ldquo;一种基于因果表征学习的抑郁症严重程度评估方法及系统，&rdquo; <span class='selected-patent-number'>[CN118888146B]</span> 中国发明专利，2024 年授权。</li>
-  </ul>
+  <section class='selected-output-section'>
+    <span class='anchor' id='selected-patents'></span>
+    <h2 class='selected-output-heading'>Patents</h2>
+    <div class='selected-patents'>
+      <ul class='selected-patent-list'>
+        <li><span class='selected-paper-venue'>[CN122432305B]</span> 杨毅、黄锦阳、袁非、<strong>崔丰麒</strong>、蔡娟雷、王俊杰、李萌、郭丹、汪萌，&ldquo;基于大模型的多模态情感计算智能问询系统及方法，&rdquo; 中国发明专利，2026 年授权。</li>
+        <li><span class='selected-paper-venue'>[CN117874205B]</span> 孙晓、张奥远、董腾鹏、<strong>崔丰麒</strong>、汪萌，&ldquo;基于多轮对话的数字化病人对话生成方法和系统，&rdquo; 中国发明专利，2026 年授权。</li>
+        <li><span class='selected-paper-venue'>[CN117633629B]</span> 孙晓、王坤、董腾鹏、<strong>崔丰麒</strong>、汪萌，&ldquo;基于微博情感序列的情感异常检测方法和系统，&rdquo; 中国发明专利，2026 年授权。</li>
+        <li><span class='selected-paper-venue'>[CN120877354B]</span> 黄锦阳、郭宇章、赵嘉敏、<strong>崔丰麒</strong>、郑天越、郭丹、汪萌，&ldquo;一种基于面部关键点时空特征融合的情绪检测方法，&rdquo; 中国发明专利，2025 年授权。</li>
+        <li><span class='selected-paper-venue'>[CN118888146B]</span> 李明政、孙晓、王新科、<strong>崔丰麒</strong>、汪萌，&ldquo;一种基于因果表征学习的抑郁症严重程度评估方法及系统，&rdquo; 中国发明专利，2024 年授权。</li>
+      </ul>
+    </div>
+  </section>
 </div>
 
 <span class='anchor' id='talk'></span>

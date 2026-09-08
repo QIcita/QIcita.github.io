@@ -6,11 +6,8 @@ main_en:
   - title: "News"
     url: "/en/#news"
 
-  - title: "Selected Papers"
-    url: "/en/#selected-papers"
-
-  - title: "Selected Patents"
-    url: "/en/#selected-patents"
+  - title: "Selected Research Outputs"
+    url: "/en/#selected-research-outputs"
 
   - title: "Honors"
     url: "/en/#selected-honors-and-awards"
@@ -34,11 +31,8 @@ main_zh:
   - title: "News"
     url: "/#news"
 
-  - title: "Selected Papers"
-    url: "/#selected-papers"
-
-  - title: "Selected Patents"
-    url: "/#selected-patents"
+  - title: "Selected Research Outputs"
+    url: "/#selected-research-outputs"
 
   - title: "Talks & Media"
     url: "/#talk"

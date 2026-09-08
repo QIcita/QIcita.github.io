@@ -203,10 +203,14 @@ I am also interested in technology translation. As project lead, I received a <a
 
 </div>
 
+<span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
-# Selected Papers
+# Selected Research Outputs
 
-<div class='selected-papers'>
+<div class='selected-outputs'>
+  <section class='selected-output-section'>
+    <h2 class='selected-output-heading'>Papers</h2>
+    <div class='selected-papers'>
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
       <h2>AI for Science</h2>
@@ -255,19 +259,22 @@ I am also interested in technology translation. As project lead, I received a <a
       <li><span class='selected-paper-venue'>[UbiComp '26]</span> Xinyu Li, Jinyang Huang, Meng Wang, Peng Zhao, <strong>Feng-Qi Cui</strong>, Yuanhao Feng, Zheng Gong, Feiyu Han, and Fusang Zhang, &ldquo;Hiding Identity, Preserving Respiration: Semantic-Decoupled Privacy Protection for mmWave Radar Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
     </ul>
   </section>
-</div>
+    </div>
+  </section>
 
-<span class='anchor' id='selected-patents'></span>
-# Selected Patents
-
-<div class='selected-patents'>
-  <ul class='selected-patent-list'>
-    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Large Language Model-Based Multimodal Affective Computing Intelligent Inquiry System and Method,&rdquo; <span class='selected-patent-number'>[CN122432305B]</span> Granted Chinese invention patent, 2026.</li>
-    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Generating Digital-Patient Dialogues Based on Multi-Turn Conversations,&rdquo; <span class='selected-patent-number'>[CN117874205B]</span> Granted Chinese invention patent, 2026.</li>
-    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Detecting Affective Anomalies Based on Weibo Sentiment Sequences,&rdquo; <span class='selected-patent-number'>[CN117633629B]</span> Granted Chinese invention patent, 2026.</li>
-    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Emotion Detection Method Based on Spatiotemporal Facial Landmark Feature Fusion,&rdquo; <span class='selected-patent-number'>[CN120877354B]</span> Granted Chinese invention patent, 2025.</li>
-    <li><strong>Feng-Qi Cui</strong>, et al., &ldquo;Method and System for Assessing Depression Severity Based on Causal Representation Learning,&rdquo; <span class='selected-patent-number'>[CN118888146B]</span> Granted Chinese invention patent, 2024.</li>
-  </ul>
+  <section class='selected-output-section'>
+    <span class='anchor' id='selected-patents'></span>
+    <h2 class='selected-output-heading'>Patents</h2>
+    <div class='selected-patents'>
+      <ul class='selected-patent-list'>
+        <li><span class='selected-paper-venue'>[CN122432305B]</span> Yi Yang, Jinyang Huang, Fei Yuan, <strong>Feng-Qi Cui</strong>, Juanlei Cai, Junjie Wang, Meng Li, Dan Guo, and Meng Wang, &ldquo;Large Language Model-Based Multimodal Affective Computing Intelligent Inquiry System and Method,&rdquo; Granted Chinese invention patent, 2026.</li>
+        <li><span class='selected-paper-venue'>[CN117874205B]</span> Xiao Sun, Aoyuan Zhang, Tengpeng Dong, <strong>Feng-Qi Cui</strong>, and Meng Wang, &ldquo;Method and System for Generating Digital-Patient Dialogues Based on Multi-Turn Conversations,&rdquo; Granted Chinese invention patent, 2026.</li>
+        <li><span class='selected-paper-venue'>[CN117633629B]</span> Xiao Sun, Kun Wang, Tengpeng Dong, <strong>Feng-Qi Cui</strong>, and Meng Wang, &ldquo;Method and System for Detecting Affective Anomalies Based on Weibo Sentiment Sequences,&rdquo; Granted Chinese invention patent, 2026.</li>
+        <li><span class='selected-paper-venue'>[CN120877354B]</span> Jinyang Huang, Yuzhang Guo, Jiamin Zhao, <strong>Feng-Qi Cui</strong>, Tianyue Zheng, Dan Guo, and Meng Wang, &ldquo;Emotion Detection Method Based on Spatiotemporal Facial Landmark Feature Fusion,&rdquo; Granted Chinese invention patent, 2025.</li>
+        <li><span class='selected-paper-venue'>[CN118888146B]</span> Mingzheng Li, Xiao Sun, Xinke Wang, <strong>Feng-Qi Cui</strong>, and Meng Wang, &ldquo;Method and System for Assessing Depression Severity Based on Causal Representation Learning,&rdquo; Granted Chinese invention patent, 2024.</li>
+      </ul>
+    </div>
+  </section>
 </div>
 
 <span class='anchor' id='talk'></span>

@@ -405,6 +405,28 @@
     margin: $spacing-lg 0 $spacing-2xl;
 }
 
+.selected-outputs {
+    margin: $spacing-lg 0 $spacing-2xl;
+}
+
+.selected-output-section + .selected-output-section {
+    margin-top: $spacing-lg;
+    padding-top: $spacing-lg;
+    border-top: 1px solid rgba(15, 23, 42, 0.1);
+}
+
+.selected-output-heading {
+    margin: 0;
+    color: #26313f;
+    font-size: $type-size-4;
+    font-weight: 700;
+}
+
+.selected-outputs .selected-papers,
+.selected-outputs .selected-patents {
+    margin: $spacing-md 0 0;
+}
+
 .selected-patent-list {
     margin: 0;
     padding-left: 1.1rem;
@@ -425,12 +447,6 @@
             background: #f8fafc;
         }
     }
-}
-
-.selected-patent-number {
-    color: #b42318;
-    font-size: 0.93em;
-    font-weight: 700;
 }
 
 /* Talks and media coverage */

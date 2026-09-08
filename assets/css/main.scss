@@ -417,9 +417,19 @@
 
 .selected-output-heading {
     margin: 0;
-    color: #26313f;
-    font-size: $type-size-4;
+    padding-bottom: $spacing-sm;
+    border-bottom: 2px solid #26313f;
+    color: #111827;
+    font-size: $type-size-3;
     font-weight: 700;
+    line-height: 1.2;
+}
+
+.selected-paper-group-heading h2 {
+    color: #374151;
+    font-size: $type-size-5;
+    font-weight: 700;
+    line-height: 1.35;
 }
 
 .selected-outputs .selected-papers,

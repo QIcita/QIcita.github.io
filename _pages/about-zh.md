@@ -226,11 +226,11 @@ redirect_from:
     <h2 class='selected-output-heading'>Patents</h2>
     <div class='selected-patents'>
       <ul class='selected-patent-list'>
-        <li><span class='selected-paper-venue'>[CN122432305B]</span> 杨毅、黄锦阳、袁非、<strong>崔丰麒</strong>、蔡骐璠、王俊杰、李萌、郭丹、汪萌，基于大模型的多模态情感计算智能问询系统及方法，中国发明专利，2026 年授权。</li>
-        <li><span class='selected-paper-venue'>[CN117874205B]</span> 孙晓、张奥远、董腾腾、<strong>崔丰麒</strong>、汪萌，基于多轮对话的数字化病人对话生成方法和系统，中国发明专利，2026 年授权。</li>
-        <li><span class='selected-paper-venue'>[CN117633629B]</span> 孙晓、王坤、董腾腾、<strong>崔丰麒</strong>、汪萌，基于微博情感序列的情感异常检测方法和系统，中国发明专利，2026 年授权。</li>
-        <li><span class='selected-paper-venue'>[CN120877354B]</span> 黄锦阳、郭宇章、赵嘉铖、<strong>崔丰麒</strong>、郑天越、郭丹、汪萌，一种基于面部关键点时空特征融合的情绪检测方法，中国发明专利，2025 年授权。</li>
-        <li><span class='selected-paper-venue'>[CN118888146B]</span> 李明政、孙晓、王新科、<strong>崔丰麒</strong>、汪萌，一种基于因果表征学习的抑郁症严重程度评估方法及系统，中国发明专利，2024 年授权。</li>
+        <li><span class='selected-paper-venue'>[CN122432305B]</span> 杨毅、黄锦阳、袁非、<strong>崔丰麒</strong>、蔡骐璠、王俊杰、李萌、郭丹、汪萌，基于大模型的多模态情感计算智能问询系统及方法，发明专利，授权。</li>
+        <li><span class='selected-paper-venue'>[CN117874205B]</span> 孙晓、张奥远、董腾腾、<strong>崔丰麒</strong>、汪萌，基于多轮对话的数字化病人对话生成方法和系统，发明专利，授权。</li>
+        <li><span class='selected-paper-venue'>[CN117633629B]</span> 孙晓、王坤、董腾腾、<strong>崔丰麒</strong>、汪萌，基于微博情感序列的情感异常检测方法和系统，发明专利，授权。</li>
+        <li><span class='selected-paper-venue'>[CN120877354B]</span> 黄锦阳、郭宇章、赵嘉铖、<strong>崔丰麒</strong>、郑天越、郭丹、汪萌，一种基于面部关键点时空特征融合的情绪检测方法，发明专利，授权。</li>
+        <li><span class='selected-paper-venue'>[CN118888146B]</span> 李明政、孙晓、王新科、<strong>崔丰麒</strong>、汪萌，一种基于因果表征学习的抑郁症严重程度评估方法及系统，发明专利，授权。</li>
       </ul>
     </div>
   </section>

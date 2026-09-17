@@ -11,7 +11,7 @@ redirect_from:
 
 我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP 等国际会议与期刊，授权国家发明专利10项。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
 
-此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、2026 MER 挑战赛 Physiological Signal Emotion Track 冠军、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
+此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM2026@多模态情感识别挑战赛MER-PS（生理信号）赛道 冠军、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
 <div class='cv-overview'>
   <section class='cv-section cv-section--education'>
@@ -97,8 +97,7 @@ redirect_from:
       <div class='cv-scroll-window'>
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
-          ACM MM MER Challenge 26 Physiological Signal Emotion Track <strong>第一名</strong>（排序 1）
-
+         <strong>1ST Place</strong> in the MER-PS track at the ACM MM 2026@MER CHALLENGE （排序 1）
         </li>
         <li>
           IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>

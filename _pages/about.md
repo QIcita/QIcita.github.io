@@ -29,7 +29,7 @@ I am a Ph.D. student in Artificial Intelligence at the <a class="intro-link" hre
 
 My research focuses on human-computer interaction and brain-inspired intelligent systems, spanning visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My work has appeared in Nature Communications, PNAS Nexus, ACM MM, UbiComp, TAAS, and IEEE TMM, TIFS, TDSC, TAFFC, TCE, TGRS, ICME, and ICASSP. I hold ten granted Chinese invention patents. I have also led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>.
 
-I am also interested in technology translation. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition, won the Physiological Signal Emotion Track at the 2026 MER Challenge, and received the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> now serves more than ten research institutions and companies.
+I am also interested in technology translation. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition, won 1st Place in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge, and received the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> now serves more than ten research institutions and companies.
 
 <div class='cv-overview cv-overview--en'>
   <section class='cv-section cv-section--education cv-section--education-en'>
@@ -117,7 +117,7 @@ I am also interested in technology translation. As project lead, I received a <a
       <div class='cv-scroll-window'>
         <ul class='cv-compact-list cv-compact-list--clean'>
         <li>
-          ACM MM MER Challenge 26 <strong>Physiological Signal Emotion Track, 1st Place</strong> (ranked 1)
+          <strong>1st Place</strong> in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge (ranked 1)
 
         </li>
         <li>

@@ -240,6 +240,7 @@ redirect_from:
 
 
 <ul class='talk-list'>
+  <li><span class='talk-source'>[安徽青年报]</span> <a class='talk-link' href='http://epaper.ahyouth.com/paperdetails.php?CurrPeid=2633&amp;CurrSid=25953&amp;newsid=72995' target='_blank' rel='noopener'>合工大科创团队：AI读心 青春报国</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[中国新闻网]</span> <a class='talk-link' href='https://m.chinanews.com/wap/detail/chs/zw/409636.shtml' target='_blank' rel='noopener'>让科技成果“落地生金” 中国科大先研院何以激活科创“一池春水”？</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[合肥工业大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/s-a1RvO5Kq851n1bTaZpcA' target='_blank' rel='noopener'>青春领航 | 学院团队荣获 2025 年度“中国大学生自强之星科创团体”</a> <span class='talk-year'>2026</span></li>
   <li><span class='talk-source'>[中国科学技术大学]</span> <a class='talk-link' href='https://mp.weixin.qq.com/s/awpduD104qSeFp0tNBYavw' target='_blank' rel='noopener'>【科大新闻】中国科大“科创试点班”进一步扩容提质</a> <span class='talk-year'>2025</span></li>

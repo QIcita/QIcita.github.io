@@ -125,6 +125,9 @@ I am also interested in technology translation. As project lead, I received a <a
           <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">Certificate</a>
         </li>
         <li>
+          <strong>National Scholarship for Graduate Students</strong>
+        </li>
+        <li>
           Hefei University of Technology, one of the <strong>Top Ten Outstanding Students</strong> (10 selected university-wide)
         </li>
         <li>

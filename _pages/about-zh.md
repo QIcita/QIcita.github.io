@@ -104,6 +104,9 @@ redirect_from:
           <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
         </li>
         <li>
+          <strong>研究生国家奖学金</strong>
+        </li>
+        <li>
           合肥工业大学“<strong>十佳大学生</strong>”（全校 10 人）
         </li>
         <li>

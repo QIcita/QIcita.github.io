@@ -22,17 +22,17 @@ main_zh:
   - title: "About"
     url: "/#about-me"
 
-  - title: "Education & Work"
-    url: "/#education-work-experience"
-
-  - title: "Honors & Services"
-    url: "/#selected-honors-and-awards"
-
   - title: "News"
     url: "/#news"
 
   - title: "Selected Research Outputs"
     url: "/#selected-research-outputs"
 
-  - title: "Talks & Media"
+  - title: "Honors"
+    url: "/#selected-honors-and-awards"
+
+  - title: "Services"
+    url: "/#academic-services"
+
+  - title: "Talk"
     url: "/#talk"

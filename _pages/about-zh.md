@@ -100,11 +100,11 @@ redirect_from:
          <strong>1ST Place</strong> in the MER-PS track at the ACM MM 2026@MER CHALLENGE （排序 1）
         </li>
         <li>
-          IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>
-          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
+          <strong>研究生国家奖学金</strong>
         </li>
         <li>
-          <strong>研究生国家奖学金</strong>
+          IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>
+          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
         </li>
         <li>
           合肥工业大学“<strong>十佳大学生</strong>”（全校 10 人）

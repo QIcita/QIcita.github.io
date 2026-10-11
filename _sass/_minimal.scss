@@ -205,10 +205,10 @@
       padding-top: 1.6rem;
       border-top: 1px solid var(--rule);
       color: var(--ink);
-      font-family: Georgia, "Songti SC", serif;
+      font-family: inherit;
       font-size: 1.5rem;
-      font-weight: 400;
-      letter-spacing: -0.025em;
+      font-weight: 600;
+      letter-spacing: 0;
     }
 
     h2 { font-family: inherit; }

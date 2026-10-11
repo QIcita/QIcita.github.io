@@ -9,14 +9,20 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body{% if page.permalink == '/' or page.permalink == '/en/' %} class="homepage-minimal"{% endif %}>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     <div id="main" role="main">
       <div class="site-grid">
-        {% include sidebar.html %}
+        {% if page.permalink == '/' or page.permalink == '/en/' %}
+          <header class="profile-header" aria-label="Personal profile">
+            {% include author-profile.html %}
+          </header>
+        {% else %}
+          {% include sidebar.html %}
+        {% endif %}
 
         <main class="main-content">
           <article class="page panel" itemscope itemtype="http://schema.org/CreativeWork">

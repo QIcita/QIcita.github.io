@@ -25,16 +25,15 @@ redirect_from:
 
 -->
 
-I am a Ph.D. student in Artificial Intelligence at the <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a> and advised by Prof. <a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">Xuejin Chen</a>. During my undergraduate and master's training, I was a research intern and joint-training student in the group of Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a>, advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a> and Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">Dan Guo</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
+I am a Ph.D. student in Artificial Intelligence at the School of Information Science and Technology, <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a> and advised by Prof. <a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">Xuejin Chen</a>. During my undergraduate and master's training, I undertook research internships and joint training with Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a>'s group at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a> and Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">Dan Guo</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
+My research focuses on human-computer interaction and brain-inspired intelligent system design: visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My work has appeared in Nature Communications, PNAS Nexus, ACM MM/<wbr>UbiComp/<wbr>TAAS, and IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP. I hold ten granted Chinese invention patents.
 
-My research focuses on human-computer interaction and brain-inspired intelligent systems, spanning visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My work has appeared in Nature Communications, PNAS Nexus, ACM MM, UbiComp, TAAS, and IEEE TMM, TIFS, TDSC, TAFFC, TCE, TGRS, ICME, and ICASSP. I hold ten granted Chinese invention patents. I have also led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>.
+I contribute to the academic community and have led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines (Director: Prof. Meng Wang)</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>. I also pursue technology translation and real-world applications. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition (the only national silver award in Anhui's industry track), won 1st Place in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge, and received the IEEE MMTC'25 Technology Competition Silver Award. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build high-performance computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> serves more than ten research institutions and companies. We welcome users and collaborators.
 
-I am also interested in technology translation. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition, won 1st Place in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge, and received the <a class="intro-link" href="https://www.ieee.org/about/awards/tech-competition.html">IEEE MMTC'25 Technology Competition Silver Award</a>. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> now serves more than ten research institutions and companies.
-
-<div class='cv-overview cv-overview--en'>
+<div class='cv-overview cv-overview--education-news cv-overview--en'>
   <section class='cv-section cv-section--education cv-section--education-en'>
     <span class='anchor' id='education-work-experience'></span>
-    <h1 class='cv-heading'>Education & Work Experience</h1>
+    <h1 class='cv-heading'>Education & Work</h1>
 
     <div class='cv-card'>
       <div class='cv-scroll-window'>
@@ -44,10 +43,10 @@ I am also interested in technology translation. As project lead, I received a <a
             <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
           </div>
           <div class='cv-main'>
-            <div class='cv-title'>University of Science and Technology of China</div>
+            <div class='cv-title'>School of Information Science and Technology, University of Science and Technology of China</div>
             <div class='cv-meta-row'>
               <div class='cv-subtitle'>Ph.D. in Artificial Intelligence</div>
-              <div class='cv-time'>Sep. 2026 - Present</div>
+              <div class='cv-time'>Sep. 2024 - Present</div>
             </div>
           </div>
         </div>
@@ -59,34 +58,8 @@ I am also interested in technology translation. As project lead, I received a <a
           <div class='cv-main'>
             <div class='cv-title'>Institute of Artificial Intelligence, Hefei Comprehensive National Science Center</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>Joint Training Program </div>
+              <div class='cv-subtitle'>Joint Training Program</div>
               <div class='cv-time'>Sep. 2024 - Jun. 2026</div>
-            </div>
-          </div>
-        </div>
-
-        <div class='cv-item'>
-          <div class='cv-logo'>
-            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
-          </div>
-          <div class='cv-main'>
-            <div class='cv-title'>University of Science and Technology of China</div>
-            <div class='cv-meta-row'>
-              <div class='cv-subtitle'>M.S. in Computer Technology</div>
-              <div class='cv-time'>Sep. 2024 - Jun. 2026</div>
-            </div>
-          </div>
-        </div>
-
-        <div class='cv-item'>
-          <div class='cv-logo'>
-            <img src='{{ "/images/logos/iai-footer-logo.png" | relative_url }}' alt='IAI logo'>
-          </div>
-          <div class='cv-main'>
-            <div class='cv-title'>Institute of Artificial Intelligence, Hefei Comprehensive National Science Center</div>
-            <div class='cv-meta-row'>
-              <div class='cv-subtitle'>Research Intern</div>
-              <div class='cv-time'>Dec. 2022 - Jun. 2024</div>
             </div>
           </div>
         </div>
@@ -96,7 +69,7 @@ I am also interested in technology translation. As project lead, I received a <a
             <img src='{{ "/images/logos/hfut.svg" | relative_url }}' alt='HFUT logo'>
           </div>
           <div class='cv-main'>
-            <div class='cv-title'>Hefei University of Technology</div>
+            <div class='cv-title'>School of Microelectronics, Hefei University of Technology</div>
             <div class='cv-meta-row'>
               <div class='cv-subtitle'>B.Eng. in Microelectronics</div>
               <div class='cv-time'>Jun. 2020 - Jul. 2024</div>
@@ -108,104 +81,82 @@ I am also interested in technology translation. As project lead, I received a <a
     </div>
   </section>
 
-  <section class='cv-section cv-section--honors cv-section--honors-en'>
-    <span class='anchor' id='selected-honors-and-awards'></span>
-    <span class='anchor' id='academic-services'></span>
-    <h1 class='cv-heading'>Honors & Services</h1>
+  <section class='cv-section cv-section--news'>
+    <span class='anchor' id='news'></span>
+    <h1 class='cv-heading'>News</h1>
 
     <div class='cv-card'>
-      <div class='cv-scroll-window'>
-        <ul class='cv-compact-list cv-compact-list--clean'>
-        <li>
-          <strong>1st Place</strong> in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge (ranked 1)
+      <div class='cv-scroll-window news-window' markdown='1'>
 
-        </li>
-        <li>
-          <strong>National Scholarship for Graduate Students</strong>
-        </li>
-        <li>
-          IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong>
-          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">Certificate</a>
-        </li>
-        <li>
-          Hefei University of Technology, one of the <strong>Top Ten Outstanding Students</strong> (10 selected university-wide)
-        </li>
-        <li>
-          CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong> (ranked 2/5)
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA" target="_blank">Details</a>
-        </li>
-        <li>
-          The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
-          (ranked 1/15; the only Anhui industry-track project entering the national on-site final)
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">Report 1</a>
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">Report 2</a>
-        </li>
-        <li>
-          Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ
-        </li>
-        <li>
-          Baidu PaddlePaddle Developers Experts (PPDE)
-          <a class="cv-link-chip" href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92" target="_blank">Profile</a>
-        </li>
-        </ul>
-      </div>
-    </div>
-  </section>
-</div>
-
-<script>
-  (function () {
-    function syncEnglishCvCardHeight() {
-      var educationCard = document.querySelector('.cv-section--education-en .cv-card');
-      var honorsCard = document.querySelector('.cv-section--honors-en .cv-card');
-
-      if (!educationCard || !honorsCard) return;
-
-      honorsCard.style.height = '';
-      honorsCard.style.maxHeight = '';
-
-      if (window.matchMedia('(min-width: 1421px)').matches) {
-        var educationHeight = Math.ceil(educationCard.getBoundingClientRect().height);
-        honorsCard.style.height = educationHeight + 'px';
-        honorsCard.style.maxHeight = educationHeight + 'px';
-      }
-    }
-
-    window.addEventListener('load', syncEnglishCvCardHeight);
-    window.addEventListener('resize', syncEnglishCvCardHeight);
-
-    if (document.fonts && document.fonts.ready) {
-      document.fonts.ready.then(syncEnglishCvCardHeight);
-    }
-  })();
-</script>
-
-<span class='anchor' id='news'></span>
-# News
-<div class='news-window' markdown='1'>
-- 2026.09: 🎉🎉 One paper on uncertainty-guided facial expression analysis is accepted to _**IEEE T-MM (CCF Rank A)**_!
-- 2026.08: 🎉🎉 One collaborative paper on visual neuromorphic chip design is accepted to _**Nature Communications**_!
-- 2026.08: 🎉🎉 Two collaborative papers on ubiquitous wireless sensing are accepted to _**ACM UbiComp 2026 (CCF Rank A)**_!
-- 2026.07: 🎉🎉 One paper on EEG-fNIRS temporal affective analysis is accepted to _**ACM MM (CCF Rank A)**_!
-- 2026.07: 🎉🎉 Our team won **1st Place in the ACM MM 2026 (CCF Rank A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track**!
-- 2026.07: 🎉🎉 Two collaborative papers on digital human driving and affective dialogue generation are accepted to _**ACM MM 2026 (CCF Rank A)**_!
-- 2026.07: 🎉🎉 One paper on robust dynamic facial expression analysis is accepted to _**IEEE T-IFS (CCF Rank A)**_!
-- 2026.06: 🎉🎉 One collaborative paper on EEG-based affective analysis is accepted to _**ACM T-AAS (CCF Rank B)**_!
-- 2026.06: 🎉🎉 One collaborative paper on fine-grained behavior analysis is accepted to _**IEEE SMC (CAA Rank A, CCF Rank C)**_!
-- 2026.05: 🎉🎉 One paper on fine-grained personality assessment is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2026.05: 🎉🎉 One paper on visual affective computing is accepted to _**IEEE T-CE**_!
-- 2026.04: 🎉🎉 One collaborative paper on embodied AI is accepted to _**IJCAI 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 One collaborative paper on EEG auditory attention decoding is accepted to _**CogSci 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 One collaborative paper on remote sensing scene classification is accepted to _**IEEE T-GRS (CCF Rank B)**_!
-- 2026.03: 🎉🎉 One collaborative paper on low-light image super-resolution is accepted to _**IEEE ICME 2026 (CCF Rank B)**_!
-- 2026.02: 🎉🎉 One paper on handwritten identity verification is accepted to _**IEEE T-DSC (CCF Rank A)**_!
-- 2026.01: 🎉🎉 One collaborative paper on 3D object detection is accepted to _**IEEE ICASSP 2026 (CCF Rank B)**_!
-- 2025.12: 🎉🎉 Received the _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition!
-- 2025.09: 🎉🎉 One collaborative paper on depression estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2025.07: 🎉🎉 One paper on distributionally robust optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_!
-- 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Press Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_!
+- 2026.09: One paper on uncertainty-guided facial expression analysis is accepted to _**IEEE T-MM (CCF A)**_!
+- 2026.08: One collaborative paper on visual neuromorphic chip design is accepted to _**Nature Communications**_!
+- 2026.08: Two collaborative papers on ubiquitous wireless sensing are accepted to _**ACM UbiComp 2026 (CCF A)**_!
+- 2026.07: One paper on EEG-fNIRS temporal affective analysis is accepted to _**ACM MM (CCF A)**_!
+- 2026.07: Our team won **1st Place in the ACM MM 2026 (CCF A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track**!
+- 2026.07: Two collaborative papers on digital human driving and affective dialogue generation are accepted to _**ACM MM 2026 (CCF A)**_!
+- 2026.07: One paper on robust dynamic facial expression analysis is accepted to _**IEEE T-IFS (CCF A)**_!
+- 2026.06: One collaborative paper on EEG-based affective analysis is accepted to _**ACM T-AAS (CCF B)**_!
+- 2026.06: One collaborative paper on fine-grained behavior analysis is accepted to _**IEEE SMC (CAA A, CCF C)**_!
+- 2026.05: One paper on fine-grained personality assessment is accepted to _**IEEE T-AFFC (CAAI A, CCF B)**_!
+- 2026.05: One paper on visual affective computing is accepted to _**IEEE T-CE**_!
+- 2026.04: One collaborative paper on embodied AI is accepted to _**IJCAI 2026 (CCF B)**_!
+- 2026.04: One collaborative paper on EEG auditory attention decoding is accepted to _**CogSci 2026 (CCF B)**_!
+- 2026.04: One collaborative paper on remote sensing scene classification is accepted to _**IEEE T-GRS (CCF B)**_!
+- 2026.03: One collaborative paper on low-light image super-resolution is accepted to _**IEEE ICME 2026 (CCF B)**_!
+- 2026.02: One paper on handwritten identity verification is accepted to _**IEEE T-DSC (CCF A)**_!
+- 2026.01: One collaborative paper on 3D object detection is accepted to _**IEEE ICASSP 2026 (CCF B)**_!
+- 2025.12: Received the _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition!
+- 2025.09: One collaborative paper on depression estimation is accepted to _**IEEE T-AFFC (CAAI A, CCF B)**_!
+- 2025.07: One paper on distributionally robust optimization for DFER is accepted to _**ACM MM 2025 (CCF A)**_!
+- 2025.02: One collaborative paper is accepted to _**PNAS Nexus [(Press Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_!
 
 </div>
+</div>
+</section>
+</div>
+
+<section class='cv-section cv-section--honors cv-section--standalone cv-section--honors-en'>
+  <span class='anchor' id='selected-honors-and-awards'></span>
+  <span class='anchor' id='academic-services'></span>
+  <h1 class='cv-heading'>Honors & Services</h1>
+
+  <div class='cv-card honors-grid'>
+    <section class='honors-group' aria-label='Student and university honors'>
+      <ul class='cv-compact-list cv-compact-list--clean'>
+      <li>
+        <strong>National Scholarship for Graduate Students</strong>
+      </li>
+      <li>
+        Hefei University of Technology, <strong>Top Ten Outstanding Students</strong>
+      </li>
+      <li>
+        The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
+      </li>
+      <li>
+        CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong>
+      </li>
+      <li>
+        Baidu PaddlePaddle Developer Expert (PPDE)
+      </li>
+      </ul>
+    </section>
+    <section class='honors-group' aria-label='Academic awards and services'>
+      <ul class='cv-compact-list cv-compact-list--clean'>
+      <li>
+        ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track, <strong>1st Place</strong><br>
+        <em><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
+      </li>
+      <li>
+        IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong><br>
+        <em>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
+      </li>
+      <li>
+        Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ, ACM MM, IEEE ICME, MMM, etc.
+      </li>
+      </ul>
+    </section>
+  </div>
+</section>
 
 <span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
@@ -302,13 +253,13 @@ I am also interested in technology translation. As project lead, I received a <a
 <!--
 
 # News
-- 2025.12: 🎉🎉 Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.10: 🎉🎉 One paper about WiFi Gesture Recognition is accepted to _IEEE ICPADS 2025 (CCF Rank C)_.
-- 2025.09: 🎉🎉 One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2025.09: 🎉🎉 One paper about Long-tailed DFER is accepted to _IEEE ISPA 2025 (CCF Rank C)_.
-- 2025.07: 🎉🎉 One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
-- 2025.02: 🎉🎉 One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
-- 2024.11: 🎉🎉 One paper about Universal Sleep Apnea Detection is accepted to _Journal of Computer Applications (CCF Rank T2)_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
+- 2025.12: Received the  _**Silver Award**_ in the IEEE Communications Society Multimedia Communications Technical  Committee 2025 Technology Competition! Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
+- 2025.10: One paper about WiFi Gesture Recognition is accepted to _IEEE ICPADS 2025 (CCF Rank C)_.
+- 2025.09: One collaborative paper about Depression Estimation is accepted to _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
+- 2025.09: One paper about Long-tailed DFER is accepted to _IEEE ISPA 2025 (CCF Rank C)_.
+- 2025.07: One paper about Distributionally Robust Optimization for DFER is accepted to _**ACM MM 2025 (CCF Rank A)**_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/), [Jie Zhang](https://zjzac.github.io/) and  Prof. [Meng Wang](https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm) for their guidance!
+- 2025.02: One collaborative paper is accepted to _**PNAS Nexus [(Presss Interest Paper)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_！Thanks to Prof. [Liyan Song](https://zhxy.ahu.edu.cn/2020/0819/c23576a242636/page.htm) for his guidance!
+- 2024.11: One paper about Universal Sleep Apnea Detection is accepted to _Journal of Computer Applications (CCF Rank T2)_！Thanks to Mr. [Jinyang Huang](https://happyisac.github.io/PersonHomePage/) for his guidance!
 
 
 

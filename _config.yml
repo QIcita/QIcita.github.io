@@ -68,6 +68,8 @@ include:
   - _pages
   - files
 exclude:
+  - .playwright-cli
+  - output
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

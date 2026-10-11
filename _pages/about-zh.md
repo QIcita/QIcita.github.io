@@ -8,12 +8,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP 等国际会议与期刊，授权国家发明专利10项。
 
-我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开。成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP 等国际会议与期刊，授权国家发明专利10项。同时我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。
+我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM2026@多模态情感识别挑战赛MER-PS（生理信号）赛道 冠军、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
 
-此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM2026@多模态情感识别挑战赛MER-PS（生理信号）赛道 冠军、IEEE MMTC'25 技术竞赛银奖等。目前我是 <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a> 的 Co-founder，团队致力于打造面向大模型时代的高性能计算与智能研发基础设施；目前已开源发布 <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ 平台</a>并服务于10余家科研机构与商业公司，欢迎体验与合作。
-
-<div class='cv-overview'>
+<div class='cv-overview cv-overview--education-news'>
   <section class='cv-section cv-section--education'>
     <span class='anchor' id='education-work-experience'></span>
     <h1 class='cv-heading'>Education & Work</h1>
@@ -26,10 +25,10 @@ redirect_from:
             <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
           </div>
           <div class='cv-main'>
-            <div class='cv-title'>中国科学技术大学</div>
+            <div class='cv-title'>中国科学技术大学，信息科学技术学院</div>
             <div class='cv-meta-row'>
               <div class='cv-subtitle'>人工智能博士</div>
-              <div class='cv-time'>2026.09 - 至今</div>
+              <div class='cv-time'>2024.09 - 至今</div>
             </div>
           </div>
         </div>
@@ -41,42 +40,18 @@ redirect_from:
           <div class='cv-main'>
             <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>硕士阶段联合培养</div>
+              <div class='cv-subtitle'>联合培养</div>
               <div class='cv-time'>2024.09 - 2026.06</div>
             </div>
           </div>
         </div>
 
-        <div class='cv-item'>
-          <div class='cv-logo'>
-            <img src='{{ "/images/logos/ustc-blue-v2.png" | relative_url }}' alt='USTC logo'>
-          </div>
-          <div class='cv-main'>
-            <div class='cv-title'>中国科学技术大学</div>
-            <div class='cv-meta-row'>
-              <div class='cv-subtitle'>计算机技术硕士</div>
-              <div class='cv-time'>2024.09 - 2026.06</div>
-            </div>
-          </div>
-        </div>
-        <div class='cv-item'>
-          <div class='cv-logo'>
-            <img src='{{ "/images/logos/iai-footer-logo.png" | relative_url }}' alt='IAI logo'>
-          </div>
-          <div class='cv-main'>
-            <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
-            <div class='cv-meta-row'>
-              <div class='cv-subtitle'>Research Intern</div>
-              <div class='cv-time'>2022.12 - 2024.06</div>
-            </div>
-          </div>
-        </div>
         <div class='cv-item'>
           <div class='cv-logo'>
             <img src='{{ "/images/logos/hfut.svg" | relative_url }}' alt='HFUT logo'>
           </div>
           <div class='cv-main'>
-            <div class='cv-title'>合肥工业大学</div>
+            <div class='cv-title'>合肥工业大学，微电子学院</div>
             <div class='cv-meta-row'>
               <div class='cv-subtitle'>微电子学学士</div>
               <div class='cv-time'>2020.06 - 2024.07</div>
@@ -88,76 +63,82 @@ redirect_from:
     </div>
   </section>
 
-  <section class='cv-section cv-section--honors'>
-    <span class='anchor' id='selected-honors-and-awards'></span>
-    <span class='anchor' id='academic-services'></span>
-    <h1 class='cv-heading'>Honors & Services</h1>
+  <section class='cv-section cv-section--news'>
+    <span class='anchor' id='news'></span>
+    <h1 class='cv-heading'>News</h1>
 
     <div class='cv-card'>
-      <div class='cv-scroll-window'>
-        <ul class='cv-compact-list cv-compact-list--clean'>
-        <li>
-         <strong>1ST Place</strong> in the MER-PS track at the ACM MM 2026@MER CHALLENGE （排序 1）
-        </li>
-        <li>
-          <strong>研究生国家奖学金</strong>
-        </li>
-        <li>
-          IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong>
-          <a class="cv-link-chip" href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target="_blank">证书图</a>
-        </li>
-        <li>
-          合肥工业大学“<strong>十佳大学生</strong>”（全校 10 人）
-        </li>
-        <li>
-          CCF 首届泛在智能感知技术创新应用大赛，<strong>二等奖</strong>（排序 2/5）
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/niThW0isk1c0fRRLZtFhmA" target="_blank">详情</a>
-        </li>
-        <li>
-          第八届中国国际“互联网+”大学生创新创业大赛，<strong>国家银奖</strong>
-          （排序 1/15；安徽省产业赛道唯一入围全国现场赛项目）
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/EujzF8ubT_1PkoMs3u-qTw" target="_blank">报道 1</a>
-          <a class="cv-link-chip" href="https://mp.weixin.qq.com/s/6uRI_lJL55H537DhRkArAQ" target="_blank">报道 2</a>
-        </li>
-        <li>
-          审稿人：IEEE TAFFC、IEEE TMM、IEEE TCSVT、IEEE OJCS、IEEE IoTJ
-        </li>
-        <li>
-          百度飞桨开发者技术专家（PPDE）
-          <a class="cv-link-chip" href="https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E5%B4%94%E4%B8%B0%E9%BA%92" target="_blank">个人页</a>
-        </li>
-        </ul>
-      </div>
-    </div>
-  </section>
-</div>
+      <div class='cv-scroll-window news-window' markdown='1'>
 
-<span class='anchor' id='news'></span>
-# News
-<div class='news-window' markdown='1'>
-- 2026.09: 🎉🎉 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF Rank A)**_！
-- 2026.08: 🎉🎉 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
-- 2026.08: 🎉🎉 两篇篇关于泛在无线感知的合作论文被接收至 _**ACM UbiComp 2026 (CCF Rank A)**_！
-- 2026.07: 🎉🎉 一篇关于EEG-fNIRS时序情感分析的论文被接收至 _**ACM MM (CCF Rank A)**_！
-- 2026.07: 🎉🎉 团队在**2026 ACM MM (CCF Rank A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track** 获得**第一名**！
-- 2026.07: 🎉🎉 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF Rank A)**_！
-- 2026.07: 🎉🎉 一篇关于鲁棒动态表情分析的论文被接收至 _**IEEE T-IFS (CCF Rank A)**_！
-- 2026.06: 🎉🎉 一篇关于EEG情感分析的合作论文被接收至 _**ACM T-AAS (CCF Rank B)**_！
-- 2026.06: 🎉🎉 一篇关于细粒度行为分析的合作论文被接收至 _**IEEE SMC (CAA Rank A, CCF Rank C)**_！
-- 2026.05: 🎉🎉 一篇关于视觉细粒度人格评估的论文被接收至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_！
-- 2026.05: 🎉🎉 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！
-- 2026.04: 🎉🎉 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF Rank B)**_!
-- 2026.04: 🎉🎉 一篇关于遥感场景分类的合作论文被接收至 _**IEEE T-GRS (CCF Rank B)**_!
-- 2026.03: 🎉🎉 一篇关于低光图像超分辨率的合作论文被接收至 _**IEEE ICME 2026 (CCF Rank B)**_!
-- 2026.02: 🎉🎉 一篇关于手写身份验证的论文被接收至 _**IEEE T-DSC (CCF Rank A)**_！
-- 2026.01: 🎉🎉 一篇关于三维物体检测的合作论文被接收至 _**IEEE ICASSP 2026 (CCF Rank B)**_!
-- 2025.12: 🎉🎉 获得 IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition _**银奖**_！
-- 2025.09: 🎉🎉 一篇关于抑郁症估计的合作论文被接收至 _**IEEE T-AFFC (CAAI Rank A, CCF Rank B)**_!
-- 2025.07: 🎉🎉 一篇关于动态表情识别的分布鲁棒优化论文被接收至 _**ACM MM 2025 (CCF Rank A)**_！
-- 2025.02: 🎉🎉 一篇合作论文被接收至 _**PNAS Nexus [(媒体关注)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_
+- 2026.09: 一篇关于不确定性引导的面部表情分析的论文被接收至 _**IEEE T-MM (CCF A)**_！
+- 2026.08: 一篇关于视觉神经形态芯片设计的合作论文被接收至 _**Nature Communications**_！
+- 2026.08: 两篇篇关于泛在无线感知的合作论文被接收至 _**ACM UbiComp 2026 (CCF A)**_！
+- 2026.07: 一篇关于EEG-fNIRS时序情感分析的论文被接收至 _**ACM MM (CCF A)**_！
+- 2026.07: 团队在**2026 ACM MM (CCF A) Multimodal Emotional Recognition (MER) Challenge Physiological Signal Emotion Track** 获得**第一名**！
+- 2026.07: 两篇篇关于数字人驱动、情感对话生成的合作论文被接收至 _**ACM MM 2026 (CCF A)**_！
+- 2026.07: 一篇关于鲁棒动态表情分析的论文被接收至 _**IEEE T-IFS (CCF A)**_！
+- 2026.06: 一篇关于EEG情感分析的合作论文被接收至 _**ACM T-AAS (CCF B)**_！
+- 2026.06: 一篇关于细粒度行为分析的合作论文被接收至 _**IEEE SMC (CAA A, CCF C)**_！
+- 2026.05: 一篇关于视觉细粒度人格评估的论文被接收至 _**IEEE T-AFFC (CAAI A, CCF B)**_！
+- 2026.05: 一篇关于视觉情感计算的论文被接收 _**IEEE T-CE**_！
+- 2026.04: 一篇关于具身AI的合作论文被接收至 _**IJCAI 2026 (CCF B)**_!
+- 2026.04: 一篇关于EEG听觉注意力解码的合作论文被接收至 _**CogSci 2026 (CCF B)**_!
+- 2026.04: 一篇关于遥感场景分类的合作论文被接收至 _**IEEE T-GRS (CCF B)**_!
+- 2026.03: 一篇关于低光图像超分辨率的合作论文被接收至 _**IEEE ICME 2026 (CCF B)**_!
+- 2026.02: 一篇关于手写身份验证的论文被接收至 _**IEEE T-DSC (CCF A)**_！
+- 2026.01: 一篇关于三维物体检测的合作论文被接收至 _**IEEE ICASSP 2026 (CCF B)**_!
+- 2025.12: 获得 IEEE Communications Society Multimedia Communications Technical Committee 2025 Technology Competition _**银奖**_！
+- 2025.09: 一篇关于抑郁症估计的合作论文被接收至 _**IEEE T-AFFC (CAAI A, CCF B)**_!
+- 2025.07: 一篇关于动态表情识别的分布鲁棒优化论文被接收至 _**ACM MM 2025 (CCF A)**_！
+- 2025.02: 一篇合作论文被接收至 _**PNAS Nexus [(媒体关注)](https://phys.org/news/2025-03-plastic-degrading-enzymes-landfills.html)**_
 
 </div>
+</div>
+</section>
+</div>
+
+<section class='cv-section cv-section--honors cv-section--standalone'>
+  <span class='anchor' id='selected-honors-and-awards'></span>
+  <span class='anchor' id='academic-services'></span>
+  <h1 class='cv-heading'>Honors & Services</h1>
+
+  <div class='cv-card honors-grid'>
+    <section class='honors-group' aria-label='学校与学生荣誉'>
+      <ul class='cv-compact-list cv-compact-list--clean'>
+      <li>
+       中国科学技术大学<strong>研究生国家奖学金</strong>
+      </li>
+      <li>
+        合肥工业大学<strong>十佳大学生</strong>
+      </li>
+      <li>
+        第八届中国国际“互联网+”大学生创新创业大赛，<strong>国家银奖</strong>
+      </li>
+      <li>
+        CCF 首届泛在智能感知技术创新应用大赛，<strong>二等奖</strong>
+      </li>
+      <li>
+        百度飞桨开发者技术专家（PPDE）
+      </li>
+      </ul>
+    </section>
+    <section class='honors-group' aria-label='学术奖项与服务'>
+      <ul class='cv-compact-list cv-compact-list--clean'>
+      <li>
+       ACM MM 2026 多模态情感识别挑战赛（MER CHALLENGE@ACM MM 2026），生理信号赛道，<strong>冠军</strong> <br>
+       <em><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
+      </li>
+      <li>
+        IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong> <br>
+        <em>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
+      </li>
+      <li>
+        审稿人：IEEE TAFFC、IEEE TMM、IEEE TCSVT、IEEE OJCS、IEEE IoTJ、ACM MM、IEEE ICME, etc.
+      </li>
+      </ul>
+    </section>
+  </div>
+</section>
 
 <span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
@@ -306,7 +287,7 @@ redirect_from:
         </div>
       </div>
       <div class='paper-box-text'>
-        <a href="https://ieeexplore.ieee.org/document/11538256"><strong>Robust Low-Rank Sparse Framework for Video-Based Affective Computing</strong></a>
+        <a href="https://ieeexplore.ieee.org/document/11538256"><strong>Robust Low-Sparse Framework for Video-Based Affective Computing</strong></a>
 
     <strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, Xiaokang Zhou
       </div>

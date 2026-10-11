@@ -214,6 +214,40 @@
     h2 { font-family: inherit; }
     strong { font-weight: 600; }
 
+    .scholar-citation-badge {
+      display: inline-flex;
+      align-items: stretch;
+      height: 20px;
+      margin: 0 0.3em;
+      overflow: hidden;
+      vertical-align: middle;
+      border-radius: 2px;
+      color: var(--ink);
+      font-size: 11px;
+      font-weight: 400;
+      line-height: 20px;
+      text-decoration: none;
+      white-space: nowrap;
+
+      &:hover { color: var(--ink); text-decoration: none; }
+      &:focus-visible { outline: 2px solid #5487bc; outline-offset: 3px; }
+    }
+
+    .scholar-citation-label {
+      padding: 0 5px;
+      background: #eceeef;
+
+      i { margin-right: 3px; color: #5487bc; }
+    }
+
+    .scholar-citation-count {
+      min-width: 28px;
+      padding: 0 5px;
+      background: #bad5ef;
+      font-variant-numeric: tabular-nums;
+      text-align: center;
+    }
+
     .selected-output-heading {
       margin: 0 0 1rem;
       font-size: 1.12rem;

@@ -1,19 +1,65 @@
 <script>
-    $(document).ready(function () {
+    document.addEventListener('DOMContentLoaded', async function () {
+        var totals = document.querySelectorAll('[data-scholar-citations], #total_cit');
+        var paperCitations = document.querySelectorAll('.show_paper_citations');
+        if (!totals.length && !paperCitations.length) return;
+
+        var scholarId = {{ site.author.googlescholar | split: 'user=' | last | split: '&' | first | jsonify }};
+        var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var urls = ['https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json', rawUrl];
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var urls = [rawUrl];
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
-            });
+
+        function citationCount(value) {
+            if (typeof value !== 'number' &&
+                !(typeof value === 'string' && /^\d+$/.test(value))) return null;
+            var count = Number(value);
+            return Number.isSafeInteger(count) && count >= 0 ? count : null;
+        }
+
+        // Try the direct source if the CDN is unavailable or has invalid data.
+        for (var url of urls) {
+            var controller = new AbortController();
+            var timeout = setTimeout(function () { controller.abort(); }, 8000);
+            try {
+                var response = await fetch(url, { signal: controller.signal });
+                if (!response.ok) continue;
+                var data = await response.json();
+                if (data && data.scholar_id && data.scholar_id !== scholarId) continue;
+                var total = citationCount(data && data.citedby);
+                if (total === null) continue;
+                totals.forEach(function (element) { element.textContent = String(total); });
+                document.querySelectorAll('[data-scholar-badge]').forEach(function (badge) {
+                    var title = badge.getAttribute('data-title-prefix') + ': ' + total;
+                    if (typeof data.updated === 'string' && /^\d{4}-\d{2}-\d{2}/.test(data.updated)) {
+                        var date = data.updated.slice(0, 10);
+                        var timestamp = new Date(data.updated);
+                        if (data.updated.length > 10 && !isNaN(timestamp.getTime())) {
+                            date = timestamp.toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' });
+                        }
+                        title += ' (' + badge.getAttribute('data-updated-label') + ' ' + date + ')';
+                    }
+                    badge.title = title;
+                    badge.removeAttribute('data-scholar-cached');
+                });
+                paperCitations.forEach(function (element) {
+                    var publication = (data.publications || {})[element.getAttribute('data')];
+                    var count = citationCount(publication && publication.num_citations);
+                    if (count !== null) element.textContent = '| Citations: ' + count;
+                });
+                return;
+            } catch (error) {
+                // Keep the placeholder rather than reporting a fabricated zero.
+            } finally {
+                clearTimeout(timeout);
+            }
+        }
+        document.querySelectorAll('[data-scholar-badge]').forEach(function (badge) {
+            if (!badge.hasAttribute('data-scholar-cached')) {
+                badge.title = badge.getAttribute('data-unavailable-title');
+            }
         });
     })
 </script>

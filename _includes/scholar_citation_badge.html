@@ -1,0 +1,16 @@
+{%- if page.lang == 'zh' -%}
+{%- assign scholar_badge_title = 'Google Scholar 总引用数' -%}
+{%- assign scholar_updated_label = '数据截至' -%}
+{%- assign scholar_badge_unavailable = '引用数据暂不可用，点击查看 Google Scholar 主页' -%}
+{%- else -%}
+{%- assign scholar_badge_title = 'Google Scholar citations' -%}
+{%- assign scholar_updated_label = 'updated' -%}
+{%- assign scholar_badge_unavailable = 'Citation data unavailable; open the Google Scholar profile' -%}
+{%- endif -%}
+{%- assign scholar_profile_id = site.author.googlescholar | split: 'user=' | last | split: '&' | first -%}
+{%- assign scholar_cached = site.data.google_scholar -%}
+{%- assign scholar_has_cache = false -%}
+{%- if scholar_cached.scholar_id == scholar_profile_id and scholar_cached.citedby != nil -%}
+{%- assign scholar_has_cache = true -%}
+{%- endif -%}
+<a class="scholar-citation-badge" href="{{ site.author.googlescholar | escape }}" target="_blank" rel="noopener noreferrer" title="{{ scholar_badge_title }}{% if scholar_has_cache %}: {{ scholar_cached.citedby }} ({{ scholar_updated_label }} {{ scholar_cached.updated }}){% endif %}" data-scholar-badge data-title-prefix="{{ scholar_badge_title }}" data-updated-label="{{ scholar_updated_label }}" data-unavailable-title="{{ scholar_badge_unavailable }}"{% if scholar_has_cache %} data-scholar-cached{% endif %}><span class="scholar-citation-label"><i class="fas fa-graduation-cap" aria-hidden="true"></i> citations</span><span class="scholar-citation-count" id="total_cit" data-scholar-citations aria-live="polite">{% if scholar_has_cache %}{{ scholar_cached.citedby }}{% else %}&mdash;{% endif %}</span></a>

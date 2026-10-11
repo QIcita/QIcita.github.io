@@ -1,29 +1,55 @@
 name: Get Citation Data
 
-on: 
- page_build: 
- schedule:
-  - cron:  '0 8 * * *'
+on:
+  workflow_dispatch:
+  page_build:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/google_scholar_crawler.yaml
+      - google_scholar_crawler/**
+      - _config.yml
+  schedule:
+    - cron: '0 8 * * *'
+
+concurrency:
+  group: google-scholar-stats
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write
     steps:
-    - uses: actions/checkout@v2
-    - name: Install Reqs
-      run: |
-        sudo apt-get install python3-setuptools
-    - name: Run
-      run: |
-        cd ./google_scholar_crawler
-        pip3 install -r requirements.txt
-        python3 main.py
-        cd ./results
-        git init
-        git config --local user.name "${GITHUB_ACTOR}"
-        export remote_repo="https://${GITHUB_ACTOR}:${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
-        git add *.json
-        git commit -m "Updated Citation Data"
-        git push "${remote_repo}" HEAD:google-scholar-stats --force
-      env: 
-        GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: python -m pip install -r google_scholar_crawler/requirements.txt
+      - name: Fetch Google Scholar data
+        working-directory: google_scholar_crawler
+        run: python main.py
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+      - name: Publish citation data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code origin refs/heads/google-scholar-stats; then
+            git fetch origin google-scholar-stats
+            git worktree add --detach ../scholar-stats FETCH_HEAD
+          else
+            status=$?
+            if [ "$status" -ne 2 ]; then exit "$status"; fi
+            git worktree add --detach ../scholar-stats HEAD
+            git -C ../scholar-stats switch --orphan google-scholar-stats
+          fi
+          cp google_scholar_crawler/results/*.json ../scholar-stats/
+          git -C ../scholar-stats add gs_data.json gs_data_shieldsio.json
+          if ! git -C ../scholar-stats diff --cached --quiet; then
+            git -C ../scholar-stats commit -m "Update citation data"
+            git -C ../scholar-stats push origin HEAD:refs/heads/google-scholar-stats
+          fi

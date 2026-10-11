@@ -1,13 +1,27 @@
 from scholarly import scholarly
-import jsonpickle
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import os
+from pathlib import Path
+import re
+from urllib.parse import parse_qs, urlparse
 
-author: dict = scholarly.search_author_id(os.environ['GOOGLE_SCHOLAR_ID'])
+scholar_id = os.environ.get('GOOGLE_SCHOLAR_ID', '').strip()
+if not scholar_id:
+    config = (Path(__file__).resolve().parent.parent / '_config.yml').read_text()
+    profile = re.search(r'^\s*googlescholar\s*:\s*["\']([^"\']+)["\']', config, re.MULTILINE)
+    if profile:
+        scholar_id = parse_qs(urlparse(profile.group(1)).query).get('user', [''])[0]
+if not scholar_id:
+    raise ValueError('Configure a Google Scholar profile or GOOGLE_SCHOLAR_ID.')
+
+scholarly.set_timeout(30)
+scholarly.set_retries(2)
+author: dict = scholarly.search_author_id(scholar_id)
 scholarly.fill(author, sections=['basics', 'indices', 'counts', 'publications'])
-name = author['name']
-author['updated'] = str(datetime.now())
+if not isinstance(author.get('citedby'), int) or author['citedby'] < 0:
+    raise ValueError('Google Scholar did not return a valid citation count.')
+author['updated'] = datetime.now(timezone.utc).isoformat()
 author['publications'] = {v['author_pub_id']:v for v in author['publications']}
 print(json.dumps(author, indent=2))
 os.makedirs('results', exist_ok=True)

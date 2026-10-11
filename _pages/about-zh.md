@@ -7,8 +7,9 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前于<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与硕士阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
-我的研究聚兴趣是人机交互与类脑智能系统设计，重点围绕视觉表征学习、多模态情感理解、具身智能感知与交互，以及 AI4Science 展开，成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP 等国际会议与期刊。
+我目前是<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与研究生阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+
+我的研究兴趣是多模态表征学习与人机交互智能，重点探索如何从视觉、脑生理与环境感知数据中学习具有时空结构、跨模态一致性和跨个体泛化能力的表征，并支撑脑机接口、情感计算、具身智能等下游场景下可靠的人机状态理解与智能交互。相关成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP 等国际会议与期刊。获得研究生国家奖学金、攀登之星奖学金等多个奖项。
 
 <!-- 我持续参与学术组织建设，先后作为<a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)</a>、<a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">安徽省人工智能学会情感计算专委会</a>学生工作组组长。此外，我也关注技术的产业转化与真实场景落地，曾作为负责人获得中国国际“互联网+”大学生创新创业大赛<a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">国家级银奖</a>（产业赛道安徽省唯一）、ACM MM2026@多模态情感识别挑战赛MER-PS（生理信号）赛道冠军、IEEE MMTC'25 技术竞赛银奖等。 -->
 
@@ -158,7 +159,6 @@ redirect_from:
     <h2 class='selected-output-heading'>Papers</h2>
     <div class='selected-papers'>
 
-
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
       <h2>AI for Science</h2>
@@ -171,45 +171,43 @@ redirect_from:
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>Visual Representation Learning</h2>
+      <h2>Representation Learning for Brain-Inspired Intelligence</h2>
     </div>
     <ul class='selected-paper-list'>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, and Bing-kun Bao</em>, &ldquo;SAIN: A Hierarchical Dynamics-Aware EEG-fNIRS Framework for Continuous Affect Estimation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
       <li><span class='selected-paper-venue'>[ACM MM '25]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Dan Guo, Zhi Liu, and Meng Wang</em>, &ldquo;Learning from Heterogeneity: Generalizing Dynamic Facial Expression Recognition via Distributionally Robust Optimization,&rdquo; <em>ACM International Conference on Multimedia</em>, 2025. <strong>CCF A</strong></li>
-      <li><span class='selected-paper-venue'>[TIFS '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, and Meng Wang</em>, &ldquo;Toward Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling,&rdquo; <em>IEEE Transactions on Information Forensics and Security</em>, 2026.<strong>CCF A</strong></li>
-      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'>Sirui Zhao, Yubo Huang, Xinchen Yao, Zhengye Zhang, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Shiwei Wu, Enhong Chen</em>, &ldquo;DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TMM '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jie Zhang, Jinyang Huang, Anyang Tong, Ziyu Jia, Zhi Liu, Dan Guo, Meng Wang</em>, &ldquo;From Uncertainty to Certainty: A Robust Dynamic Facial Expression Recognition Framework via Dynamic Uncertainty Constraint Modeling, &rdquo; <em>IEEE Transactions on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[CogSci '26]</span> <em class='selected-authors'>Siying Tao, Jingjing Hu, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Xueliang Liu, and Dan Guo</em>, &ldquo;Band-Gated Identity-Disentangled Training for Cross-Subject Auditory Attention Decoding,&rdquo; <em>Annual Meeting of the Cognitive Science Society</em>, 2026. <strong>CCF B</strong></li>
       <li><span class='selected-paper-venue'>[ICME '26]</span> <em class='selected-authors'>Ji-Xuan He, Jia-Cheng Zhao, <strong>Feng-Qi Cui<sup>*</sup>(Corresponding author)</strong>, Jinyang Huang<sup>*</sup>, Yang Liu, Sirui Zhao, Meng Li, and Zhi Liu</em>, &ldquo;Dual-Path Learning based on Frequency Structural Decoupling and Regional-Aware Fusion for Low-Light Image Super-Resolution,&rdquo; <em>IEEE International Conference on Multimedia and Expo</em>, 2026. <strong>CCF B</strong></li>
-      <li><span class='selected-paper-venue'>[ICASSP '26]</span> <em class='selected-authors'>Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, and Dan Guo</em>, &ldquo;UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing</em>, 2026. <strong>CCF B</strong></li>
     </ul>
   </section>
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>Multimodal Affective Understanding</h2>
+      <h2>Multimodal Affective Intelligence</h2>
     </div>
     <ul class='selected-paper-list'>
       <li><span class='selected-paper-venue'>[TAFFC '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Kun Li, Zhi Liu, Meng Li, Ziyu Jia, Dan Guo, and Meng Wang</em>, &ldquo;PersoMoni: A Comprehensive Video-Based Benchmark Dataset for Fine-grained Personality Assessment with 15 Trait Dimensions,&rdquo; <em>IEEE Transactions on Affective Computing</em>, 2026. <strong>CCF B</strong></li>
-      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'>Sirui Zhao, Yu Bai, Jinyang Huang, Fangyuan Liu, <strong>Feng-Qi Cui</strong>, Xinqi Chen, Guo Cheng, Tong Xu, and Enhong Chen</em>, &ldquo;MEC<sup>2</sup>-TT: Multimodal Emotion Consistency Correction and Trajectory Tracking for Empathetic Dialogue Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
-      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, and Bing-kun Bao</em>, &ldquo;SAIN: A Hierarchical Dynamics-Aware EEG-fNIRS Framework for Continuous Affect Estimation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TIFS '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Anyang Tong, Jinyang Huang, Jie Zhang, Meng Li, Xin Yan, Linsheng Huang, Dan Guo, and Meng Wang</em>, &ldquo;Toward Trustworthy Dynamic Facial Expression Recognition via Information Bottleneck Modeling,&rdquo; <em>IEEE Transactions on Information Forensics and Security</em>, 2026.<strong>CCF A</strong></li>
       <li><span class='selected-paper-venue'>[TAAS '26]</span> <em class='selected-authors'>Xinhui Li, Hao Chen, Minchao Wu, Qingwei Song, Fan Li, Jinyang Huang, <strong>Feng-Qi Cui</strong>, and Zhao Lv</em>, &ldquo;MS<sup>2</sup>FL: Modality-shared and Modality-specific Feature Learning for Multimodal Emotion Recognition,&rdquo; <em>ACM Transactions on Autonomous and Adaptive Systems</em>, 2026. <strong>CCF B</strong></li>
-      <li><span class='selected-paper-venue'>[TCE '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, and Xiaokang Zhou</em>, &ldquo;Robust Low-Rank Sparse Framework for Video-Based Affective Computing,&rdquo; <em>IEEE Transactions on Consumer Electronics</em>, 2026.</li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'>Sirui Zhao, Yu Bai, Jinyang Huang, Fangyuan Liu, <strong>Feng-Qi Cui</strong>, Xinqi Chen, Guo Cheng, Tong Xu, and Enhong Chen</em>, &ldquo;MEC<sup>2</sup>-TT: Multimodal Emotion Consistency Correction and Trajectory Tracking for Empathetic Dialogue Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ACM MM '26]</span> <em class='selected-authors'>Sirui Zhao, Yubo Huang, Xinchen Yao, Zhengye Zhang, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Shiwei Wu, Enhong Chen</em>, &ldquo;DynaForcing: Overcoming Dynamic Collapse in Self-Forcing Distillation for Streaming Avatar Generation,&rdquo; <em>ACM International Conference on Multimedia</em>, 2026. <strong>CCF A</strong></li>
     </ul>
   </section>
 
   <section class='selected-paper-group'>
     <div class='selected-paper-group-heading'>
-      <h2>Embodied Intelligent Perception and Interaction</h2>
+      <h2>Human-Centered Embodied Intelligence</h2>
     </div>
     <ul class='selected-paper-list'>
-      <li><span class='selected-paper-venue'>[TMM '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jie Zhang, Jinyang Huang, Anyang Tong, Ziyu Jia, Zhi Liu, Dan Guo, Meng Wang</em>, &ldquo;From Uncertainty to Certainty: A Robust Dynamic Facial Expression Recognition Framework via Dynamic Uncertainty Constraint Modeling, &rdquo; <em>IEEE Transactions on Multimedia</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[TCE '26]</span> <em class='selected-authors'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Sirui Zhao, Xinyu Li, Xin Yan, Ziyu Jia, and Xiaokang Zhou</em>, &ldquo;Robust Low-Rank Sparse Framework for Video-Based Affective Computing,&rdquo; <em>IEEE Transactions on Consumer Electronics</em>, 2026.</li>
       <li><span class='selected-paper-venue'>[TDSC '26]</span> <em class='selected-authors'>Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui (Equal contribution)</strong>, Xiang Zhang, Zhi Liu, Xin Liu, Jianchun Liu, Fusang Zhang, and Meng Li</em>, &ldquo;Identifying who you are no matter what you write through abstracting handwriting style,&rdquo; <em>IEEE Transactions on Dependable and Secure Computing</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[ICASSP '26]</span> <em class='selected-authors'>Xing Yi, Jinyang Huang, <strong>Feng-Qi Cui</strong>, Anyang Tong, Ruimin Wang, Liu Liu, and Dan Guo</em>, &ldquo;UniGeo: A Unified 3D Indoor Object Detection Framework Integrating Geometry-Aware Learning and Dynamic Channel Gating,&rdquo; <em>IEEE International Conference on Acoustics, Speech and Signal Processing</em>, 2026. <strong>CCF B</strong></li>
       <li><span class='selected-paper-venue'>[UbiComp '26]</span> <em class='selected-authors'>Meng Wang, Jinyang Huang, Yuanhao Feng, <strong>Feng-Qi Cui</strong>, Meng Li, Xiaokang Zhou, and Fusang Zhang</em>, &ldquo;Sensing Without Borders: A Sensing-Centric Handover Scheme for Continuous WiFi Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
-      <li><span class='selected-paper-venue'>[IJCAI '26]</span> <em class='selected-authors'>Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, and Wenjing Chen</em>, &ldquo;PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space,&rdquo; <em>International Joint Conference on Artificial Intelligence</em>, 2026. <strong>CCF B</strong></li>
       <li><span class='selected-paper-venue'>[UbiComp '26]</span> <em class='selected-authors'>Xinyu Li, Jinyang Huang, Meng Wang, Peng Zhao, <strong>Feng-Qi Cui</strong>, Yuanhao Feng, Zheng Gong, Feiyu Han, Fusang Zhang</em>, &ldquo;Hiding Identity, Preserving Respiration: Semantic-Decoupled Privacy Protection for mmWave Radar Sensing,&rdquo; <em>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>, 2026. <strong>CCF A</strong></li>
+      <li><span class='selected-paper-venue'>[IJCAI '26]</span> <em class='selected-authors'>Changlin Chen, Sisheng Chen, Hang Zhang, Xianglai Zhou, Zhen Tian, Weitao Liu, <strong>Feng-Qi Cui</strong>, Erbao Dong, and Wenjing Chen</em>, &ldquo;PECHC: Robust Tactile Grasping Stabilization in Vision-Denied Peripersonal Space,&rdquo; <em>International Joint Conference on Artificial Intelligence</em>, 2026. <strong>CCF B</strong></li>
     </ul>
   </section>
-
-<!--
-  <p class='selected-papers-note'><sup>*</sup> 共同一作。</p> -->
     </div>
   </section>
 
@@ -219,9 +217,9 @@ redirect_from:
     <div class='selected-patents'>
       <ul class='selected-patent-list'>
         <li><span class='selected-paper-venue'>[CN122432305B]</span> <em class='selected-authors'>杨毅、黄锦阳、袁非、<strong>崔丰麒</strong>、蔡骐璠、王俊杰、李萌、郭丹、汪萌</em>，基于大模型的多模态情感计算智能问询系统及方法，发明专利，授权。</li>
+        <li><span class='selected-paper-venue'>[CN120877354B]</span> <em class='selected-authors'>黄锦阳、郭宇章、赵嘉铖、<strong>崔丰麒</strong>、郑天越、郭丹、汪萌</em>，一种基于面部关键点时空特征融合的情绪检测方法，发明专利，授权。</li>
         <li><span class='selected-paper-venue'>[CN117874205B]</span> <em class='selected-authors'>孙晓、张奥远、董腾腾、<strong>崔丰麒</strong>、汪萌</em>，基于多轮对话的数字化病人对话生成方法和系统，发明专利，授权。</li>
         <li><span class='selected-paper-venue'>[CN117633629B]</span> <em class='selected-authors'>孙晓、王坤、董腾腾、<strong>崔丰麒</strong>、汪萌</em>，基于微博情感序列的情感异常检测方法和系统，发明专利，授权。</li>
-        <li><span class='selected-paper-venue'>[CN120877354B]</span> <em class='selected-authors'>黄锦阳、郭宇章、赵嘉铖、<strong>崔丰麒</strong>、郑天越、郭丹、汪萌</em>，一种基于面部关键点时空特征融合的情绪检测方法，发明专利，授权。</li>
         <li><span class='selected-paper-venue'>[CN118888146B]</span> <em class='selected-authors'>李明政、孙晓、王新科、<strong>崔丰麒</strong>、汪萌</em>，一种基于因果表征学习的抑郁症严重程度评估方法及系统，发明专利，授权。</li>
       </ul>
     </div>

@@ -26,9 +26,7 @@ redirect_from:
 -->
 
 I am a Ph.D. student in Artificial Intelligence at the School of Information Science and Technology, <a class="intro-link" href="https://en.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>, affiliated with the <a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">National Engineering Laboratory for Brain-inspired Intelligence Technology and Application</a> and advised by Prof. <a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">Xuejin Chen</a>. During my undergraduate and master's training, I undertook research internships and joint training with Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">Meng Wang (IEEE/IAPR Fellow)</a>'s group at the Institute of Artificial Intelligence, Hefei Comprehensive National Science Center, advised by Assoc. Prof. <a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">Jinyang Huang</a> and Prof. <a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">Dan Guo</a>. I received my B.Eng. in Microelectronics from <a class="intro-link" href="https://www.hfut.edu.cn/">Hefei University of Technology</a> in 2024.
-My research focuses on human-computer interaction and brain-inspired intelligent system design: visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My work has appeared in Nature Communications, PNAS Nexus, ACM MM/<wbr>UbiComp/<wbr>TAAS, and IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP. I hold ten granted Chinese invention patents.
-
-I contribute to the academic community and have led student working groups at the <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines (Director: Prof. Meng Wang)</a> and the <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Affective Computing Committee of the Anhui Society for Artificial Intelligence</a>. I also pursue technology translation and real-world applications. As project lead, I received a <a class="intro-link" href="https://www.paddlepaddle.org.cn/support/news?action=detail&id=3262#:~:text=%E5%9B%A2%E9%98%9F%E4%BE%9D%E6%89%98%E5%90%88%E8%82%A5%E5%B7%A5%E4%B8%9A,%E5%BA%A7%E8%88%B1%E9%A2%86%E5%9F%9F%E7%9A%84%E5%BA%94%E7%94%A8%E3%80%82">National Silver Award</a> at the China International College Students' "Internet+" Innovation and Entrepreneurship Competition (the only national silver award in Anhui's industry track), won 1st Place in the MER-PS (Physiological Signal) Track at the ACM MM 2026@MER Challenge, and received the IEEE MMTC'25 Technology Competition Silver Award. I am a Co-founder of <a class="intro-link" href="https://github.com/XShengTech">XSheng Tech</a>, where we build high-performance computing and intelligent R&D infrastructure for foundation models. Our open-source <a class="intro-link" href="https://docs.megrez.xsheng-ai.com/about/">MEGREZ platform</a> serves more than ten research institutions and companies. We welcome users and collaborators.
+My research focuses on human-computer interaction and brain-inspired intelligent system design: visual representation learning, multimodal affective understanding, embodied perception and interaction, and AI for Science. My work has appeared in Nature Communications, PNAS Nexus, ACM MM/<wbr>UbiComp/<wbr>TAAS, and IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP.
 
 <div class='cv-overview cv-overview--education-news cv-overview--en'>
   <section class='cv-section cv-section--education cv-section--education-en'>
@@ -124,16 +122,19 @@ I contribute to the academic community and have led student working groups at th
     <section class='honors-group' aria-label='Student and university honors'>
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
-        <strong>National Scholarship for Graduate Students</strong>
+        2026 University of Science and Technology of China, <strong>National Scholarship for Graduate Students</strong>
       </li>
       <li>
-        Hefei University of Technology, <strong>Top Ten Outstanding Students</strong>
+        2023 Hefei University of Technology, <strong>Top Ten Outstanding Students</strong>
       </li>
       <li>
-        The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
+        2022 The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
       </li>
       <li>
-        CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong>
+        2023 China International College Students' Innovation Competition, <strong>National Bronze Award</strong>
+      </li>
+      <li>
+        2024 CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong>
       </li>
       <li>
         Baidu PaddlePaddle Developer Expert (PPDE)
@@ -151,7 +152,13 @@ I contribute to the academic community and have led student working groups at th
         <em>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>
-        Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ, ACM MM, IEEE ICME, MMM, etc.
+        <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Student Working Group Member, Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines (Director: Prof. Meng Wang)</a>
+      </li>
+      <li>
+        <a class="intro-link" href="https://mp.weixin.qq.com/s/MoqfF9hM8sZ9bcDRqEJrpA">Head of the Student Working Group, Affective Computing Committee of the Anhui Society for Artificial Intelligence (2024-2025)</a>
+      </li>
+      <li>
+        Reviewer: IEEE TAFFC, IEEE TMM, IEEE TCSVT, IEEE OJCS, IEEE IoTJ, ACM MM, IEEE ICME, etc.
       </li>
       </ul>
     </section>

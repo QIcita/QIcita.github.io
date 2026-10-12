@@ -121,14 +121,14 @@ My research focuses on multimodal representation learning and intelligent human-
         2023 Hefei University of Technology, <strong>Top Ten Outstanding Students</strong>
       </li>
       <li>
-        2022 The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>
+        2022 The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>, Project Leader
       </li>
-      <li>
+      <!-- <li>
         2023 China International College Students' Innovation Competition, <strong>National Bronze Award</strong>
-      </li>
-      <li>
+      </li> -->
+      <!-- <li>
         2024 CCF First Ubiquitous Intelligent Perception Technology Innovation Competition, <strong>Second Prize</strong>
-      </li>
+      </li> -->
       <li>
         Baidu PaddlePaddle Developer Expert (PPDE)
       </li>
@@ -138,11 +138,11 @@ My research focuses on multimodal representation learning and intelligent human-
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
         ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track, <strong>1st Place</strong><br>
-        <em><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
+        <em class='honor-team'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
       </li>
       <li>
         IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong><br>
-        <em>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
+        <em class='honor-team'>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>
         <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">Student Working Group Member, Anhui Provincial Key Laboratory of Affective Computing and Advanced Intelligent Machines (Director: Prof. Meng Wang)</a>

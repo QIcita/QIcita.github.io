@@ -112,14 +112,14 @@ redirect_from:
         2023 合肥工业大学<strong>十佳大学生</strong>
       </li>
       <li>
-        2022 第八届中国国际“互联网+”大学生创新创业大赛，<strong>国家银奖</strong>
+        2022 第八届中国国际“互联网+”大学生创新创业大赛，<strong>国家银奖</strong>，项目负责人
       </li>
-      <li>
+      <!-- <li>
         2023 中国国际大学生创新大赛，<strong>国家铜奖</strong>
-      </li>
-      <li>
+      </li> -->
+      <!-- <li>
         2024 CCF 首届泛在智能感知技术创新应用大赛，<strong>二等奖</strong>
-      </li>
+      </li> -->
       <li>
         百度飞桨开发者技术专家（PPDE）
       </li>
@@ -129,11 +129,11 @@ redirect_from:
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
        ACM MM 2026 多模态情感识别挑战赛（MER CHALLENGE@ACM MM 2026），生理信号赛道，<strong>冠军</strong> <br>
-       <em><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
+       <em class='honor-team'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
       </li>
       <li>
         IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong> <br>
-        <em>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
+        <em class='honor-team'>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>
       <a class="intro-link" href="https://aflab.hfut.edu.cn/sysgk/zzjg.htm">情感计算与先进智能机器安徽省重点实验室 (主任：汪萌教授)，学生工作组成员</a>

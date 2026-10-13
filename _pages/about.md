@@ -116,13 +116,13 @@ My research focuses on multimodal representation learning and intelligent human-
     <section class='honors-group' aria-label='Student and university honors'>
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
-        2026 University of Science and Technology of China, <strong>National Scholarship for Graduate Students</strong>
+        <strong>National Scholarship for Graduate Students</strong>, University of Science and Technology of China, 2026
       </li>
       <li>
-        2023 Hefei University of Technology, <strong>Top Ten Outstanding Students</strong>
+        <strong>Top Ten Outstanding Students</strong>, Hefei University of Technology, 2023
       </li>
       <li>
-        2022 The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, <strong>National Silver Award</strong>, Project Leader
+        <strong>National Silver Award</strong>, The 8th China International College Students' "Internet+" Innovation and Entrepreneurship Competition, 2022, Project Leader
       </li>
       <!-- <li>
         2023 China International College Students' Innovation Competition, <strong>National Bronze Award</strong>
@@ -138,11 +138,11 @@ My research focuses on multimodal representation learning and intelligent human-
     <section class='honors-group' aria-label='Academic awards and services'>
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
-        ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track, <strong>1st Place</strong><br>
+        <strong>1st Place</strong>, ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track<br>
         <em class='honor-team'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
       </li>
       <li>
-        IEEE Communications Society MMTC 2025 Technology Competition, <strong>Silver Award</strong><br>
+        <strong>Silver Award</strong>, IEEE Communications Society MMTC 2025 Technology Competition<br>
         <em class='honor-team'>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>

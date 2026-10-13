@@ -415,6 +415,21 @@
     vertical-align: top;
   }
 
+  .cv-section--honors .honor-certificate {
+    color: inherit;
+    font-size: 0.88em;
+    font-weight: 400;
+    white-space: nowrap;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 3px;
+    }
+  }
+
   .news-window {
     max-height: 175px;
     margin: 0 0 2rem;

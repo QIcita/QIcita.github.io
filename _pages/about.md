@@ -138,11 +138,11 @@ My research focuses on multimodal representation learning and intelligent human-
     <section class='honors-group' aria-label='Academic awards and services'>
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
-        <strong>1st Place</strong>, ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track<br>
+        <strong>1st Place</strong>, ACM MM 2026 Multimodal Emotion Recognition Challenge (MER Challenge@ACM MM 2026), Physiological Signal Track <a class='honor-certificate' href='{{ "/_pages/images/mer26.png" | relative_url }}' target='_blank' rel='noopener' aria-label='View MER 2026 first-place certificate'>[Certificate]</a><br>
         <em class='honor-team'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
       </li>
       <li>
-        <strong>Silver Award</strong>, IEEE Communications Society MMTC 2025 Technology Competition<br>
+        <strong>Silver Award</strong>, IEEE Communications Society MMTC 2025 Technology Competition <a class='honor-certificate' href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target='_blank' rel='noopener' aria-label='View MMTC 2025 silver-award certificate'>[Certificate]</a><br>
         <em class='honor-team'>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>

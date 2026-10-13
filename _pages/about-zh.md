@@ -129,11 +129,11 @@ redirect_from:
     <section class='honors-group' aria-label='学术奖项与服务'>
       <ul class='cv-compact-list cv-compact-list--clean'>
       <li>
-       ACM MM 2026 多模态情感识别挑战赛（MER CHALLENGE@ACM MM 2026），生理信号赛道，<strong>冠军</strong> <br>
+       ACM MM 2026 多模态情感识别挑战赛（MER CHALLENGE@ACM MM 2026），生理信号赛道，<strong>冠军</strong> <a class='honor-certificate' href='{{ "/_pages/images/mer26.png" | relative_url }}' target='_blank' rel='noopener' aria-label='查看 MER 2026 冠军证书'>[证书]</a><br>
        <em class='honor-team'><strong>Feng-Qi Cui</strong>, Jinyang Huang, Jia-Cheng Zhao, Sirui Zhao, Yi Yang, Dan Guo, Xiaokang Zhou, Zhun Zhong, Fusang Zhang, Jianwei Lu, Meng Li, Bing-Kun Bao</em>
       </li>
       <li>
-        IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong> <br>
+        IEEE Communications Society MMTC 2025 Technology Competition，<strong>银奖</strong> <a class='honor-certificate' href='{{ "/_pages/images/mmtc25.png" | relative_url }}' target='_blank' rel='noopener' aria-label='查看 MMTC 2025 银奖证书'>[证书]</a><br>
         <em class='honor-team'>Dan Guo, Jinyang Huang, Jing Zhang, Wei Qian, Zhangbin Li, Siying Tao, <strong>Feng-Qi Cui</strong>, Meng Wang</em>
       </li>
       <li>

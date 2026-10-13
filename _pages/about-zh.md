@@ -152,7 +152,7 @@ redirect_from:
 
 <span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
-# Selected Research Outputs
+# Selected Publications
 
 <div class='selected-outputs'>
   <section class='selected-output-section'>

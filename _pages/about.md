@@ -161,8 +161,7 @@ My research focuses on multimodal representation learning and intelligent human-
 
 <span class='anchor' id='selected-research-outputs'></span>
 <span class='anchor' id='selected-papers'></span>
-# Selected Research Outputs
-
+# Selected Publications
 <div class='selected-outputs'>
   <section class='selected-output-section'>
     <h2 class='selected-output-heading'>Papers</h2>

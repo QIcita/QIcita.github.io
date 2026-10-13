@@ -6,7 +6,7 @@ main_en:
   - title: "News"
     url: "/en/#news"
 
-  - title: "Selected Research Outputs"
+  - title: "Research"
     url: "/en/#selected-research-outputs"
 
   - title: "Honors"
@@ -15,9 +15,6 @@ main_en:
   - title: "Services"
     url: "/en/#academic-services"
 
-  - title: "Talk"
-    url: "/en/#talk"
-
 main_zh:
   - title: "About"
     url: "/#about-me"
@@ -25,7 +22,7 @@ main_zh:
   - title: "News"
     url: "/#news"
 
-  - title: "Selected Research Outputs"
+  - title: "Research"
     url: "/#selected-research-outputs"
 
   - title: "Honors"

@@ -18,7 +18,18 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name">{{ author.name }}</h3>
+    {% if profile_at_top %}
+      <div class="author__heading">
+        <h3 class="author__name">{{ author.name }}</h3>
+        {% if page.lang == 'zh' %}
+          <a class="author__language" href="{{ '/en/' | relative_url }}" lang="en" hreflang="en" aria-label="Switch to English">English</a>
+        {% else %}
+          <a class="author__language" href="{{ '/' | relative_url }}" lang="zh-CN" hreflang="zh-CN" aria-label="切换到中文版">中文版</a>
+        {% endif %}
+      </div>
+    {% else %}
+      <h3 class="author__name">{{ author.name }}</h3>
+    {% endif %}
     {% if profile_at_top and site.description %}<p class="author__role">{{ site.description }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>

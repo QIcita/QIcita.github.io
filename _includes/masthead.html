@@ -21,6 +21,7 @@
           {% for link in site.data.navigation[menu_key] %}
             <li class="masthead__menu-item"><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
           {% endfor %}
+          {% unless page.permalink == '/' or page.permalink == '/en/' %}
           <li class="masthead__menu-item masthead__menu-item--lang">
             <span class="lang-switch">
               <a class="{% unless is_zh %}is-active{% endunless %}" href="{{ '/en/#about-me' | relative_url }}">En</a>
@@ -28,6 +29,7 @@
               <a class="{% if is_zh %}is-active{% endif %}" href="{{ '/#about-me' | relative_url }}">中文</a>
             </span>
           </li>
+          {% endunless %}
         </ul>
         <ul class="hidden-links hidden"></ul>
       </nav>

@@ -109,7 +109,7 @@
 
   .profile_box {
     display: grid;
-    grid-template-columns: 112px minmax(220px, 1fr) minmax(340px, 1.2fr);
+    grid-template-columns: 112px minmax(260px, 1fr) minmax(300px, 1.1fr);
     align-items: center;
     text-align: left;
     gap: 2rem;
@@ -136,6 +136,32 @@
     font-family: inherit;
     font-size: 1.8rem;
     font-weight: 600;
+    margin: 0;
+  }
+
+  .author__heading {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.3rem 0.8rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .author__language {
+    color: #356f98;
+    font-size: 0.85rem;
+    font-weight: 500;
+    line-height: 1.4;
+    white-space: nowrap;
+    text-decoration: none;
+
+    &:hover { text-decoration: underline; }
+
+    &:focus-visible {
+      outline: 2px solid currentColor;
+      outline-offset: 4px;
+      border-radius: 2px;
+    }
   }
 
   .author__role {
@@ -549,6 +575,8 @@
 
     .author__avatar img { max-width: 88px; }
     .profile-header .author__name { font-size: 1.35rem; }
+    .author__heading { column-gap: 0.65rem; }
+    .author__language { font-size: 0.8rem; }
     .author__role { font-size: 0.85rem; margin-bottom: 0.4rem; }
     .author__bio { font-size: 0.8rem; }
 

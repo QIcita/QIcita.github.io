@@ -7,7 +7,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-我目前是<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授。本科与研究生阶段先后在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
+我目前是<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授，同时在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
 我的研究兴趣是多模态表征学习与人机交互智能，重点探索如何从视觉、脑生理与环境感知数据中学习具有时空结构、跨模态一致性和跨个体泛化能力的表征，并支撑脑机接口、情感计算、具身智能等下游场景下可靠的人机状态理解与智能交互。相关成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP {% include scholar_citation_badge.html %}等国际会议与期刊。获得研究生国家奖学金、攀登之星奖学金等多个奖项。
 

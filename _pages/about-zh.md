@@ -41,8 +41,8 @@ redirect_from:
           <div class='cv-main'>
             <div class='cv-title'>合肥综合性国家科学中心人工智能研究院</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>联合培养</div>
-              <div class='cv-time'>2024.09 - 2026.06</div>
+              <div class='cv-subtitle'>Intern & 联合培养</div>
+              <div class='cv-time'>2022.12 - 2026.06</div>
             </div>
           </div>
         </div>

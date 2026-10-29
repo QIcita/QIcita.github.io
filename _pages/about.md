@@ -50,8 +50,8 @@ My research focuses on multimodal representation learning and intelligent human-
           <div class='cv-main'>
             <div class='cv-title'>Institute of Artificial Intelligence, Hefei Comprehensive National Science Center</div>
             <div class='cv-meta-row'>
-              <div class='cv-subtitle'>Joint Training Program</div>
-              <div class='cv-time'>Sep. 2024 - Jun. 2026</div>
+              <div class='cv-subtitle'>Research Internship &amp; Joint Training</div>
+              <div class='cv-time'>Dec. 2022 - Jun. 2026</div>
             </div>
           </div>
         </div>

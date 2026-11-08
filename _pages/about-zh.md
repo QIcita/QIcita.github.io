@@ -20,7 +20,7 @@ redirect_from:
 
 我目前是<a class="intro-link" href="https://ustc.edu.cn/">中国科学技术大学</a>信息科学技术学院人工智能专业博士在读，隶属于<a class="intro-link" href="https://leinao.ustc.edu.cn/main.htm">类脑智能技术及应用国家工程实验室</a>，导师是<a class="intro-link" href="https://faculty.ustc.edu.cn/xuejinchen/zh_CN/index.htm">陈雪锦</a>教授，同时在合肥综合性国家科学中心人工智能研究院<a class="intro-link" href="https://faculty.hfut.edu.cn/wm12/zh_CN/index.htm">汪萌（IEEE/IAPR Fellow）</a>教授团队科研实习与联合培养，并由<a class="intro-link" href="https://happyisac.github.io/PersonHomePage/">黄锦阳</a>副教授和<a class="intro-link" href="https://faculty.hfut.edu.cn/gd/zh_CN/index.htm">郭丹</a>教授指导；2024年本科毕业于<a class="intro-link" href="https://www.hfut.edu.cn/">合肥工业大学</a>微电子学专业。
 
-<p class='research-intro' id='research-intro'>我的研究聚焦<strong>多模态感知与认知</strong>，重点关注空间感知与推理、情感与认知建模，以及神经结构与功能解析。围绕这些问题，我探索复杂数据的结构化表征、跨模态信息交互与鲁棒学习，并关注空间理解与情感认知在具身交互中的融合，使智能系统能够更好地理解环境与人，并作出适应性的响应。</p>
+<p class='research-intro' id='research-intro'>我的研究兴趣是构建具有空间理解与情感认知能力的智能体，探索如何结合三维空间推理与基于视觉、生理信号的情感、人格和认知建模，使交互能够适应环境变化与个体差异，并通过对神经结构与功能的研究，探索感知和认知机制对智能体设计的启发。</p>
 
 相关成果先后发表于 Nature Communications、PNAS Nexus、ACM MM/<wbr>UbiComp/<wbr>TAAS、IEEE TMM/<wbr>TIFS/<wbr>TDSC/<wbr>TAFFC/<wbr>TCE/<wbr>TGRS/<wbr>ICME/<wbr>ICASSP {% include scholar_citation_badge.html %}等国际会议与期刊。获得研究生国家奖学金、攀登之星奖学金等多个奖项。
 
